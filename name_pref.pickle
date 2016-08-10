@@ -1,0 +1,152 @@
+(lp0
+(VBoston Celtics
+p1
+S'bos'
+p2
+tp3
+a(VBrooklyn Nets
+p4
+S'bkn'
+p5
+tp6
+a(VNew York Knicks
+p7
+S'ny'
+p8
+tp9
+a(VPhiladelphia 76ers
+p10
+S'phi'
+p11
+tp12
+a(VToronto Raptors
+p13
+S'tor'
+p14
+tp15
+a(VGolden State Warriors
+p16
+S'gs'
+p17
+tp18
+a(VLA Clippers
+p19
+S'lac'
+p20
+tp21
+a(VLos Angeles Lakers
+p22
+S'lal'
+p23
+tp24
+a(VPhoenix Suns
+p25
+S'phx'
+p26
+tp27
+a(VSacramento Kings
+p28
+S'sac'
+p29
+tp30
+a(VChicago Bulls
+p31
+S'chi'
+p32
+tp33
+a(VCleveland Cavaliers
+p34
+S'cle'
+p35
+tp36
+a(VDetroit Pistons
+p37
+S'det'
+p38
+tp39
+a(VIndiana Pacers
+p40
+S'ind'
+p41
+tp42
+a(VMilwaukee Bucks
+p43
+S'mil'
+p44
+tp45
+a(VDallas Mavericks
+p46
+S'dal'
+p47
+tp48
+a(VHouston Rockets
+p49
+S'hou'
+p50
+tp51
+a(VMemphis Grizzlies
+p52
+S'mem'
+p53
+tp54
+a(VNew Orleans Pelicans
+p55
+S'no'
+p56
+tp57
+a(VSan Antonio Spurs
+p58
+S'sa'
+p59
+tp60
+a(VAtlanta Hawks
+p61
+S'atl'
+p62
+tp63
+a(VCharlotte Hornets
+p64
+S'cha'
+p65
+tp66
+a(VMiami Heat
+p67
+S'mia'
+p68
+tp69
+a(VOrlando Magic
+p70
+S'orl'
+p71
+tp72
+a(VWashington Wizards
+p73
+S'wsh'
+p74
+tp75
+a(VDenver Nuggets
+p76
+S'den'
+p77
+tp78
+a(VMinnesota Timberwolves
+p79
+S'min'
+p80
+tp81
+a(VOklahoma City Thunder
+p82
+S'okc'
+p83
+tp84
+a(VPortland Trail Blazers
+p85
+S'por'
+p86
+tp87
+a(VUtah Jazz
+p88
+S'utah'
+p89
+tp90
+a.
