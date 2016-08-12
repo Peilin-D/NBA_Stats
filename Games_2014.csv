@@ -1,1231 +1,1231 @@
 match_id,date,home_team,visit_team,home_score,visit_score
-400488879,2014-10-30 00:00:00,Toronto Raptors,Boston Celtics,93,87
-400488897,2014-11-01 00:00:00,Boston Celtics,Milwaukee Bucks,98,105
-400488914,2014-11-03 00:00:00,Detroit Pistons,Boston Celtics,87,77
-400488922,2014-11-04 00:00:00,Memphis Grizzlies,Boston Celtics,95,88
-400488937,2014-11-06 00:00:00,Boston Celtics,Utah Jazz,97,87
-400488948,2014-11-08 00:00:00,Orlando Magic,Boston Celtics,89,91
-400488962,2014-11-09 00:00:00,Miami Heat,Boston Celtics,110,111
-400488974,2014-11-11 00:00:00,Boston Celtics,Orlando Magic,120,105
-400488986,2014-11-13 00:00:00,Boston Celtics,Charlotte Hornets,83,89
-400489001,2014-11-15 00:00:00,Boston Celtics,Portland Trail Blazers,96,109
-400489015,2014-11-16 00:00:00,Minnesota Timberwolves,Boston Celtics,106,88
-400489032,2014-11-19 00:00:00,Houston Rockets,Boston Celtics,109,85
-400489043,2014-11-20 00:00:00,San Antonio Spurs,Boston Celtics,104,93
-400489052,2014-11-22 00:00:00,Boston Celtics,Indiana Pacers,82,97
-400489063,2014-11-23 00:00:00,Atlanta Hawks,Boston Celtics,87,94
-400489075,2014-11-25 00:00:00,Charlotte Hornets,Boston Celtics,86,96
-400489090,2014-11-27 00:00:00,Boston Celtics,Memphis Grizzlies,93,100
-400489105,2014-11-29 00:00:00,Boston Celtics,Cleveland Cavaliers,103,86
-400489120,2014-11-30 00:00:00,Milwaukee Bucks,Boston Celtics,92,85
-400489135,2014-12-03 00:00:00,Boston Celtics,Milwaukee Bucks,108,100
-400489156,2014-12-06 00:00:00,Boston Celtics,Denver Nuggets,106,98
-400489172,2014-12-08 00:00:00,New York Knicks,Boston Celtics,73,114
-400489187,2014-12-10 00:00:00,Brooklyn Nets,Boston Celtics,104,96
-400489192,2014-12-11 00:00:00,Boston Celtics,LA Clippers,88,96
-400489206,2014-12-13 00:00:00,Boston Celtics,New York Knicks,90,86
-400489231,2014-12-16 00:00:00,Boston Celtics,Minnesota Timberwolves,101,97
-400489246,2014-12-18 00:00:00,Boston Celtics,Detroit Pistons,106,107
-400489266,2014-12-21 00:00:00,Boston Celtics,Washington Wizards,99,106
-400489277,2014-12-22 00:00:00,Indiana Pacers,Boston Celtics,106,79
-400489309,2014-12-28 00:00:00,Boston Celtics,Cleveland Cavaliers,103,100
-400489333,2014-12-31 00:00:00,Boston Celtics,Atlanta Hawks,91,92
-400489348,2015-01-02 00:00:00,Chicago Bulls,Boston Celtics,94,82
-400489357,2015-01-03 00:00:00,Boston Celtics,New Orleans Pelicans,92,95
-400489375,2015-01-05 00:00:00,Oklahoma City Thunder,Boston Celtics,119,96
-400489390,2015-01-07 00:00:00,Denver Nuggets,Boston Celtics,129,98
-400489401,2015-01-08 00:00:00,LA Clippers,Boston Celtics,111,105
-400489414,2015-01-10 00:00:00,Golden State Warriors,Boston Celtics,99,97
-400489424,2015-01-11 00:00:00,Portland Trail Blazers,Boston Celtics,112,104
-400489429,2015-01-13 00:00:00,Boston Celtics,Houston Rockets,92,104
-400489442,2015-01-15 00:00:00,Boston Celtics,Toronto Raptors,88,83
-400489459,2015-01-17 00:00:00,Boston Celtics,Los Angeles Lakers,104,107
-400489475,2015-01-19 00:00:00,Orlando Magic,Boston Celtics,93,91
-400489490,2015-01-21 00:00:00,Miami Heat,Boston Celtics,93,86
-400489498,2015-01-22 00:00:00,Washington Wizards,Boston Celtics,111 OT,113
-400489509,2015-01-24 00:00:00,Boston Celtics,Oklahoma City Thunder,83,101
-400489531,2015-01-26 00:00:00,Boston Celtics,Brooklyn Nets,79,85
-400489543,2015-01-28 00:00:00,New York Knicks,Boston Celtics,114,88
-400489551,2015-01-29 00:00:00,Boston Celtics,Philadelphia 76ers,94,95
-400489582,2015-02-02 00:00:00,Boston Celtics,Orlando Magic,96,89
-400489599,2015-02-05 00:00:00,Philadelphia 76ers,Boston Celtics,108,114
-400489616,2015-02-07 00:00:00,Boston Celtics,Sacramento Kings,99,89
-400489631,2015-02-09 00:00:00,Boston Celtics,Dallas Mavericks,91,102
-400489640,2015-02-10 00:00:00,Milwaukee Bucks,Boston Celtics,86,102
-400489653,2015-02-12 00:00:00,Boston Celtics,San Antonio Spurs,92,104
-400489680,2015-02-19 00:00:00,Phoenix Suns,Boston Celtics,100,94
-400489697,2015-02-21 00:00:00,Los Angeles Lakers,Boston Celtics,101,92
-400489704,2015-02-22 00:00:00,Sacramento Kings,Boston Celtics,105,98
-400489718,2015-02-24 00:00:00,Utah Jazz,Boston Celtics,110,98
-400489727,2015-02-26 00:00:00,Boston Celtics,Atlanta Hawks,115,104
-400489750,2015-03-01 00:00:00,Boston Celtics,Indiana Pacers,97,102
-400489780,2015-03-05 00:00:00,Boston Celtics,Golden State Warriors,88,108
-400489793,2015-03-07 00:00:00,Boston Celtics,Brooklyn Nets,91,84
-400489810,2015-03-09 00:00:00,Boston Celtics,Detroit Pistons,118,111
-400489823,2015-03-11 00:00:00,Indiana Pacers,Boston Celtics,94,83
-400489835,2015-03-12 00:00:00,Boston Celtics,New York Knicks,92,116
-400489848,2015-03-14 00:00:00,Boston Celtics,Phoenix Suns,80,87
-400489863,2015-03-16 00:00:00,New Orleans Pelicans,Boston Celtics,121,120 OT
-400489874,2015-03-17 00:00:00,Dallas Mavericks,Boston Celtics,94,89
-400489882,2015-03-19 00:00:00,Boston Celtics,Miami Heat,101,96
-400489899,2015-03-21 00:00:00,Brooklyn Nets,Boston Celtics,114,98
-400489936,2015-03-26 00:00:00,Boston Celtics,Toronto Raptors,90,99
-400489949,2015-03-28 00:00:00,Toronto Raptors,Boston Celtics,105,103
-400489970,2015-03-30 00:00:00,Boston Celtics,Chicago Bulls,102,107
-400489979,2015-03-31 00:00:00,Chicago Bulls,Boston Celtics,94,80
-400489992,2015-04-02 00:00:00,Washington Wizards,Boston Celtics,118,92
-400490006,2015-04-04 00:00:00,Boston Celtics,Philadelphia 76ers,102,111
-400490019,2015-04-05 00:00:00,Detroit Pistons,Boston Celtics,115,111
-400490039,2015-04-09 00:00:00,Atlanta Hawks,Boston Celtics,105,97
-400490051,2015-04-11 00:00:00,Boston Celtics,Charlotte Hornets,106,103
-400490066,2015-04-12 00:00:00,Cleveland Cavaliers,Boston Celtics,99,111
-400490077,2015-04-14 00:00:00,Philadelphia 76ers,Boston Celtics,113,108
-400490095,2015-04-16 00:00:00,Boston Celtics,Washington Wizards,102,118
-400488877,2014-10-30 00:00:00,Cleveland Cavaliers,Brooklyn Nets,98,94
-400488901,2014-11-01 00:00:00,Brooklyn Nets,Miami Heat,101,100
-400488916,2014-11-03 00:00:00,Orlando Magic,Brooklyn Nets,107,86
-400488925,2014-11-05 00:00:00,Brooklyn Nets,Utah Jazz,104,88
-400488950,2014-11-08 00:00:00,Washington Wizards,Brooklyn Nets,112,108 OT
-400488960,2014-11-09 00:00:00,Brooklyn Nets,Indiana Pacers,91,96
-400488994,2014-11-13 00:00:00,Sacramento Kings,Brooklyn Nets,107,86
-400489005,2014-11-15 00:00:00,Phoenix Suns,Brooklyn Nets,98 OT,100
-400489019,2014-11-16 00:00:00,LA Clippers,Brooklyn Nets,110,103
-400489023,2014-11-18 00:00:00,Brooklyn Nets,Portland Trail Blazers,98,108
-400489034,2014-11-20 00:00:00,Charlotte Hornets,Brooklyn Nets,95,91
-400489055,2014-11-22 00:00:00,Minnesota Timberwolves,Brooklyn Nets,111,81
-400489070,2014-11-24 00:00:00,Brooklyn Nets,Detroit Pistons,97,109
-400489084,2014-11-26 00:00:00,Toronto Raptors,Brooklyn Nets,100,102
-400489091,2014-11-27 00:00:00,Brooklyn Nets,Los Angeles Lakers,94,99
-400489107,2014-11-29 00:00:00,Houston Rockets,Brooklyn Nets,114,95
-400489116,2014-11-30 00:00:00,Memphis Grizzlies,Brooklyn Nets,88,97
-400489136,2014-12-03 00:00:00,Brooklyn Nets,Denver Nuggets,87,111
-400489150,2014-12-05 00:00:00,Brooklyn Nets,New York Knicks,83,113
-400489168,2014-12-07 00:00:00,Milwaukee Bucks,Brooklyn Nets,82,90
-400489200,2014-12-12 00:00:00,Brooklyn Nets,LA Clippers,102,93
-400489207,2014-12-13 00:00:00,Detroit Pistons,Brooklyn Nets,103,99
-400489232,2014-12-16 00:00:00,Brooklyn Nets,Philadelphia 76ers,130,94
-400489247,2014-12-18 00:00:00,Brooklyn Nets,Washington Wizards,107,113
-400489256,2014-12-20 00:00:00,Philadelphia 76ers,Brooklyn Nets,121,120 OT
-400489283,2014-12-23 00:00:00,Brooklyn Nets,Indiana Pacers,86,103
-400489291,2014-12-25 00:00:00,Brooklyn Nets,Chicago Bulls,78,95
-400489302,2014-12-27 00:00:00,Brooklyn Nets,Milwaukee Bucks,104,93
-400489310,2014-12-28 00:00:00,Indiana Pacers,Brooklyn Nets,105,91
-400489338,2014-12-31 00:00:00,San Antonio Spurs,Brooklyn Nets,113,92
-400489349,2015-01-02 00:00:00,Oklahoma City Thunder,Brooklyn Nets,93,95
-400489364,2015-01-04 00:00:00,Brooklyn Nets,Cleveland Cavaliers,89,82
-400489379,2015-01-06 00:00:00,Brooklyn Nets,Atlanta Hawks,91,86
-400489396,2015-01-08 00:00:00,Brooklyn Nets,Golden State Warriors,102,98
-400489410,2015-01-10 00:00:00,Brooklyn Nets,Miami Heat,104,95 2OT
-400489416,2015-01-11 00:00:00,Toronto Raptors,Brooklyn Nets,96,80
-400489452,2015-01-16 00:00:00,Atlanta Hawks,Brooklyn Nets,110,127
-400489483,2015-01-20 00:00:00,New York Knicks,Brooklyn Nets,80,103
-400489489,2015-01-21 00:00:00,Brooklyn Nets,Orlando Magic,101,90
-400489510,2015-01-24 00:00:00,Brooklyn Nets,Dallas Mavericks,107,106
-400489536,2015-01-27 00:00:00,Brooklyn Nets,Toronto Raptors,103,104
-400489565,2015-01-31 00:00:00,Brooklyn Nets,Oklahoma City Thunder,95,120
-400489570,2015-02-01 00:00:00,Indiana Pacers,Brooklyn Nets,97,96
-400489585,2015-02-03 00:00:00,Brooklyn Nets,Philadelphia 76ers,108,102
-400489610,2015-02-06 00:00:00,Brooklyn Nets,San Antonio Spurs,103,89
-400489617,2015-02-07 00:00:00,Detroit Pistons,Brooklyn Nets,111,95
-400489632,2015-02-09 00:00:00,Brooklyn Nets,New Orleans Pelicans,93,81
-400489654,2015-02-12 00:00:00,Brooklyn Nets,Charlotte Hornets,105,89
-400489663,2015-02-13 00:00:00,Chicago Bulls,Brooklyn Nets,92,76
-400489681,2015-02-19 00:00:00,Utah Jazz,Brooklyn Nets,99,105
-400489705,2015-02-22 00:00:00,Golden State Warriors,Brooklyn Nets,93,86
-400489712,2015-02-23 00:00:00,Los Angeles Lakers,Brooklyn Nets,102,108
-400489734,2015-02-26 00:00:00,Portland Trail Blazers,Brooklyn Nets,124,80
-400489739,2015-02-27 00:00:00,Denver Nuggets,Brooklyn Nets,89,112
-400489751,2015-03-01 00:00:00,Milwaukee Bucks,Brooklyn Nets,98,107
-400489764,2015-03-03 00:00:00,Brooklyn Nets,Chicago Bulls,96,80
-400489781,2015-03-05 00:00:00,Brooklyn Nets,Memphis Grizzlies,103,94
-400489811,2015-03-09 00:00:00,Brooklyn Nets,Sacramento Kings,104,89
-400489817,2015-03-10 00:00:00,Brooklyn Nets,Toronto Raptors,101,97
-400489830,2015-03-12 00:00:00,Miami Heat,Brooklyn Nets,95,96
-400489855,2015-03-15 00:00:00,Washington Wizards,Brooklyn Nets,101,94
-400489871,2015-03-17 00:00:00,Brooklyn Nets,Phoenix Suns,108,95
-400489883,2015-03-19 00:00:00,Brooklyn Nets,Charlotte Hornets,104,99
-400489917,2015-03-23 00:00:00,Dallas Mavericks,Brooklyn Nets,104 OT,107
-400489925,2015-03-24 00:00:00,New Orleans Pelicans,Brooklyn Nets,109,104 OT
-400489934,2015-03-26 00:00:00,Charlotte Hornets,Brooklyn Nets,116,111 OT
-400489951,2015-03-28 00:00:00,Brooklyn Nets,Cleveland Cavaliers,108,97
-400489968,2015-03-30 00:00:00,Brooklyn Nets,Minnesota Timberwolves,114,99
-400489984,2015-04-01 00:00:00,Brooklyn Nets,Houston Rockets,105,96
-400489988,2015-04-02 00:00:00,New York Knicks,Brooklyn Nets,110,81
-400490007,2015-04-04 00:00:00,Brooklyn Nets,Detroit Pistons,116,104
-400490020,2015-04-05 00:00:00,Philadelphia 76ers,Brooklyn Nets,101,105
-400490031,2015-04-08 00:00:00,Miami Heat,Brooklyn Nets,87,88
-400490036,2015-04-09 00:00:00,Orlando Magic,Brooklyn Nets,115,111
-400490052,2015-04-11 00:00:00,Brooklyn Nets,Atlanta Hawks,88,93
-400490072,2015-04-13 00:00:00,Brooklyn Nets,Orlando Magic,97,88
-400490087,2015-04-15 00:00:00,Brooklyn Nets,New York Knicks,98,109
-400490097,2015-04-16 00:00:00,Cleveland Cavaliers,Brooklyn Nets,114,85
-400488881,2014-10-30 00:00:00,New York Knicks,Milwaukee Bucks,90,83
-400488891,2014-10-31 00:00:00,Chicago Bulls,New York Knicks,82,81
-400488918,2014-11-03 00:00:00,New York Knicks,Minnesota Timberwolves,100,109
-400488927,2014-11-05 00:00:00,New York Knicks,Charlotte Hornets,97,102
-400488946,2014-11-08 00:00:00,Charlotte Hornets,New York Knicks,91,101
-400488967,2014-11-10 00:00:00,New York Knicks,San Antonio Spurs,89,120
-400488989,2014-11-13 00:00:00,Atlanta Hawks,New York Knicks,91,95
-400488996,2014-11-14 00:00:00,New York Knicks,Houston Rockets,106,109
-400489012,2014-11-16 00:00:00,New York Knicks,Atlanta Hawks,90,110
-400489030,2014-11-19 00:00:00,Detroit Pistons,New York Knicks,92,86
-400489036,2014-11-20 00:00:00,New York Knicks,Indiana Pacers,96 OT,103
-400489062,2014-11-23 00:00:00,Washington Wizards,New York Knicks,98,89
-400489083,2014-11-25 00:00:00,Portland Trail Blazers,New York Knicks,102,91
-400489100,2014-11-27 00:00:00,LA Clippers,New York Knicks,93,80
-400489111,2014-11-29 00:00:00,Denver Nuggets,New York Knicks,97,95
-400489127,2014-12-01 00:00:00,New York Knicks,New Orleans Pelicans,99,103
-400489157,2014-12-06 00:00:00,New York Knicks,Orlando Magic,121,83
-400489183,2014-12-10 00:00:00,Cleveland Cavaliers,New York Knicks,109,94
-400489197,2014-12-11 00:00:00,New York Knicks,Chicago Bulls,83,78
-400489218,2014-12-14 00:00:00,New York Knicks,Atlanta Hawks,111,106
-400489234,2014-12-16 00:00:00,New York Knicks,Washington Wizards,101,102
-400489248,2014-12-18 00:00:00,Milwaukee Bucks,New York Knicks,101 2OT,107
-400489265,2014-12-21 00:00:00,New York Knicks,Memphis Grizzlies,87,95
-400489282,2014-12-23 00:00:00,Orlando Magic,New York Knicks,98,103
-400489292,2014-12-25 00:00:00,New York Knicks,Oklahoma City Thunder,94,123
-400489303,2014-12-27 00:00:00,New York Knicks,Toronto Raptors,83,95
-400489311,2014-12-28 00:00:00,Toronto Raptors,New York Knicks,115,100
-400489350,2015-01-02 00:00:00,San Antonio Spurs,New York Knicks,101,105
-400489358,2015-01-03 00:00:00,Houston Rockets,New York Knicks,102,100
-400489376,2015-01-05 00:00:00,Dallas Mavericks,New York Knicks,80,92
-400489385,2015-01-07 00:00:00,New York Knicks,Detroit Pistons,89,85
-400489402,2015-01-09 00:00:00,New York Knicks,Miami Heat,102,92
-400489419,2015-01-11 00:00:00,Philadelphia 76ers,New York Knicks,92,102
-400489430,2015-01-13 00:00:00,New York Knicks,Phoenix Suns,98,96 OT
-400489435,2015-01-14 00:00:00,Charlotte Hornets,New York Knicks,108,98
-400489451,2015-01-16 00:00:00,Indiana Pacers,New York Knicks,117,89
-400489454,2015-01-17 00:00:00,New York Knicks,LA Clippers,95,109
-400489499,2015-01-22 00:00:00,New York Knicks,Philadelphia 76ers,106,110
-400489513,2015-01-24 00:00:00,New York Knicks,Charlotte Hornets,125,96
-400489528,2015-01-26 00:00:00,New York Knicks,Los Angeles Lakers,110,103
-400489560,2015-01-30 00:00:00,New York Knicks,Cleveland Cavaliers,117,86
-400489578,2015-02-01 00:00:00,New York Knicks,Miami Heat,91,106
-400489587,2015-02-03 00:00:00,Milwaukee Bucks,New York Knicks,101,98
-400489601,2015-02-05 00:00:00,New York Knicks,Portland Trail Blazers,90,94
-400489618,2015-02-07 00:00:00,New York Knicks,Denver Nuggets,117,90
-400489629,2015-02-09 00:00:00,Oklahoma City Thunder,New York Knicks,112,100
-400489656,2015-02-12 00:00:00,New York Knicks,Sacramento Kings,101 OT,106
-400489669,2015-02-18 00:00:00,Memphis Grizzlies,New York Knicks,98,93
-400489679,2015-02-19 00:00:00,New Orleans Pelicans,New York Knicks,91,98
-400489689,2015-02-21 00:00:00,Orlando Magic,New York Knicks,129,121 2OT
-400489700,2015-02-22 00:00:00,Atlanta Hawks,New York Knicks,107,98
-400489716,2015-02-24 00:00:00,New York Knicks,Dallas Mavericks,108,110
-400489738,2015-02-27 00:00:00,Miami Heat,New York Knicks,108,82
-400489742,2015-02-28 00:00:00,New York Knicks,Golden State Warriors,103,126
-400489756,2015-03-02 00:00:00,Chicago Bulls,New York Knicks,109,90
-400489765,2015-03-03 00:00:00,Detroit Pistons,New York Knicks,96,85
-400489784,2015-03-05 00:00:00,Minnesota Timberwolves,New York Knicks,106,118
-400489794,2015-03-07 00:00:00,New York Knicks,Utah Jazz,108,81
-400489801,2015-03-08 00:00:00,Cleveland Cavaliers,New York Knicks,97,107
-400489819,2015-03-10 00:00:00,New York Knicks,Philadelphia 76ers,123,110
-400489854,2015-03-15 00:00:00,New York Knicks,Milwaukee Bucks,115,94
-400489886,2015-03-19 00:00:00,New York Knicks,Indiana Pacers,92,86
-400489896,2015-03-21 00:00:00,Philadelphia 76ers,New York Knicks,92,93
-400489918,2015-03-23 00:00:00,New York Knicks,Cleveland Cavaliers,100,106
-400489933,2015-03-25 00:00:00,Los Angeles Lakers,New York Knicks,127,96
-400489942,2015-03-26 00:00:00,Sacramento Kings,New York Knicks,99,107
-400489958,2015-03-28 00:00:00,Phoenix Suns,New York Knicks,112,88
-400489971,2015-03-30 00:00:00,Golden State Warriors,New York Knicks,84,89
-400489983,2015-03-31 00:00:00,Utah Jazz,New York Knicks,83,92
-400490009,2015-04-04 00:00:00,New York Knicks,Washington Wizards,89,90
-400490022,2015-04-06 00:00:00,Miami Heat,New York Knicks,102,91
-400490050,2015-04-11 00:00:00,Toronto Raptors,New York Knicks,100,108
-400490070,2015-04-13 00:00:00,New York Knicks,Chicago Bulls,100,89
-400490099,2015-04-16 00:00:00,New York Knicks,Toronto Raptors,95,92
-400488878,2014-10-30 00:00:00,Philadelphia 76ers,Miami Heat,114,110
-400488895,2014-11-01 00:00:00,Washington Wizards,Philadelphia 76ers,102,109
-400488907,2014-11-02 00:00:00,Philadelphia 76ers,Chicago Bulls,107,104
-400488921,2014-11-04 00:00:00,Philadelphia 76ers,Golden State Warriors,90,110
-400488936,2014-11-06 00:00:00,Philadelphia 76ers,Washington Wizards,102,116
-400488949,2014-11-08 00:00:00,Philadelphia 76ers,Cleveland Cavaliers,94,79
-400488961,2014-11-09 00:00:00,Cleveland Cavaliers,Philadelphia 76ers,127,125 2OT
-400488973,2014-11-11 00:00:00,Philadelphia 76ers,San Antonio Spurs,85,109
-400488985,2014-11-13 00:00:00,Philadelphia 76ers,Houston Rockets,123,117 OT
-400489000,2014-11-15 00:00:00,Atlanta Hawks,Philadelphia 76ers,113,103
-400489016,2014-11-16 00:00:00,New Orleans Pelicans,Philadelphia 76ers,135,98
-400489026,2014-11-18 00:00:00,Dallas Mavericks,Philadelphia 76ers,97,94
-400489038,2014-11-20 00:00:00,Philadelphia 76ers,Toronto Raptors,98,108
-400489050,2014-11-22 00:00:00,Philadelphia 76ers,Milwaukee Bucks,115,107 OT
-400489061,2014-11-23 00:00:00,Indiana Pacers,Philadelphia 76ers,106,98
-400489089,2014-11-27 00:00:00,Orlando Magic,Philadelphia 76ers,105,94
-400489110,2014-11-29 00:00:00,Philadelphia 76ers,New Orleans Pelicans,105,121
-400489123,2014-12-01 00:00:00,Detroit Pistons,Philadelphia 76ers,115,100
-400489134,2014-12-03 00:00:00,Philadelphia 76ers,Orlando Magic,126,125 2OT
-400489153,2014-12-06 00:00:00,Charlotte Hornets,Philadelphia 76ers,105,88
-400489163,2014-12-07 00:00:00,Philadelphia 76ers,Denver Nuggets,92,103
-400489178,2014-12-09 00:00:00,Philadelphia 76ers,LA Clippers,83,94
-400489195,2014-12-11 00:00:00,Minnesota Timberwolves,Philadelphia 76ers,106,99
-400489204,2014-12-13 00:00:00,Toronto Raptors,Philadelphia 76ers,108,100
-400489220,2014-12-14 00:00:00,Philadelphia 76ers,Portland Trail Blazers,105,139
-400489271,2014-12-21 00:00:00,Milwaukee Bucks,Philadelphia 76ers,116,106
-400489318,2014-12-28 00:00:00,Phoenix Suns,Philadelphia 76ers,115,101
-400489325,2014-12-29 00:00:00,Los Angeles Lakers,Philadelphia 76ers,104,111
-400489344,2015-01-01 00:00:00,Denver Nuggets,Philadelphia 76ers,102,114
-400489354,2015-01-02 00:00:00,Sacramento Kings,Philadelphia 76ers,104,113
-400489369,2015-01-04 00:00:00,Portland Trail Blazers,Philadelphia 76ers,99,101
-400489378,2015-01-06 00:00:00,Philadelphia 76ers,Minnesota Timberwolves,95,126
-400489382,2015-01-07 00:00:00,Cleveland Cavaliers,Philadelphia 76ers,111,93
-400489405,2015-01-10 00:00:00,Philadelphia 76ers,Detroit Pistons,104,114
-400489440,2015-01-15 00:00:00,Philadelphia 76ers,Charlotte Hornets,95,92
-400489456,2015-01-17 00:00:00,Philadelphia 76ers,Miami Heat,86,101
-400489469,2015-01-18 00:00:00,Chicago Bulls,Philadelphia 76ers,103,78
-400489482,2015-01-20 00:00:00,Washington Wizards,Philadelphia 76ers,107,99
-400489507,2015-01-24 00:00:00,Philadelphia 76ers,Toronto Raptors,95,104
-400489521,2015-01-25 00:00:00,Philadelphia 76ers,Oklahoma City Thunder,91,103
-400489535,2015-01-27 00:00:00,Philadelphia 76ers,Phoenix Suns,113,124
-400489563,2015-01-31 00:00:00,Philadelphia 76ers,Atlanta Hawks,99,125
-400489573,2015-02-01 00:00:00,Detroit Pistons,Philadelphia 76ers,113,96
-400489614,2015-02-07 00:00:00,Philadelphia 76ers,Los Angeles Lakers,98,112
-400489636,2015-02-09 00:00:00,LA Clippers,Philadelphia 76ers,123,78
-400489642,2015-02-10 00:00:00,Golden State Warriors,Philadelphia 76ers,123,80
-400489660,2015-02-12 00:00:00,Utah Jazz,Philadelphia 76ers,105,100
-400489666,2015-02-18 00:00:00,Philadelphia 76ers,Cleveland Cavaliers,85,114
-400489690,2015-02-21 00:00:00,Philadelphia 76ers,Dallas Mavericks,112,124
-400489714,2015-02-24 00:00:00,Philadelphia 76ers,Milwaukee Bucks,110,130
-400489726,2015-02-26 00:00:00,Philadelphia 76ers,Orlando Magic,90,101
-400489748,2015-03-01 00:00:00,Philadelphia 76ers,Washington Wizards,103,122
-400489759,2015-03-02 00:00:00,Orlando Magic,Philadelphia 76ers,92,81
-400489774,2015-03-04 00:00:00,Oklahoma City Thunder,Philadelphia 76ers,125,92
-400489802,2015-03-08 00:00:00,Philadelphia 76ers,Utah Jazz,92,104
-400489832,2015-03-12 00:00:00,Philadelphia 76ers,Sacramento Kings,98,115
-400489846,2015-03-14 00:00:00,Philadelphia 76ers,Indiana Pacers,94,101
-400489858,2015-03-15 00:00:00,Philadelphia 76ers,Memphis Grizzlies,77,103
-400489870,2015-03-17 00:00:00,Indiana Pacers,Philadelphia 76ers,99,90
-400489881,2015-03-19 00:00:00,Philadelphia 76ers,Chicago Bulls,94,102
-400489907,2015-03-22 00:00:00,Chicago Bulls,Philadelphia 76ers,91,81
-400489927,2015-03-24 00:00:00,San Antonio Spurs,Philadelphia 76ers,113,91
-400489945,2015-03-27 00:00:00,Houston Rockets,Philadelphia 76ers,120,98
-400489960,2015-03-29 00:00:00,Philadelphia 76ers,Detroit Pistons,123,98
-400489976,2015-03-31 00:00:00,Atlanta Hawks,Philadelphia 76ers,103,95
-400489990,2015-04-02 00:00:00,Philadelphia 76ers,Charlotte Hornets,93,123
-400490037,2015-04-09 00:00:00,Toronto Raptors,Philadelphia 76ers,125,114
-400490055,2015-04-11 00:00:00,Memphis Grizzlies,Philadelphia 76ers,117,95
-400490063,2015-04-12 00:00:00,Charlotte Hornets,Philadelphia 76ers,111,105
-400490098,2015-04-16 00:00:00,Miami Heat,Philadelphia 76ers,87,100
-400488896,2014-11-01 00:00:00,Atlanta Hawks,Toronto Raptors,102,95
-400488910,2014-11-02 00:00:00,Milwaukee Bucks,Toronto Raptors,90,97
-400488924,2014-11-05 00:00:00,Toronto Raptors,Miami Heat,95,104
-400488933,2014-11-06 00:00:00,Charlotte Hornets,Toronto Raptors,92,90
-400488947,2014-11-08 00:00:00,Indiana Pacers,Toronto Raptors,91,84
-400488958,2014-11-09 00:00:00,Toronto Raptors,Utah Jazz,115,91
-400488976,2014-11-11 00:00:00,Houston Rockets,Toronto Raptors,110,104 2OT
-400488987,2014-11-13 00:00:00,Memphis Grizzlies,Toronto Raptors,87,103
-400488999,2014-11-15 00:00:00,Toronto Raptors,Chicago Bulls,80,96
-400489020,2014-11-17 00:00:00,Toronto Raptors,Portland Trail Blazers,110 OT,118
-400489051,2014-11-22 00:00:00,Toronto Raptors,Washington Wizards,96,88
-400489103,2014-11-29 00:00:00,Toronto Raptors,Miami Heat,83,90
-400489121,2014-12-01 00:00:00,Toronto Raptors,Denver Nuggets,98,112
-400489141,2014-12-03 00:00:00,Golden State Warriors,Toronto Raptors,112,103
-400489160,2014-12-06 00:00:00,Phoenix Suns,Toronto Raptors,106,97
-400489176,2014-12-08 00:00:00,Los Angeles Lakers,Toronto Raptors,94,106
-400489185,2014-12-10 00:00:00,Toronto Raptors,San Antonio Spurs,103,116
-400489219,2014-12-14 00:00:00,Chicago Bulls,Toronto Raptors,77,99
-400489244,2014-12-18 00:00:00,Toronto Raptors,Charlotte Hornets,102 OT,104
-400489262,2014-12-20 00:00:00,Dallas Mavericks,Toronto Raptors,108 OT,109
-400489278,2014-12-22 00:00:00,Oklahoma City Thunder,Toronto Raptors,98,104
-400489287,2014-12-23 00:00:00,San Antonio Spurs,Toronto Raptors,112,99
-400489336,2014-12-31 00:00:00,Chicago Bulls,Toronto Raptors,79,85
-400489342,2015-01-01 00:00:00,Toronto Raptors,Indiana Pacers,95,82
-400489355,2015-01-03 00:00:00,Washington Wizards,Toronto Raptors,88,101
-400489373,2015-01-05 00:00:00,Miami Heat,Toronto Raptors,102,97
-400489383,2015-01-07 00:00:00,Indiana Pacers,Toronto Raptors,86,79
-400489394,2015-01-08 00:00:00,Toronto Raptors,Detroit Pistons,112,91
-400489428,2015-01-13 00:00:00,Toronto Raptors,Milwaukee Bucks,116,94
-400489457,2015-01-17 00:00:00,Toronto Raptors,Minnesota Timberwolves,94,89
-400489474,2015-01-19 00:00:00,Toronto Raptors,Los Angeles Lakers,106,112
-400489481,2015-01-20 00:00:00,Charlotte Hornets,Toronto Raptors,100,95
-400489497,2015-01-22 00:00:00,Toronto Raptors,Dallas Mavericks,93,85
-400489520,2015-01-25 00:00:00,Toronto Raptors,LA Clippers,118,126
-400489549,2015-01-29 00:00:00,Toronto Raptors,Orlando Magic,98,83
-400489567,2015-01-31 00:00:00,Denver Nuggets,Toronto Raptors,90,100
-400489580,2015-02-01 00:00:00,Portland Trail Blazers,Toronto Raptors,106,103
-400489592,2015-02-03 00:00:00,Utah Jazz,Toronto Raptors,79,94
-400489608,2015-02-05 00:00:00,Sacramento Kings,Toronto Raptors,109,101
-400489621,2015-02-07 00:00:00,LA Clippers,Toronto Raptors,118,105
-400489638,2015-02-10 00:00:00,Toronto Raptors,New Orleans Pelicans,108,101
-400489652,2015-02-12 00:00:00,Toronto Raptors,Atlanta Hawks,104,83
-400489667,2015-02-18 00:00:00,Washington Wizards,Toronto Raptors,93,103
-400489676,2015-02-19 00:00:00,Toronto Raptors,Chicago Bulls,92,94
-400489691,2015-02-21 00:00:00,Toronto Raptors,Cleveland Cavaliers,98,91
-400489709,2015-02-23 00:00:00,Toronto Raptors,Orlando Magic,105,90
-400489719,2015-02-25 00:00:00,Cleveland Cavaliers,Toronto Raptors,93,99
-400489737,2015-02-27 00:00:00,Toronto Raptors,Washington Wizards,129 3OT,134
-400489757,2015-03-02 00:00:00,Toronto Raptors,Golden State Warriors,104,98
-400489792,2015-03-07 00:00:00,Toronto Raptors,Sacramento Kings,99,87
-400489813,2015-03-09 00:00:00,Minnesota Timberwolves,Toronto Raptors,104,111
-400489833,2015-03-12 00:00:00,Toronto Raptors,Detroit Pistons,101,87
-400489847,2015-03-14 00:00:00,Toronto Raptors,Memphis Grizzlies,99,86
-400489861,2015-03-16 00:00:00,Toronto Raptors,Phoenix Suns,113,121
-400489877,2015-03-18 00:00:00,Atlanta Hawks,Toronto Raptors,118,113 OT
-400489885,2015-03-19 00:00:00,New Orleans Pelicans,Toronto Raptors,100,107
-400489897,2015-03-21 00:00:00,Toronto Raptors,Oklahoma City Thunder,118 2OT,119
-400489913,2015-03-23 00:00:00,Toronto Raptors,Atlanta Hawks,96,86
-400489930,2015-03-25 00:00:00,Cleveland Cavaliers,Toronto Raptors,102,100
-400489969,2015-03-30 00:00:00,Orlando Magic,Toronto Raptors,93,98
-400489978,2015-03-31 00:00:00,Miami Heat,Toronto Raptors,93,83
-400489991,2015-04-02 00:00:00,Toronto Raptors,Houston Rockets,107,103
-400490004,2015-04-04 00:00:00,Toronto Raptors,Indiana Pacers,102,94
-400490021,2015-04-05 00:00:00,Milwaukee Bucks,Toronto Raptors,98,102
-400490071,2015-04-13 00:00:00,Detroit Pistons,Toronto Raptors,107,116
-400490078,2015-04-14 00:00:00,Toronto Raptors,Milwaukee Bucks,110,100
-400488890,2014-10-30 00:00:00,Golden State Warriors,Los Angeles Lakers,125,94
-400488892,2014-10-31 00:00:00,LA Clippers,Golden State Warriors,126,115
-400488913,2014-11-02 00:00:00,Golden State Warriors,Sacramento Kings,98,87
-400488940,2014-11-06 00:00:00,Minnesota Timberwolves,Golden State Warriors,93,106
-400488955,2014-11-08 00:00:00,San Antonio Spurs,Golden State Warriors,76,74
-400488964,2014-11-09 00:00:00,Memphis Grizzlies,Golden State Warriors,108,90
-400488982,2014-11-12 00:00:00,Golden State Warriors,Detroit Pistons,113,95
-400488997,2014-11-14 00:00:00,Golden State Warriors,Oklahoma City Thunder,116,115
-400489018,2014-11-16 00:00:00,Golden State Warriors,Utah Jazz,102,88
-400489027,2014-11-18 00:00:00,Utah Jazz,Golden State Warriors,87,98
-400489046,2014-11-20 00:00:00,Golden State Warriors,Memphis Grizzlies,81 OT,88
-400489059,2014-11-22 00:00:00,Los Angeles Lakers,Golden State Warriors,102,95
-400489069,2014-11-23 00:00:00,Golden State Warriors,Portland Trail Blazers,101,113
-400489087,2014-11-26 00:00:00,New Orleans Pelicans,Golden State Warriors,101,102
-400489098,2014-11-27 00:00:00,Dallas Mavericks,Golden State Warriors,103,99
-400489108,2014-11-29 00:00:00,Oklahoma City Thunder,Golden State Warriors,113,112 OT
-400489124,2014-12-01 00:00:00,Sacramento Kings,Golden State Warriors,113,115
-400489158,2014-12-06 00:00:00,Houston Rockets,Golden State Warriors,105,83
-400489166,2014-12-07 00:00:00,Memphis Grizzlies,Golden State Warriors,82,108
-400489177,2014-12-09 00:00:00,Charlotte Hornets,Golden State Warriors,115,111
-400489199,2014-12-11 00:00:00,Golden State Warriors,Dallas Mavericks,95,93
-400489214,2014-12-13 00:00:00,Golden State Warriors,Houston Rockets,112,116
-400489228,2014-12-15 00:00:00,Phoenix Suns,Golden State Warriors,106,102
-400489241,2014-12-17 00:00:00,Golden State Warriors,New Orleans Pelicans,104,93
-400489255,2014-12-19 00:00:00,Golden State Warriors,San Antonio Spurs,102,104
-400489275,2014-12-21 00:00:00,Golden State Warriors,Los Angeles Lakers,102,83
-400489288,2014-12-23 00:00:00,Denver Nuggets,Golden State Warriors,81,89
-400489295,2014-12-25 00:00:00,Golden State Warriors,LA Clippers,105,103
-400489308,2014-12-27 00:00:00,Golden State Warriors,Phoenix Suns,115,86
-400489321,2014-12-29 00:00:00,Cleveland Cavaliers,Golden State Warriors,104 OT,108
-400489335,2014-12-31 00:00:00,Orlando Magic,Golden State Warriors,81,94
-400489347,2015-01-02 00:00:00,Miami Heat,Golden State Warriors,114,123
-400489356,2015-01-03 00:00:00,Atlanta Hawks,Golden State Warriors,100,101
-400489374,2015-01-05 00:00:00,Washington Wizards,Golden State Warriors,96,112
-400489388,2015-01-07 00:00:00,Milwaukee Bucks,Golden State Warriors,80,101
-400489449,2015-01-15 00:00:00,Golden State Warriors,Denver Nuggets,116,123
-400489465,2015-01-17 00:00:00,Oklahoma City Thunder,Golden State Warriors,127,121
-400489472,2015-01-18 00:00:00,New Orleans Pelicans,Golden State Warriors,87,97
-400489488,2015-01-20 00:00:00,Golden State Warriors,Indiana Pacers,94,102
-400489518,2015-01-24 00:00:00,Golden State Warriors,Minnesota Timberwolves,120,121
-400489533,2015-01-26 00:00:00,Golden State Warriors,Portland Trail Blazers,103,88
-400489546,2015-01-28 00:00:00,Golden State Warriors,Washington Wizards,85,88
-400489561,2015-01-30 00:00:00,Golden State Warriors,LA Clippers,111,92
-400489569,2015-01-31 00:00:00,Utah Jazz,Golden State Warriors,90,95
-400489597,2015-02-04 00:00:00,Golden State Warriors,Charlotte Hornets,75,91
-400489611,2015-02-06 00:00:00,Golden State Warriors,Chicago Bulls,102,87
-400489627,2015-02-08 00:00:00,Phoenix Suns,Golden State Warriors,122,109
-400489661,2015-02-12 00:00:00,Golden State Warriors,Miami Heat,110,111
-400489683,2015-02-19 00:00:00,Sacramento Kings,Golden State Warriors,92,101
-400489687,2015-02-20 00:00:00,Golden State Warriors,Houston Rockets,102,99 OT
-400489715,2015-02-24 00:00:00,Detroit Pistons,Golden State Warriors,96,104
-400489728,2015-02-26 00:00:00,Chicago Bulls,Golden State Warriors,103,83
-400489772,2015-03-04 00:00:00,Indiana Pacers,Golden State Warriors,96,98
-400489800,2015-03-07 00:00:00,Golden State Warriors,Atlanta Hawks,111,97
-400489815,2015-03-09 00:00:00,Golden State Warriors,Phoenix Suns,113,107
-400489829,2015-03-11 00:00:00,Golden State Warriors,Dallas Mavericks,108,85
-400489840,2015-03-12 00:00:00,LA Clippers,Golden State Warriors,111,98
-400489853,2015-03-14 00:00:00,Golden State Warriors,Cleveland Cavaliers,94,103
-400489867,2015-03-16 00:00:00,Portland Trail Blazers,Golden State Warriors,112,113
-400489880,2015-03-18 00:00:00,Golden State Warriors,Orlando Magic,103,89
-400489894,2015-03-20 00:00:00,Golden State Warriors,Milwaukee Bucks,115,110
-400489911,2015-03-22 00:00:00,Golden State Warriors,San Antonio Spurs,90,99
-400489959,2015-03-28 00:00:00,Golden State Warriors,Memphis Grizzlies,100,93
-400489985,2015-04-01 00:00:00,Dallas Mavericks,Golden State Warriors,120 OT,122
-400489996,2015-04-02 00:00:00,San Antonio Spurs,Golden State Warriors,111,90
-400490014,2015-04-04 00:00:00,Golden State Warriors,Sacramento Kings,102,69
-400490028,2015-04-06 00:00:00,Golden State Warriors,Utah Jazz,130,102
-400490048,2015-04-10 00:00:00,Golden State Warriors,Denver Nuggets,99,100
-400490061,2015-04-11 00:00:00,Los Angeles Lakers,Golden State Warriors,95,112
-400490074,2015-04-13 00:00:00,Portland Trail Blazers,Golden State Warriors,119,117 OT
-400490086,2015-04-14 00:00:00,Golden State Warriors,Minnesota Timberwolves,130,120
-400490103,2015-04-16 00:00:00,Denver Nuggets,Golden State Warriors,112,116
-400488876,2014-10-29 00:00:00,Los Angeles Lakers,LA Clippers,116,103
-400488904,2014-11-01 00:00:00,Sacramento Kings,LA Clippers,101,110
-400488923,2014-11-04 00:00:00,LA Clippers,Houston Rockets,137,118
-400488935,2014-11-06 00:00:00,Orlando Magic,LA Clippers,98,90
-400488943,2014-11-07 00:00:00,Miami Heat,LA Clippers,102,97
-400488963,2014-11-09 00:00:00,Houston Rockets,LA Clippers,94,107
-400488979,2014-11-11 00:00:00,LA Clippers,Minnesota Timberwolves,109,107
-400488995,2014-11-13 00:00:00,LA Clippers,Oklahoma City Thunder,111,103
-400489028,2014-11-18 00:00:00,LA Clippers,Memphis Grizzlies,102,106
-400489041,2014-11-20 00:00:00,Minnesota Timberwolves,LA Clippers,98,102
-400489047,2014-11-21 00:00:00,Oklahoma City Thunder,LA Clippers,105,91
-400489060,2014-11-23 00:00:00,LA Clippers,Sacramento Kings,103,102
-400489071,2014-11-24 00:00:00,LA Clippers,Chicago Bulls,121,82
-400489113,2014-11-29 00:00:00,Sacramento Kings,LA Clippers,98 OT,104
-400489122,2014-12-01 00:00:00,LA Clippers,Indiana Pacers,100,105
-400489143,2014-12-04 00:00:00,Atlanta Hawks,LA Clippers,107,97
-400489151,2014-12-05 00:00:00,Memphis Grizzlies,LA Clippers,81,101
-400489164,2014-12-07 00:00:00,Cleveland Cavaliers,LA Clippers,88,82
-400489216,2014-12-14 00:00:00,Washington Wizards,LA Clippers,97,113
-400489236,2014-12-16 00:00:00,LA Clippers,San Antonio Spurs,115,92
-400489253,2014-12-18 00:00:00,LA Clippers,New Orleans Pelicans,108,95
-400489276,2014-12-21 00:00:00,LA Clippers,Denver Nuggets,112,91
-400489279,2014-12-22 00:00:00,LA Clippers,Minnesota Timberwolves,120,116 OT
-400489299,2014-12-26 00:00:00,Portland Trail Blazers,LA Clippers,116,112 OT
-400489320,2014-12-28 00:00:00,LA Clippers,Utah Jazz,98,90
-400489332,2014-12-30 00:00:00,LA Clippers,Phoenix Suns,88,107
-400489345,2015-01-01 00:00:00,LA Clippers,Charlotte Hornets,112,85
-400489359,2015-01-03 00:00:00,Dallas Mavericks,LA Clippers,112,119
-400489367,2015-01-04 00:00:00,San Antonio Spurs,LA Clippers,116,92
-400489380,2015-01-06 00:00:00,LA Clippers,Orlando Magic,101,81
-400489415,2015-01-10 00:00:00,LA Clippers,Los Angeles Lakers,123,87
-400489450,2015-01-15 00:00:00,LA Clippers,Dallas Mavericks,129,127
-400489467,2015-01-18 00:00:00,Indiana Pacers,LA Clippers,106,92
-400489480,2015-01-20 00:00:00,Detroit Pistons,LA Clippers,103,112
-400489494,2015-01-22 00:00:00,Charlotte Hornets,LA Clippers,95,91
-400489514,2015-01-24 00:00:00,Chicago Bulls,LA Clippers,95,112
-400489538,2015-01-27 00:00:00,Milwaukee Bucks,LA Clippers,86,114
-400489558,2015-01-29 00:00:00,LA Clippers,Washington Wizards,110,103
-400489581,2015-02-01 00:00:00,LA Clippers,Utah Jazz,102,87
-400489591,2015-02-03 00:00:00,Denver Nuggets,LA Clippers,116,115
-400489609,2015-02-05 00:00:00,LA Clippers,Miami Heat,112,116
-400489662,2015-02-12 00:00:00,LA Clippers,Portland Trail Blazers,122,117
-400489673,2015-02-18 00:00:00,LA Clippers,San Antonio Spurs,103,113
-400489694,2015-02-21 00:00:00,Memphis Grizzlies,LA Clippers,102,96
-400489706,2015-02-23 00:00:00,Oklahoma City Thunder,LA Clippers,117,125
-400489717,2015-02-24 00:00:00,New Orleans Pelicans,LA Clippers,110,123
-400489735,2015-02-26 00:00:00,LA Clippers,Houston Rockets,101,93
-400489755,2015-03-01 00:00:00,LA Clippers,New Orleans Pelicans,108,76
-400489775,2015-03-04 00:00:00,Phoenix Suns,LA Clippers,96,104
-400489789,2015-03-06 00:00:00,Los Angeles Lakers,LA Clippers,94,142
-400489806,2015-03-08 00:00:00,LA Clippers,Atlanta Hawks,109,108
-400489822,2015-03-10 00:00:00,LA Clippers,Phoenix Suns,112,105
-400489852,2015-03-14 00:00:00,Utah Jazz,LA Clippers,87,96
-400489868,2015-03-16 00:00:00,LA Clippers,Cleveland Cavaliers,102,80
-400489875,2015-03-17 00:00:00,Denver Nuggets,LA Clippers,110,100
-400489912,2015-03-22 00:00:00,LA Clippers,Detroit Pistons,112,103
-400489929,2015-03-24 00:00:00,LA Clippers,Milwaukee Bucks,106,98
-400489939,2015-03-26 00:00:00,New Orleans Pelicans,LA Clippers,98,96
-400489947,2015-03-27 00:00:00,Dallas Mavericks,LA Clippers,103,109
-400489961,2015-03-29 00:00:00,Houston Rockets,LA Clippers,107,118
-400489980,2015-03-31 00:00:00,Minnesota Timberwolves,LA Clippers,104,114
-400489998,2015-04-02 00:00:00,Phoenix Suns,LA Clippers,108,112
-400490001,2015-04-03 00:00:00,LA Clippers,Dallas Mavericks,107,113
-400490023,2015-04-06 00:00:00,LA Clippers,Los Angeles Lakers,120,97
-400490046,2015-04-09 00:00:00,LA Clippers,Oklahoma City Thunder,101,107
-400490062,2015-04-12 00:00:00,LA Clippers,Sacramento Kings,117,101
-400490088,2015-04-15 00:00:00,LA Clippers,Denver Nuggets,117,105
-400490101,2015-04-16 00:00:00,Portland Trail Blazers,LA Clippers,110,104
-400488905,2014-11-01 00:00:00,Los Angeles Lakers,San Antonio Spurs,85,91
-400488919,2014-11-03 00:00:00,Los Angeles Lakers,Atlanta Hawks,105,103
-400488929,2014-11-05 00:00:00,Dallas Mavericks,Los Angeles Lakers,123,104
-400488945,2014-11-07 00:00:00,Houston Rockets,Los Angeles Lakers,98,99
-400488954,2014-11-08 00:00:00,New Orleans Pelicans,Los Angeles Lakers,96,85
-400488970,2014-11-10 00:00:00,Los Angeles Lakers,Minnesota Timberwolves,90,113
-400488983,2014-11-12 00:00:00,Los Angeles Lakers,New Orleans Pelicans,116,95
-400488991,2014-11-13 00:00:00,Denver Nuggets,Los Angeles Lakers,111,99
-400489007,2014-11-15 00:00:00,Los Angeles Lakers,Memphis Grizzlies,86,89
-400489022,2014-11-17 00:00:00,Los Angeles Lakers,Detroit Pistons,114,99
-400489074,2014-11-24 00:00:00,Los Angeles Lakers,Sacramento Kings,100,86
-400489085,2014-11-26 00:00:00,Washington Wizards,Los Angeles Lakers,116,111
-400489106,2014-11-29 00:00:00,Detroit Pistons,Los Angeles Lakers,102,106
-400489128,2014-12-01 00:00:00,Los Angeles Lakers,Portland Trail Blazers,108,114
-400489162,2014-12-06 00:00:00,Sacramento Kings,Los Angeles Lakers,100,106
-400489190,2014-12-10 00:00:00,Los Angeles Lakers,Phoenix Suns,108,114
-400489209,2014-12-13 00:00:00,Oklahoma City Thunder,Los Angeles Lakers,122,97
-400489215,2014-12-14 00:00:00,Charlotte Hornets,Los Angeles Lakers,85,88
-400489230,2014-12-16 00:00:00,Atlanta Hawks,Los Angeles Lakers,114,100
-400489239,2014-12-17 00:00:00,Memphis Grizzlies,Los Angeles Lakers,92,96
-400489264,2014-12-20 00:00:00,Los Angeles Lakers,Minnesota Timberwolves,104,91
-400489289,2014-12-23 00:00:00,Phoenix Suns,Los Angeles Lakers,117,90
-400489293,2014-12-25 00:00:00,Los Angeles Lakers,Miami Heat,95,101
-400489306,2014-12-27 00:00:00,Utah Jazz,Los Angeles Lakers,105,103
-400489340,2014-12-31 00:00:00,Los Angeles Lakers,Milwaukee Bucks,79,94
-400489361,2015-01-03 00:00:00,Los Angeles Lakers,Utah Jazz,110,99
-400489377,2015-01-05 00:00:00,Los Angeles Lakers,Denver Nuggets,115,137
-400489389,2015-01-07 00:00:00,Dallas Mavericks,Los Angeles Lakers,110,97
-400489399,2015-01-08 00:00:00,Houston Rockets,Los Angeles Lakers,113,99
-400489438,2015-01-14 00:00:00,Los Angeles Lakers,Cleveland Cavaliers,118,120
-400489447,2015-01-15 00:00:00,Phoenix Suns,Los Angeles Lakers,121,114
-400489486,2015-01-20 00:00:00,Chicago Bulls,Los Angeles Lakers,102,100 OT
-400489504,2015-01-23 00:00:00,Miami Heat,Los Angeles Lakers,109,102
-400489506,2015-01-24 00:00:00,Orlando Magic,Los Angeles Lakers,114,105
-400489547,2015-01-28 00:00:00,Los Angeles Lakers,Indiana Pacers,92,104
-400489568,2015-01-31 00:00:00,Los Angeles Lakers,Charlotte Hornets,100,110
-400489595,2015-02-04 00:00:00,Minnesota Timberwolves,Los Angeles Lakers,109,99
-400489598,2015-02-05 00:00:00,Cleveland Cavaliers,Los Angeles Lakers,108,119
-400489630,2015-02-09 00:00:00,Los Angeles Lakers,Chicago Bulls,86,92
-400489649,2015-02-11 00:00:00,Los Angeles Lakers,Utah Jazz,79,96
-400489664,2015-02-13 00:00:00,Los Angeles Lakers,Oklahoma City Thunder,103,107
-400489684,2015-02-19 00:00:00,Los Angeles Lakers,Houston Rockets,108,134
-400489720,2015-02-25 00:00:00,Indiana Pacers,Los Angeles Lakers,118,98
-400489730,2015-02-26 00:00:00,Memphis Grizzlies,Los Angeles Lakers,108,103
-400489745,2015-02-28 00:00:00,Los Angeles Lakers,Sacramento Kings,126,122
-400489769,2015-03-03 00:00:00,Portland Trail Blazers,Los Angeles Lakers,106,107
-400489776,2015-03-04 00:00:00,Los Angeles Lakers,New Orleans Pelicans,125,132
-400489798,2015-03-07 00:00:00,Denver Nuggets,Los Angeles Lakers,134,126
-400489808,2015-03-09 00:00:00,Los Angeles Lakers,Oklahoma City Thunder,114,110
-400489843,2015-03-13 00:00:00,Oklahoma City Thunder,Los Angeles Lakers,131,102
-400489851,2015-03-14 00:00:00,San Antonio Spurs,Los Angeles Lakers,119,85
-400489890,2015-03-19 00:00:00,Los Angeles Lakers,San Antonio Spurs,109,125
-400489904,2015-03-21 00:00:00,Los Angeles Lakers,Washington Wizards,107,117
-400489919,2015-03-23 00:00:00,Los Angeles Lakers,Orlando Magic,103,94
-400489946,2015-03-27 00:00:00,Milwaukee Bucks,Los Angeles Lakers,108,105
-400489954,2015-03-28 00:00:00,Minnesota Timberwolves,Los Angeles Lakers,143,107
-400489973,2015-03-30 00:00:00,Los Angeles Lakers,Phoenix Suns,115,99
-400489986,2015-04-01 00:00:00,Los Angeles Lakers,Portland Trail Blazers,112,124
-400489999,2015-04-02 00:00:00,Sacramento Kings,Los Angeles Lakers,107,102
-400490015,2015-04-04 00:00:00,Los Angeles Lakers,Dallas Mavericks,95,107
-400490034,2015-04-08 00:00:00,Los Angeles Lakers,Houston Rockets,130,145
-400490076,2015-04-13 00:00:00,Los Angeles Lakers,Memphis Grizzlies,90,102
-400490084,2015-04-14 00:00:00,Utah Jazz,Los Angeles Lakers,104,119
-400490094,2015-04-16 00:00:00,San Antonio Spurs,Los Angeles Lakers,100,113
-400488888,2014-10-30 00:00:00,Phoenix Suns,Portland Trail Blazers,104,91
-400488903,2014-11-01 00:00:00,Phoenix Suns,Utah Jazz,87,84
-400488917,2014-11-03 00:00:00,Oklahoma City Thunder,Phoenix Suns,103,96
-400488928,2014-11-05 00:00:00,New Orleans Pelicans,Phoenix Suns,98,104
-400488941,2014-11-06 00:00:00,San Antonio Spurs,Phoenix Suns,99,96
-400488956,2014-11-08 00:00:00,Phoenix Suns,Denver Nuggets,114,103
-400488969,2014-11-10 00:00:00,Phoenix Suns,New Orleans Pelicans,101,94
-400488993,2014-11-13 00:00:00,Portland Trail Blazers,Phoenix Suns,90,89
-400489033,2014-11-19 00:00:00,Sacramento Kings,Phoenix Suns,107,104
-400489044,2014-11-20 00:00:00,Phoenix Suns,Sacramento Kings,106,113
-400489049,2014-11-22 00:00:00,Charlotte Hornets,Phoenix Suns,91,98
-400489072,2014-11-24 00:00:00,Orlando Magic,Phoenix Suns,96,104
-400489078,2014-11-25 00:00:00,Miami Heat,Phoenix Suns,107,92
-400489099,2014-11-27 00:00:00,Phoenix Suns,Portland Trail Blazers,120,106
-400489112,2014-11-29 00:00:00,Utah Jazz,Phoenix Suns,101,112
-400489119,2014-11-30 00:00:00,Phoenix Suns,Utah Jazz,104,112
-400489138,2014-12-03 00:00:00,Memphis Grizzlies,Phoenix Suns,110,91
-400489144,2014-12-04 00:00:00,Houston Rockets,Phoenix Suns,88,97
-400489213,2014-12-13 00:00:00,Phoenix Suns,Sacramento Kings,116,107
-400489251,2014-12-18 00:00:00,Phoenix Suns,San Antonio Spurs,101,108
-400489263,2014-12-20 00:00:00,Denver Nuggets,Phoenix Suns,99,103
-400489273,2014-12-21 00:00:00,Phoenix Suns,Dallas Mavericks,123,108
-400489351,2015-01-02 00:00:00,Phoenix Suns,Memphis Grizzlies,91,99
-400489368,2015-01-04 00:00:00,Phoenix Suns,Milwaukee Bucks,116,100
-400489386,2015-01-07 00:00:00,Chicago Bulls,Phoenix Suns,92,87
-400489397,2015-01-08 00:00:00,Minnesota Timberwolves,Phoenix Suns,103,104
-400489407,2015-01-10 00:00:00,Memphis Grizzlies,Phoenix Suns,104,99
-400489418,2015-01-11 00:00:00,Detroit Pistons,Phoenix Suns,110,108
-400489464,2015-01-17 00:00:00,Phoenix Suns,Dallas Mavericks,107,110
-400489478,2015-01-19 00:00:00,Phoenix Suns,Denver Nuggets,117,103
-400489502,2015-01-22 00:00:00,Phoenix Suns,Indiana Pacers,124,100
-400489516,2015-01-24 00:00:00,Phoenix Suns,Washington Wizards,95,101
-400489530,2015-01-26 00:00:00,Cleveland Cavaliers,Phoenix Suns,90,99
-400489552,2015-01-29 00:00:00,Milwaukee Bucks,Phoenix Suns,117,126
-400489559,2015-01-30 00:00:00,Indiana Pacers,Phoenix Suns,94,102
-400489579,2015-02-01 00:00:00,Phoenix Suns,Charlotte Hornets,105,95
-400489596,2015-02-04 00:00:00,Phoenix Suns,Chicago Bulls,92,101
-400489602,2015-02-05 00:00:00,Houston Rockets,Phoenix Suns,122,108
-400489647,2015-02-11 00:00:00,Phoenix Suns,Miami Heat,97,103
-400489672,2015-02-18 00:00:00,Denver Nuggets,Phoenix Suns,107 OT,112
-400489695,2015-02-21 00:00:00,Phoenix Suns,San Antonio Spurs,106,85
-400489711,2015-02-23 00:00:00,Phoenix Suns,Houston Rockets,112,115
-400489724,2015-02-25 00:00:00,Phoenix Suns,Minnesota Timberwolves,101,110
-400489733,2015-02-26 00:00:00,Utah Jazz,Phoenix Suns,109,86
-400489746,2015-02-28 00:00:00,Phoenix Suns,New Orleans Pelicans,116,104
-400489762,2015-03-02 00:00:00,Phoenix Suns,Atlanta Hawks,129,120
-400489788,2015-03-06 00:00:00,Phoenix Suns,Oklahoma City Thunder,128,122
-400489839,2015-03-12 00:00:00,Phoenix Suns,Cleveland Cavaliers,101,110
-400489889,2015-03-19 00:00:00,Phoenix Suns,Orlando Magic,109,93
-400489902,2015-03-21 00:00:00,Phoenix Suns,Detroit Pistons,98,92
-400489914,2015-03-23 00:00:00,Minnesota Timberwolves,Phoenix Suns,120,127
-400489921,2015-03-24 00:00:00,Atlanta Hawks,Phoenix Suns,95,102
-400489935,2015-03-26 00:00:00,Washington Wizards,Phoenix Suns,93,99
-400490013,2015-04-04 00:00:00,Portland Trail Blazers,Phoenix Suns,93,109
-400490029,2015-04-06 00:00:00,Phoenix Suns,Oklahoma City Thunder,122,115
-400490043,2015-04-09 00:00:00,New Orleans Pelicans,Phoenix Suns,88,94
-400490059,2015-04-11 00:00:00,San Antonio Spurs,Phoenix Suns,112,104
-400490068,2015-04-12 00:00:00,Dallas Mavericks,Phoenix Suns,101,98
-400490085,2015-04-14 00:00:00,Phoenix Suns,Memphis Grizzlies,91,97
-400490102,2015-04-16 00:00:00,Sacramento Kings,Phoenix Suns,99,104
-400488889,2014-10-30 00:00:00,Sacramento Kings,Denver Nuggets,90,88
-400488932,2014-11-05 00:00:00,Sacramento Kings,Atlanta Hawks,100,105
-400488957,2014-11-08 00:00:00,Portland Trail Blazers,Sacramento Kings,104,91
-400488966,2014-11-09 00:00:00,Sacramento Kings,Portland Trail Blazers,85,96
-400489008,2014-11-15 00:00:00,Sacramento Kings,Detroit Pistons,90,97
-400489021,2014-11-17 00:00:00,Sacramento Kings,Memphis Grizzlies,86,97
-400489140,2014-12-03 00:00:00,Sacramento Kings,Oklahoma City Thunder,95,97
-400489170,2014-12-07 00:00:00,Utah Jazz,Sacramento Kings,102 OT,112
-400489182,2014-12-09 00:00:00,Sacramento Kings,Dallas Mavericks,112,97
-400489198,2014-12-11 00:00:00,Sacramento Kings,Utah Jazz,101,122
-400489223,2014-12-15 00:00:00,Sacramento Kings,Houston Rockets,106,91
-400489237,2014-12-17 00:00:00,Charlotte Hornets,Sacramento Kings,95,87
-400489245,2014-12-18 00:00:00,Atlanta Hawks,Sacramento Kings,124,107
-400489260,2014-12-20 00:00:00,Miami Heat,Sacramento Kings,122,103
-400489268,2014-12-21 00:00:00,Orlando Magic,Sacramento Kings,100,105
-400489290,2014-12-23 00:00:00,Sacramento Kings,New Orleans Pelicans,100,113
-400489307,2014-12-27 00:00:00,Sacramento Kings,Miami Heat,108,103 OT
-400489324,2014-12-29 00:00:00,San Antonio Spurs,Sacramento Kings,112,104
-400489337,2014-12-31 00:00:00,Houston Rockets,Sacramento Kings,106,110
-400489370,2015-01-04 00:00:00,Sacramento Kings,Charlotte Hornets,103,113
-400489392,2015-01-07 00:00:00,Sacramento Kings,Portland Trail Blazers,123,119
-400489413,2015-01-10 00:00:00,Sacramento Kings,Orlando Magic,103,83
-400489425,2015-01-12 00:00:00,Sacramento Kings,Cleveland Cavaliers,124,80
-400489436,2015-01-14 00:00:00,Indiana Pacers,Sacramento Kings,116,92
-400489444,2015-01-15 00:00:00,Minnesota Timberwolves,Sacramento Kings,108,111
-400489461,2015-01-17 00:00:00,Memphis Grizzlies,Sacramento Kings,91,90
-400489476,2015-01-19 00:00:00,Oklahoma City Thunder,Sacramento Kings,108,93
-400489491,2015-01-21 00:00:00,New Orleans Pelicans,Sacramento Kings,97,114
-400489500,2015-01-22 00:00:00,Houston Rockets,Sacramento Kings,119,98
-400489517,2015-01-24 00:00:00,Sacramento Kings,Indiana Pacers,111 OT,116
-400489534,2015-01-26 00:00:00,Sacramento Kings,Denver Nuggets,117,125
-400489540,2015-01-27 00:00:00,Utah Jazz,Sacramento Kings,106,99
-400489557,2015-01-29 00:00:00,Sacramento Kings,Memphis Grizzlies,89,99
-400489566,2015-01-31 00:00:00,Dallas Mavericks,Sacramento Kings,107,103
-400489577,2015-02-01 00:00:00,San Antonio Spurs,Sacramento Kings,95,93
-400489593,2015-02-03 00:00:00,Sacramento Kings,Chicago Bulls,99,70
-400489635,2015-02-09 00:00:00,Washington Wizards,Sacramento Kings,93,84
-400489644,2015-02-11 00:00:00,Cleveland Cavaliers,Sacramento Kings,109,99
-400489710,2015-02-23 00:00:00,Denver Nuggets,Sacramento Kings,95,109
-400489725,2015-02-25 00:00:00,Sacramento Kings,Houston Rockets,103,129
-400489754,2015-03-01 00:00:00,Sacramento Kings,Minnesota Timberwolves,97,108
-400489770,2015-03-03 00:00:00,Sacramento Kings,New Orleans Pelicans,96,89
-400489783,2015-03-05 00:00:00,Milwaukee Bucks,Sacramento Kings,102,116
-400489824,2015-03-11 00:00:00,Detroit Pistons,Sacramento Kings,99,89
-400489859,2015-03-15 00:00:00,Chicago Bulls,Sacramento Kings,94,87
-400489864,2015-03-16 00:00:00,Minnesota Timberwolves,Sacramento Kings,104,102
-400489879,2015-03-18 00:00:00,Sacramento Kings,Washington Wizards,117,111 OT
-400489903,2015-03-21 00:00:00,Sacramento Kings,San Antonio Spurs,79,99
-400489916,2015-03-23 00:00:00,Sacramento Kings,Milwaukee Bucks,124,107
-400489956,2015-03-28 00:00:00,Oklahoma City Thunder,Sacramento Kings,94,81
-400489963,2015-03-29 00:00:00,Dallas Mavericks,Sacramento Kings,103,100
-400489981,2015-03-31 00:00:00,New Orleans Pelicans,Sacramento Kings,97,102
-400490024,2015-04-06 00:00:00,Sacramento Kings,Dallas Mavericks,91,93
-400490033,2015-04-08 00:00:00,Sacramento Kings,Oklahoma City Thunder,92,107
-400490045,2015-04-09 00:00:00,Portland Trail Blazers,Sacramento Kings,100,99
-400490075,2015-04-13 00:00:00,Sacramento Kings,Minnesota Timberwolves,106,103
-400488875,2014-10-29 00:00:00,Miami Heat,Chicago Bulls,107,95
-400488934,2014-11-06 00:00:00,Indiana Pacers,Chicago Bulls,97,80
-400488952,2014-11-08 00:00:00,Chicago Bulls,Utah Jazz,97,73
-400488975,2014-11-11 00:00:00,Chicago Bulls,Cleveland Cavaliers,96,81
-400489013,2014-11-16 00:00:00,Chicago Bulls,Indiana Pacers,110,94
-400489024,2014-11-18 00:00:00,Chicago Bulls,Charlotte Hornets,86,81
-400489048,2014-11-21 00:00:00,Denver Nuggets,Chicago Bulls,97,87
-400489058,2014-11-22 00:00:00,Portland Trail Blazers,Chicago Bulls,98,95
-400489082,2014-11-25 00:00:00,Utah Jazz,Chicago Bulls,89,83 OT
-400489093,2014-11-27 00:00:00,Detroit Pistons,Chicago Bulls,79,99
-400489115,2014-11-30 00:00:00,Cleveland Cavaliers,Chicago Bulls,97,93
-400489130,2014-12-02 00:00:00,Chicago Bulls,New Orleans Pelicans,128 3OT,131
-400489152,2014-12-05 00:00:00,Chicago Bulls,Miami Heat,107,87
-400489165,2014-12-07 00:00:00,Chicago Bulls,Detroit Pistons,75,92
-400489189,2014-12-10 00:00:00,Chicago Bulls,Milwaukee Bucks,74,78
-400489210,2014-12-13 00:00:00,Milwaukee Bucks,Chicago Bulls,90,91
-400489235,2014-12-16 00:00:00,Chicago Bulls,Orlando Magic,82,83
-400489252,2014-12-18 00:00:00,Houston Rockets,Chicago Bulls,109,94
-400489254,2014-12-19 00:00:00,Oklahoma City Thunder,Chicago Bulls,107,95
-400489270,2014-12-21 00:00:00,Chicago Bulls,Cleveland Cavaliers,100,84
-400489314,2014-12-28 00:00:00,Chicago Bulls,Dallas Mavericks,83,105
-400489327,2014-12-30 00:00:00,Memphis Grizzlies,Chicago Bulls,91,95
-400489365,2015-01-04 00:00:00,Chicago Bulls,Atlanta Hawks,91,84
-400489411,2015-01-10 00:00:00,Milwaukee Bucks,Chicago Bulls,72,81
-400489420,2015-01-11 00:00:00,Chicago Bulls,Charlotte Hornets,103,97
-400489431,2015-01-13 00:00:00,Chicago Bulls,Washington Wizards,88,102
-400489439,2015-01-15 00:00:00,Orlando Magic,Chicago Bulls,125 3OT,128
-400489458,2015-01-17 00:00:00,Washington Wizards,Chicago Bulls,96,93
-400489495,2015-01-22 00:00:00,Cleveland Cavaliers,Chicago Bulls,87,98
-400489519,2015-01-25 00:00:00,Charlotte Hornets,Chicago Bulls,87,89
-400489537,2015-01-27 00:00:00,Chicago Bulls,Minnesota Timberwolves,86,95
-400489556,2015-01-29 00:00:00,San Antonio Spurs,Chicago Bulls,86,96
-400489576,2015-02-01 00:00:00,New Orleans Pelicans,Chicago Bulls,88,79
-400489645,2015-02-11 00:00:00,Chicago Bulls,Atlanta Hawks,100,85
-400489693,2015-02-21 00:00:00,Chicago Bulls,Denver Nuggets,117,89
-400489707,2015-02-23 00:00:00,Miami Heat,Chicago Bulls,93,79
-400489722,2015-02-25 00:00:00,Atlanta Hawks,Chicago Bulls,103,107
-400489743,2015-02-28 00:00:00,Dallas Mavericks,Chicago Bulls,91,100
-400489782,2015-03-05 00:00:00,Detroit Pistons,Chicago Bulls,94,105
-400489790,2015-03-07 00:00:00,Chicago Bulls,Memphis Grizzlies,77,85
-400489807,2015-03-09 00:00:00,Chicago Bulls,Miami Heat,95,88 OT
-400489825,2015-03-11 00:00:00,Chicago Bulls,San Antonio Spurs,96,104
-400489841,2015-03-13 00:00:00,Chicago Bulls,Houston Rockets,111,87
-400489872,2015-03-17 00:00:00,Chicago Bulls,Oklahoma City Thunder,85,97
-400489895,2015-03-21 00:00:00,Indiana Pacers,Chicago Bulls,91,79
-400489923,2015-03-24 00:00:00,Chicago Bulls,Indiana Pacers,89,77
-400489953,2015-03-28 00:00:00,Chicago Bulls,Portland Trail Blazers,74,91
-400489993,2015-04-02 00:00:00,Atlanta Hawks,Chicago Bulls,92,105
-400490010,2015-04-04 00:00:00,Chicago Bulls,Milwaukee Bucks,102,90
-400490017,2015-04-05 00:00:00,Washington Wizards,Chicago Bulls,78,96
-400490042,2015-04-09 00:00:00,Minnesota Timberwolves,Chicago Bulls,87,102
-400490054,2015-04-11 00:00:00,Chicago Bulls,Detroit Pistons,106,98
-400490081,2015-04-14 00:00:00,Chicago Bulls,Orlando Magic,108,95
-400490096,2015-04-16 00:00:00,Charlotte Hornets,Chicago Bulls,91,86 OT
-400488893,2014-11-01 00:00:00,Charlotte Hornets,Cleveland Cavaliers,90,84
-400488906,2014-11-02 00:00:00,Indiana Pacers,Cleveland Cavaliers,89,74
-400488920,2014-11-04 00:00:00,Cleveland Cavaliers,Minnesota Timberwolves,93,92
-400488939,2014-11-06 00:00:00,Milwaukee Bucks,Cleveland Cavaliers,109,104
-400488988,2014-11-13 00:00:00,Minnesota Timberwolves,Cleveland Cavaliers,124,95
-400489002,2014-11-15 00:00:00,Cleveland Cavaliers,Charlotte Hornets,80,86
-400489011,2014-11-16 00:00:00,Washington Wizards,Cleveland Cavaliers,96 OT,103
-400489035,2014-11-20 00:00:00,Cleveland Cavaliers,Washington Wizards,91,98
-400489056,2014-11-22 00:00:00,New Orleans Pelicans,Cleveland Cavaliers,104,100
-400489067,2014-11-23 00:00:00,San Antonio Spurs,Cleveland Cavaliers,126,96
-400489092,2014-11-27 00:00:00,Cleveland Cavaliers,Miami Heat,84,95
-400489142,2014-12-04 00:00:00,Cleveland Cavaliers,Denver Nuggets,98,88
-400489155,2014-12-06 00:00:00,Atlanta Hawks,Cleveland Cavaliers,108,89
-400489203,2014-12-13 00:00:00,Orlando Magic,Cleveland Cavaliers,100,109
-400489217,2014-12-14 00:00:00,Miami Heat,Cleveland Cavaliers,114,107
-400489238,2014-12-17 00:00:00,Cleveland Cavaliers,Portland Trail Blazers,116,119
-400489258,2014-12-20 00:00:00,Cleveland Cavaliers,Milwaukee Bucks,114,111 OT
-400489281,2014-12-23 00:00:00,Cleveland Cavaliers,Detroit Pistons,92,115
-400489296,2014-12-26 00:00:00,Cleveland Cavaliers,Atlanta Hawks,125 2OT,127
-400489334,2014-12-31 00:00:00,Indiana Pacers,Cleveland Cavaliers,91,76
-400489346,2015-01-02 00:00:00,Cleveland Cavaliers,Orlando Magic,87,81 OT
-400489372,2015-01-05 00:00:00,Cleveland Cavaliers,Indiana Pacers,78,82
-400489412,2015-01-10 00:00:00,Utah Jazz,Cleveland Cavaliers,102,113
-400489448,2015-01-15 00:00:00,Portland Trail Blazers,Cleveland Cavaliers,108,96
-400489463,2015-01-17 00:00:00,Denver Nuggets,Cleveland Cavaliers,109,117
-400489479,2015-01-20 00:00:00,Cleveland Cavaliers,Dallas Mavericks,97,102
-400489511,2015-01-24 00:00:00,Cleveland Cavaliers,Milwaukee Bucks,93,78
-400489541,2015-01-28 00:00:00,Cleveland Cavaliers,New Orleans Pelicans,89,100
-400489574,2015-02-01 00:00:00,Houston Rockets,Cleveland Cavaliers,106,92
-400489590,2015-02-03 00:00:00,Dallas Mavericks,Cleveland Cavaliers,124,107
-400489615,2015-02-07 00:00:00,Washington Wizards,Cleveland Cavaliers,113,115
-400489633,2015-02-09 00:00:00,Cleveland Cavaliers,Memphis Grizzlies,91,83 OT
-400489655,2015-02-12 00:00:00,Detroit Pistons,Cleveland Cavaliers,89,93
-400489675,2015-02-19 00:00:00,Cleveland Cavaliers,Orlando Magic,101,93
-400489708,2015-02-23 00:00:00,Cleveland Cavaliers,Washington Wizards,83,96
-400489731,2015-02-26 00:00:00,Oklahoma City Thunder,Cleveland Cavaliers,104,114
-400489740,2015-02-28 00:00:00,Cleveland Cavaliers,Utah Jazz,99,79
-400489752,2015-03-01 00:00:00,Memphis Grizzlies,Cleveland Cavaliers,110,96
-400489771,2015-03-04 00:00:00,Cleveland Cavaliers,San Antonio Spurs,101,122
-400489791,2015-03-07 00:00:00,Charlotte Hornets,Cleveland Cavaliers,101,92
-400489876,2015-03-18 00:00:00,Cleveland Cavaliers,Miami Heat,96,100
-400489891,2015-03-20 00:00:00,Cleveland Cavaliers,Oklahoma City Thunder,95,102
-400489906,2015-03-22 00:00:00,Cleveland Cavaliers,Houston Rockets,111,118
-400489937,2015-03-26 00:00:00,Detroit Pistons,Cleveland Cavaliers,96,97
-400489967,2015-03-30 00:00:00,Cleveland Cavaliers,Indiana Pacers,90,76
-400489989,2015-04-02 00:00:00,Orlando Magic,Cleveland Cavaliers,98,119
-400490005,2015-04-04 00:00:00,Atlanta Hawks,Cleveland Cavaliers,117,98
-400490018,2015-04-05 00:00:00,Cleveland Cavaliers,Charlotte Hornets,94 OT,96
-400490035,2015-04-09 00:00:00,Cleveland Cavaliers,Detroit Pistons,122,100
-400490058,2015-04-11 00:00:00,Milwaukee Bucks,Cleveland Cavaliers,119,116
-400488880,2014-10-30 00:00:00,Detroit Pistons,Washington Wizards,113,102
-400488899,2014-11-01 00:00:00,Memphis Grizzlies,Detroit Pistons,111,108 OT
-400488926,2014-11-05 00:00:00,Detroit Pistons,Indiana Pacers,91,99
-400488951,2014-11-08 00:00:00,Detroit Pistons,Oklahoma City Thunder,110,119
-400488978,2014-11-11 00:00:00,Portland Trail Blazers,Detroit Pistons,109,103
-400489039,2014-11-20 00:00:00,Atlanta Hawks,Detroit Pistons,93,85
-400489053,2014-11-22 00:00:00,Detroit Pistons,Atlanta Hawks,89,96
-400489077,2014-11-25 00:00:00,Detroit Pistons,Milwaukee Bucks,113,94
-400489137,2014-12-03 00:00:00,Miami Heat,Detroit Pistons,97,107
-400489145,2014-12-04 00:00:00,Milwaukee Bucks,Detroit Pistons,98,105
-400489173,2014-12-08 00:00:00,Detroit Pistons,Miami Heat,95,110
-400489188,2014-12-10 00:00:00,Detroit Pistons,Minnesota Timberwolves,94,121
-400489196,2014-12-11 00:00:00,New Orleans Pelicans,Detroit Pistons,111,106 OT
-400489225,2014-12-15 00:00:00,Detroit Pistons,Portland Trail Blazers,109 OT,111
-400489229,2014-12-16 00:00:00,Indiana Pacers,Detroit Pistons,96,101
-400489259,2014-12-20 00:00:00,Detroit Pistons,Charlotte Hornets,106,116
-400489269,2014-12-21 00:00:00,Detroit Pistons,Houston Rockets,97,114
-400489301,2014-12-27 00:00:00,Orlando Magic,Detroit Pistons,109,92
-400489312,2014-12-28 00:00:00,Washington Wizards,Detroit Pistons,106,82
-400489326,2014-12-30 00:00:00,Detroit Pistons,Washington Wizards,99,106
-400489371,2015-01-05 00:00:00,Detroit Pistons,Memphis Grizzlies,84,112
-400489460,2015-01-17 00:00:00,Detroit Pistons,Utah Jazz,89,110
-400489468,2015-01-18 00:00:00,Washington Wizards,Detroit Pistons,98,104
-400489501,2015-01-22 00:00:00,Milwaukee Bucks,Detroit Pistons,104,101
-400489512,2015-01-24 00:00:00,Detroit Pistons,New Orleans Pelicans,101,103
-400489532,2015-01-26 00:00:00,Dallas Mavericks,Detroit Pistons,116,106
-400489542,2015-01-28 00:00:00,Detroit Pistons,Orlando Magic,103,87
-400489586,2015-02-03 00:00:00,Miami Heat,Detroit Pistons,102,96
-400489606,2015-02-05 00:00:00,Orlando Magic,Detroit Pistons,112,98
-400489624,2015-02-08 00:00:00,Detroit Pistons,Denver Nuggets,126,109
-400489639,2015-02-10 00:00:00,Detroit Pistons,San Antonio Spurs,109,100
-400489668,2015-02-18 00:00:00,Detroit Pistons,Charlotte Hornets,96,108
-400489674,2015-02-19 00:00:00,Charlotte Hornets,Detroit Pistons,116,98
-400489692,2015-02-21 00:00:00,Detroit Pistons,Atlanta Hawks,115,107
-400489701,2015-02-22 00:00:00,Detroit Pistons,Dallas Mavericks,102,113
-400489732,2015-02-26 00:00:00,San Antonio Spurs,Detroit Pistons,120,110
-400489749,2015-03-01 00:00:00,Houston Rockets,Detroit Pistons,118,110
-400489795,2015-03-07 00:00:00,Minnesota Timberwolves,Detroit Pistons,114,101
-400489857,2015-03-15 00:00:00,Detroit Pistons,Indiana Pacers,104 OT,112
-400489888,2015-03-19 00:00:00,Denver Nuggets,Detroit Pistons,118,109
-400489928,2015-03-24 00:00:00,Utah Jazz,Detroit Pistons,94,114
-400489952,2015-03-28 00:00:00,Detroit Pistons,Miami Heat,78,110
-400489977,2015-03-31 00:00:00,Detroit Pistons,Milwaukee Bucks,116,111
-400489987,2015-04-02 00:00:00,Indiana Pacers,Detroit Pistons,101,94
-400532894,2015-04-08 00:00:00,Atlanta Hawks,Detroit Pistons,95,102
-400490093,2015-04-16 00:00:00,Oklahoma City Thunder,Detroit Pistons,112,111
-400488874,2014-10-29 00:00:00,Indiana Pacers,Orlando Magic,97,87
-400488884,2014-10-30 00:00:00,New Orleans Pelicans,Indiana Pacers,90,95
-400488972,2014-11-11 00:00:00,Indiana Pacers,Memphis Grizzlies,95,79
-400488998,2014-11-15 00:00:00,Indiana Pacers,Milwaukee Bucks,104,77
-400489076,2014-11-25 00:00:00,Indiana Pacers,Minnesota Timberwolves,98,84
-400489088,2014-11-27 00:00:00,Charlotte Hornets,Indiana Pacers,74,99
-400489109,2014-11-29 00:00:00,Indiana Pacers,Washington Wizards,93,73
-400489133,2014-12-02 00:00:00,Portland Trail Blazers,Indiana Pacers,106,102
-400489147,2014-12-04 00:00:00,Utah Jazz,Indiana Pacers,86,95
-400489169,2014-12-07 00:00:00,San Antonio Spurs,Indiana Pacers,100,111
-400489175,2014-12-08 00:00:00,Oklahoma City Thunder,Indiana Pacers,118,94
-400489184,2014-12-10 00:00:00,Indiana Pacers,Miami Heat,90,84
-400489202,2014-12-13 00:00:00,Indiana Pacers,Charlotte Hornets,99,94
-400489242,2014-12-18 00:00:00,Miami Heat,Indiana Pacers,97,94
-400489261,2014-12-20 00:00:00,Indiana Pacers,Houston Rockets,114,81
-400489362,2015-01-04 00:00:00,Indiana Pacers,New Orleans Pelicans,99,82
-400489395,2015-01-08 00:00:00,Atlanta Hawks,Indiana Pacers,97,87
-400489404,2015-01-10 00:00:00,Indiana Pacers,Washington Wizards,93,66
-400489524,2015-01-25 00:00:00,Denver Nuggets,Indiana Pacers,109,96
-400489583,2015-02-03 00:00:00,Indiana Pacers,Orlando Magic,98,79
-400489594,2015-02-04 00:00:00,Atlanta Hawks,Indiana Pacers,85,89
-400489612,2015-02-07 00:00:00,Indiana Pacers,Portland Trail Blazers,118,113 OT
-400489634,2015-02-09 00:00:00,Orlando Magic,Indiana Pacers,93,92
-400489637,2015-02-10 00:00:00,Indiana Pacers,Denver Nuggets,119,80
-400489650,2015-02-12 00:00:00,Indiana Pacers,Dallas Mavericks,73,81
-400489665,2015-02-18 00:00:00,Indiana Pacers,Atlanta Hawks,108,98
-400489678,2015-02-19 00:00:00,Minnesota Timberwolves,Indiana Pacers,104,91
-400489702,2015-02-22 00:00:00,Milwaukee Bucks,Indiana Pacers,100,110
-400489736,2015-02-27 00:00:00,Indiana Pacers,Milwaukee Bucks,101,96
-400489758,2015-03-02 00:00:00,Indiana Pacers,Utah Jazz,94,91
-400489777,2015-03-05 00:00:00,Charlotte Hornets,Indiana Pacers,109,87
-400489799,2015-03-07 00:00:00,Houston Rockets,Indiana Pacers,112,86
-400489814,2015-03-09 00:00:00,Dallas Mavericks,Indiana Pacers,105,94
-400489908,2015-03-22 00:00:00,Memphis Grizzlies,Indiana Pacers,82,71
-400489940,2015-03-26 00:00:00,Indiana Pacers,Miami Heat,84,83
-400489950,2015-03-28 00:00:00,Washington Wizards,Indiana Pacers,91,78
-400489975,2015-03-31 00:00:00,Indiana Pacers,San Antonio Spurs,77,103
-400490025,2015-04-06 00:00:00,Indiana Pacers,Atlanta Hawks,88,107
-400490041,2015-04-09 00:00:00,Milwaukee Bucks,Indiana Pacers,102,104
-400490053,2015-04-11 00:00:00,Miami Heat,Indiana Pacers,98,86
-400490073,2015-04-13 00:00:00,Indiana Pacers,Oklahoma City Thunder,102,97
-400490100,2015-04-16 00:00:00,Orlando Magic,Indiana Pacers,86,101
-400488965,2014-11-09 00:00:00,Milwaukee Bucks,Dallas Mavericks,83,91
-400488980,2014-11-12 00:00:00,Miami Heat,Milwaukee Bucks,118,95
-400488984,2014-11-13 00:00:00,Orlando Magic,Milwaukee Bucks,94,91
-400489017,2014-11-16 00:00:00,Milwaukee Bucks,Oklahoma City Thunder,79,92
-400489040,2014-11-20 00:00:00,Milwaukee Bucks,Portland Trail Blazers,82,91
-400489066,2014-11-23 00:00:00,Milwaukee Bucks,Charlotte Hornets,72,96
-400489095,2014-11-27 00:00:00,Milwaukee Bucks,Washington Wizards,92 OT,100
-400489101,2014-11-29 00:00:00,Charlotte Hornets,Milwaukee Bucks,92,76
-400489154,2014-12-06 00:00:00,Washington Wizards,Milwaukee Bucks,105 OT,109
-400489194,2014-12-11 00:00:00,Milwaukee Bucks,San Antonio Spurs,77,109
-400489221,2014-12-14 00:00:00,Dallas Mavericks,Milwaukee Bucks,106,93
-400489280,2014-12-23 00:00:00,Charlotte Hornets,Milwaukee Bucks,111,110 OT
-400489317,2014-12-28 00:00:00,Milwaukee Bucks,Minnesota Timberwolves,95,117
-400489352,2015-01-02 00:00:00,Utah Jazz,Milwaukee Bucks,96,87
-400489421,2015-01-11 00:00:00,Oklahoma City Thunder,Milwaukee Bucks,101,85
-400489443,2015-01-15 00:00:00,Milwaukee Bucks,Memphis Grizzlies,77,82
-400489470,2015-01-18 00:00:00,Houston Rockets,Milwaukee Bucks,114,104
-400489477,2015-01-19 00:00:00,San Antonio Spurs,Milwaukee Bucks,110,82
-400489523,2015-01-25 00:00:00,Milwaukee Bucks,Atlanta Hawks,87,112
-400489562,2015-01-31 00:00:00,Orlando Magic,Milwaukee Bucks,113,102
-400489575,2015-02-01 00:00:00,Memphis Grizzlies,Milwaukee Bucks,99,90
-400489607,2015-02-05 00:00:00,Denver Nuggets,Milwaukee Bucks,110,100
-400489626,2015-02-08 00:00:00,Milwaukee Bucks,Houston Rockets,95,101
-400489658,2015-02-12 00:00:00,Milwaukee Bucks,New Orleans Pelicans,98,102
-400489670,2015-02-18 00:00:00,Milwaukee Bucks,Orlando Magic,104,100
-400489685,2015-02-20 00:00:00,Milwaukee Bucks,Denver Nuggets,90,101
-400489767,2015-03-03 00:00:00,Milwaukee Bucks,Utah Jazz,114,88
-400489796,2015-03-07 00:00:00,New Orleans Pelicans,Milwaukee Bucks,112,104
-400489804,2015-03-08 00:00:00,Milwaukee Bucks,Washington Wizards,107,114
-400489820,2015-03-10 00:00:00,Milwaukee Bucks,Orlando Magic,105,98
-400489827,2015-03-11 00:00:00,Minnesota Timberwolves,Milwaukee Bucks,112,101
-400489842,2015-03-13 00:00:00,Atlanta Hawks,Milwaukee Bucks,102,97
-400489860,2015-03-16 00:00:00,Milwaukee Bucks,Charlotte Hornets,92,101
-400489878,2015-03-18 00:00:00,Portland Trail Blazers,Milwaukee Bucks,120,115 OT
-400489964,2015-03-29 00:00:00,Milwaukee Bucks,Miami Heat,67,88
-400489994,2015-04-02 00:00:00,Miami Heat,Milwaukee Bucks,96,77
-400490064,2015-04-12 00:00:00,Washington Wizards,Milwaukee Bucks,104,91
-400490090,2015-04-16 00:00:00,Milwaukee Bucks,Atlanta Hawks,103,111
-400488885,2014-10-30 00:00:00,Dallas Mavericks,Atlanta Hawks,118,109
-400488898,2014-11-01 00:00:00,Houston Rockets,Dallas Mavericks,113,105
-400488909,2014-11-02 00:00:00,Dallas Mavericks,Memphis Grizzlies,111,99
-400488942,2014-11-06 00:00:00,Oklahoma City Thunder,Dallas Mavericks,107,93
-400488953,2014-11-08 00:00:00,Minnesota Timberwolves,Dallas Mavericks,116,108
-400488981,2014-11-12 00:00:00,Dallas Mavericks,Washington Wizards,105,95
-400489003,2014-11-15 00:00:00,Miami Heat,Dallas Mavericks,110,104
-400489010,2014-11-16 00:00:00,Orlando Magic,Dallas Mavericks,100,108
-400489045,2014-11-20 00:00:00,Dallas Mavericks,Houston Rockets,123,120
-400489057,2014-11-22 00:00:00,Dallas Mavericks,Utah Jazz,103,93
-400489068,2014-11-23 00:00:00,Denver Nuggets,Dallas Mavericks,102,100
-400489080,2014-11-25 00:00:00,Dallas Mavericks,Denver Nuggets,96,110
-400489104,2014-11-29 00:00:00,Atlanta Hawks,Dallas Mavericks,88,87
-400489117,2014-11-30 00:00:00,Dallas Mavericks,Minnesota Timberwolves,106,112
-400489139,2014-12-03 00:00:00,Dallas Mavericks,Charlotte Hornets,89,82
-400489146,2014-12-04 00:00:00,New Orleans Pelicans,Dallas Mavericks,97,100
-400489171,2014-12-07 00:00:00,Portland Trail Blazers,Dallas Mavericks,106,108
-400489250,2014-12-18 00:00:00,Dallas Mavericks,Memphis Grizzlies,105,91
-400489285,2014-12-23 00:00:00,Houston Rockets,Dallas Mavericks,104,111
-400489298,2014-12-26 00:00:00,Dallas Mavericks,San Antonio Spurs,107,116
-400489328,2014-12-30 00:00:00,Minnesota Timberwolves,Dallas Mavericks,98,100
-400489341,2015-01-01 00:00:00,Washington Wizards,Dallas Mavericks,78,87
-400489393,2015-01-08 00:00:00,San Antonio Spurs,Dallas Mavericks,112,90
-400489409,2015-01-10 00:00:00,New Orleans Pelicans,Dallas Mavericks,90,107
-400489422,2015-01-11 00:00:00,Dallas Mavericks,New Orleans Pelicans,110,107
-400489433,2015-01-13 00:00:00,Dallas Mavericks,Orlando Magic,107,88
-400489473,2015-01-18 00:00:00,Dallas Mavericks,Portland Trail Blazers,111,127
-400489554,2015-01-29 00:00:00,Dallas Mavericks,Houston Rockets,115,117
-400489603,2015-02-05 00:00:00,Memphis Grizzlies,Dallas Mavericks,96,110
-400489619,2015-02-07 00:00:00,Dallas Mavericks,Utah Jazz,103,81
-400489643,2015-02-11 00:00:00,Charlotte Hornets,Dallas Mavericks,114,89
-400489671,2015-02-18 00:00:00,Dallas Mavericks,Miami Heat,106,117
-400489729,2015-02-26 00:00:00,Dallas Mavericks,New Orleans Pelicans,108,89
-400489761,2015-03-02 00:00:00,San Antonio Spurs,Dallas Mavericks,112,106
-400489785,2015-03-05 00:00:00,Denver Nuggets,Dallas Mavericks,115,110
-400489797,2015-03-07 00:00:00,Dallas Mavericks,Portland Trail Blazers,103,98
-400489837,2015-03-12 00:00:00,Utah Jazz,Dallas Mavericks,101,108
-400489865,2015-03-16 00:00:00,Oklahoma City Thunder,Dallas Mavericks,86,109
-400489887,2015-03-19 00:00:00,Dallas Mavericks,Minnesota Timberwolves,122 OT,123
-400489901,2015-03-21 00:00:00,Dallas Mavericks,Denver Nuggets,122,106
-400489932,2015-03-25 00:00:00,Dallas Mavericks,Oklahoma City Thunder,128,119 OT
-400490032,2015-04-08 00:00:00,Utah Jazz,Dallas Mavericks,83,95
-400490047,2015-04-10 00:00:00,Dallas Mavericks,San Antonio Spurs,100,109
-400490089,2015-04-16 00:00:00,Memphis Grizzlies,Dallas Mavericks,106,105 OT
-400488882,2014-10-30 00:00:00,Houston Rockets,Charlotte Hornets,96,83
-400488911,2014-11-02 00:00:00,Utah Jazz,Houston Rockets,93,104
-400488931,2014-11-05 00:00:00,Portland Trail Blazers,Houston Rockets,101,116
-400489014,2014-11-16 00:00:00,Houston Rockets,Denver Nuggets,122,111
-400489065,2014-11-23 00:00:00,Houston Rockets,Minnesota Timberwolves,112,101
-400489079,2014-11-25 00:00:00,Memphis Grizzlies,Houston Rockets,86,93
-400489094,2014-11-27 00:00:00,Houston Rockets,Atlanta Hawks,113,84
-400489118,2014-11-30 00:00:00,San Antonio Spurs,Houston Rockets,106,112
-400489132,2014-12-02 00:00:00,Utah Jazz,Houston Rockets,109,103
-400489174,2014-12-08 00:00:00,Houston Rockets,Orlando Magic,98,88
-400489201,2014-12-12 00:00:00,Portland Trail Blazers,Houston Rockets,111,104
-400489294,2014-12-25 00:00:00,San Antonio Spurs,Houston Rockets,98,111
-400489297,2014-12-26 00:00:00,Houston Rockets,Memphis Grizzlies,100,92
-400489315,2014-12-28 00:00:00,Houston Rockets,New Orleans Pelicans,107,98
-400489323,2014-12-29 00:00:00,Oklahoma City Thunder,Houston Rockets,117,86
-400489406,2015-01-10 00:00:00,Atlanta Hawks,Houston Rockets,83,80
-400489417,2015-01-11 00:00:00,Washington Wizards,Houston Rockets,107,114
-400489445,2015-01-15 00:00:00,New Orleans Pelicans,Houston Rockets,100,103
-400489453,2015-01-16 00:00:00,Houston Rockets,Oklahoma City Thunder,92,104
-400489487,2015-01-20 00:00:00,Houston Rockets,Portland Trail Blazers,126,113
-400489515,2015-01-24 00:00:00,Houston Rockets,Memphis Grizzlies,87,88
-400489522,2015-01-25 00:00:00,Memphis Grizzlies,Houston Rockets,99,81
-400489544,2015-01-28 00:00:00,Houston Rockets,San Antonio Spurs,97,90
-400489641,2015-02-10 00:00:00,Minnesota Timberwolves,Houston Rockets,89,107
-400489657,2015-02-12 00:00:00,Houston Rockets,Washington Wizards,113,112
-400489773,2015-03-04 00:00:00,Houston Rockets,Miami Heat,106,103
-400489778,2015-03-05 00:00:00,Orlando Magic,Houston Rockets,89,101
-400489812,2015-03-09 00:00:00,Houston Rockets,Portland Trail Blazers,118,113 OT
-400489828,2015-03-11 00:00:00,Oklahoma City Thunder,Houston Rockets,106,98
-400489862,2015-03-16 00:00:00,Miami Heat,Houston Rockets,113,104
-400489873,2015-03-17 00:00:00,Houston Rockets,Utah Jazz,124,86
-400489892,2015-03-20 00:00:00,Houston Rockets,Minnesota Timberwolves,129,106
-400489920,2015-03-24 00:00:00,Charlotte Hornets,Houston Rockets,89,100
-400490012,2015-04-04 00:00:00,Houston Rockets,Oklahoma City Thunder,111,107
-400490026,2015-04-06 00:00:00,Houston Rockets,Denver Nuggets,130,125 OT
-400490044,2015-04-09 00:00:00,Denver Nuggets,Houston Rockets,123,116
-400490056,2015-04-11 00:00:00,Minnesota Timberwolves,Houston Rockets,112,110
-400490067,2015-04-12 00:00:00,Houston Rockets,New Orleans Pelicans,111,104
-400490082,2015-04-14 00:00:00,Houston Rockets,San Antonio Spurs,104,98
-400490092,2015-04-16 00:00:00,New Orleans Pelicans,Houston Rockets,105,100
-400488886,2014-10-30 00:00:00,San Antonio Spurs,Memphis Grizzlies,101,94
-400488938,2014-11-06 00:00:00,Memphis Grizzlies,New Orleans Pelicans,84,99
-400489054,2014-11-22 00:00:00,Memphis Grizzlies,San Antonio Spurs,86,102
-400489180,2014-12-09 00:00:00,Memphis Grizzlies,Orlando Magic,94,85
-400489193,2014-12-11 00:00:00,Memphis Grizzlies,Oklahoma City Thunder,100,116
-400489208,2014-12-13 00:00:00,New Orleans Pelicans,Memphis Grizzlies,104,98
-400489224,2014-12-15 00:00:00,Memphis Grizzlies,Minnesota Timberwolves,93,101
-400489286,2014-12-23 00:00:00,Memphis Grizzlies,Utah Jazz,104,94
-400489316,2014-12-28 00:00:00,Memphis Grizzlies,Denver Nuggets,120,99
-400489360,2015-01-03 00:00:00,Denver Nuggets,Memphis Grizzlies,111,108
-400489387,2015-01-07 00:00:00,Memphis Grizzlies,San Antonio Spurs,108 OT,110
-400489426,2015-01-12 00:00:00,Memphis Grizzlies,Atlanta Hawks,108,101
-400489437,2015-01-14 00:00:00,Memphis Grizzlies,Oklahoma City Thunder,90,87
-400489484,2015-01-20 00:00:00,Memphis Grizzlies,New Orleans Pelicans,92,95
-400489545,2015-01-28 00:00:00,Portland Trail Blazers,Memphis Grizzlies,81,98
-400489564,2015-01-31 00:00:00,Minnesota Timberwolves,Memphis Grizzlies,90,94
-400489589,2015-02-03 00:00:00,Oklahoma City Thunder,Memphis Grizzlies,86,77
-400489623,2015-02-08 00:00:00,Atlanta Hawks,Memphis Grizzlies,76,79
-400489646,2015-02-11 00:00:00,Memphis Grizzlies,Washington Wizards,92,89
-400489651,2015-02-12 00:00:00,Orlando Magic,Memphis Grizzlies,81,86
-400489698,2015-02-22 00:00:00,Charlotte Hornets,Memphis Grizzlies,92,89
-400489741,2015-02-28 00:00:00,Oklahoma City Thunder,Memphis Grizzlies,113,107
-400489763,2015-03-03 00:00:00,Washington Wizards,Memphis Grizzlies,104,110
-400489803,2015-03-08 00:00:00,Memphis Grizzlies,Charlotte Hornets,111,89
-400489826,2015-03-11 00:00:00,Memphis Grizzlies,Portland Trail Blazers,109,99
-400489836,2015-03-12 00:00:00,New Orleans Pelicans,Memphis Grizzlies,88,90
-400489884,2015-03-19 00:00:00,Memphis Grizzlies,Utah Jazz,96,86
-400489900,2015-03-21 00:00:00,Miami Heat,Memphis Grizzlies,91,86
-400489924,2015-03-24 00:00:00,Memphis Grizzlies,Minnesota Timberwolves,109,92
-400489943,2015-03-26 00:00:00,Utah Jazz,Memphis Grizzlies,87,91
-400489972,2015-03-30 00:00:00,Portland Trail Blazers,Memphis Grizzlies,105,98
-400489982,2015-03-31 00:00:00,Denver Nuggets,Memphis Grizzlies,92,94
-400489995,2015-04-02 00:00:00,Minnesota Timberwolves,Memphis Grizzlies,102,88
-400490002,2015-04-04 00:00:00,Memphis Grizzlies,Denver Nuggets,100,92
-400490027,2015-04-06 00:00:00,San Antonio Spurs,Memphis Grizzlies,112,92
-400490040,2015-04-09 00:00:00,Memphis Grizzlies,Miami Heat,107,102
-400488894,2014-11-01 00:00:00,Orlando Magic,New Orleans Pelicans,110,90
-400488908,2014-11-02 00:00:00,New Orleans Pelicans,Charlotte Hornets,105,84
-400488992,2014-11-13 00:00:00,Utah Jazz,New Orleans Pelicans,111,105
-400489042,2014-11-20 00:00:00,New Orleans Pelicans,Utah Jazz,105,98
-400489081,2014-11-25 00:00:00,San Antonio Spurs,New Orleans Pelicans,112,93
-400489159,2014-12-06 00:00:00,New Orleans Pelicans,Oklahoma City Thunder,95,109
-400489227,2014-12-15 00:00:00,Denver Nuggets,New Orleans Pelicans,102,93
-400489274,2014-12-21 00:00:00,Portland Trail Blazers,New Orleans Pelicans,110,107
-400489305,2014-12-27 00:00:00,New Orleans Pelicans,Denver Nuggets,105,89
-400489329,2014-12-30 00:00:00,New Orleans Pelicans,Portland Trail Blazers,110,108
-400489343,2015-01-01 00:00:00,Minnesota Timberwolves,New Orleans Pelicans,124,112
-400489384,2015-01-07 00:00:00,Miami Heat,New Orleans Pelicans,107,88
-400489398,2015-01-08 00:00:00,New Orleans Pelicans,Washington Wizards,96,102
-400489432,2015-01-13 00:00:00,New Orleans Pelicans,San Antonio Spurs,95,101
-400489529,2015-01-26 00:00:00,New Orleans Pelicans,Orlando Magic,100,92
-400489553,2015-01-29 00:00:00,Minnesota Timberwolves,New Orleans Pelicans,88,77
-400489588,2015-02-03 00:00:00,New Orleans Pelicans,San Antonio Spurs,95,102
-400489604,2015-02-05 00:00:00,New Orleans Pelicans,Atlanta Hawks,105,100
-400489620,2015-02-07 00:00:00,New Orleans Pelicans,Minnesota Timberwolves,98,91
-400489688,2015-02-21 00:00:00,Charlotte Hornets,New Orleans Pelicans,90,87
-400489699,2015-02-22 00:00:00,Washington Wizards,New Orleans Pelicans,94,93
-400489809,2015-03-09 00:00:00,New Orleans Pelicans,Denver Nuggets,111,107 OT
-400489850,2015-03-14 00:00:00,New Orleans Pelicans,Portland Trail Blazers,103,111
-400489898,2015-03-21 00:00:00,Atlanta Hawks,New Orleans Pelicans,105,111
-400489909,2015-03-22 00:00:00,New Orleans Pelicans,Miami Heat,105,95
-400489955,2015-03-28 00:00:00,New Orleans Pelicans,Utah Jazz,102,95
-400489965,2015-03-29 00:00:00,San Antonio Spurs,New Orleans Pelicans,96,80
-400489997,2015-04-02 00:00:00,Denver Nuggets,New Orleans Pelicans,137,107
-400490011,2015-04-04 00:00:00,Utah Jazz,New Orleans Pelicans,100,96
-400490030,2015-04-06 00:00:00,Portland Trail Blazers,New Orleans Pelicans,100,94
-400490057,2015-04-11 00:00:00,Oklahoma City Thunder,New Orleans Pelicans,116,94
-400490083,2015-04-14 00:00:00,New Orleans Pelicans,Oklahoma City Thunder,101,89
-400488912,2014-11-02 00:00:00,Portland Trail Blazers,San Antonio Spurs,115,105
-400488930,2014-11-05 00:00:00,Denver Nuggets,San Antonio Spurs,94,102
-400488990,2014-11-13 00:00:00,San Antonio Spurs,Washington Wizards,92,79
-400489006,2014-11-15 00:00:00,Utah Jazz,San Antonio Spurs,82,91
-400489097,2014-11-27 00:00:00,Oklahoma City Thunder,San Antonio Spurs,94,88
-400489102,2014-11-29 00:00:00,Orlando Magic,San Antonio Spurs,91,109
-400489131,2014-12-02 00:00:00,San Antonio Spurs,Atlanta Hawks,102,100
-400489211,2014-12-13 00:00:00,San Antonio Spurs,Minnesota Timberwolves,117,110
-400489222,2014-12-14 00:00:00,Utah Jazz,San Antonio Spurs,84,100
-400489272,2014-12-21 00:00:00,San Antonio Spurs,Oklahoma City Thunder,100,113
-400489427,2015-01-12 00:00:00,San Antonio Spurs,Minnesota Timberwolves,104,86
-400489446,2015-01-15 00:00:00,San Antonio Spurs,Utah Jazz,109,105
-400489462,2015-01-17 00:00:00,San Antonio Spurs,Portland Trail Blazers,100,109
-400489503,2015-01-22 00:00:00,San Antonio Spurs,Oklahoma City Thunder,105,111
-400489508,2015-01-24 00:00:00,Atlanta Hawks,San Antonio Spurs,79,105
-400489527,2015-01-26 00:00:00,Miami Heat,San Antonio Spurs,113,101
-400489600,2015-02-05 00:00:00,Washington Wizards,San Antonio Spurs,118 2OT,125
-400489622,2015-02-08 00:00:00,Charlotte Hornets,San Antonio Spurs,100,104
-400489682,2015-02-19 00:00:00,Portland Trail Blazers,San Antonio Spurs,109,111
-400489744,2015-02-28 00:00:00,San Antonio Spurs,Charlotte Hornets,92,82
-400489787,2015-03-06 00:00:00,San Antonio Spurs,Miami Heat,111,87
-400489805,2015-03-08 00:00:00,San Antonio Spurs,Orlando Magic,121,112
-400489838,2015-03-12 00:00:00,San Antonio Spurs,Portland Trail Blazers,103,90
-400489866,2015-03-16 00:00:00,San Antonio Spurs,Utah Jazz,122,104
-400489941,2015-03-26 00:00:00,San Antonio Spurs,Denver Nuggets,108,103
-400489957,2015-03-28 00:00:00,Denver Nuggets,San Antonio Spurs,102,133
-400490000,2015-04-03 00:00:00,Oklahoma City Thunder,San Antonio Spurs,106,94
-400528655,2015-04-08 00:00:00,Minnesota Timberwolves,San Antonio Spurs,110,91
-400488944,2014-11-07 00:00:00,Denver Nuggets,Atlanta Hawks,109,107
-400488959,2014-11-09 00:00:00,Atlanta Hawks,Orlando Magic,104,94
-400488971,2014-11-11 00:00:00,Charlotte Hornets,Atlanta Hawks,94,103
-400489031,2014-11-19 00:00:00,Miami Heat,Atlanta Hawks,104,88
-400489086,2014-11-26 00:00:00,Atlanta Hawks,Orlando Magic,92,109
-400489114,2014-11-30 00:00:00,Washington Wizards,Atlanta Hawks,108,101
-400489186,2014-12-10 00:00:00,Atlanta Hawks,Oklahoma City Thunder,92,101
-400489205,2014-12-13 00:00:00,Atlanta Hawks,Washington Wizards,101,99 OT
-400489257,2014-12-20 00:00:00,Atlanta Hawks,Utah Jazz,118,85
-400489284,2014-12-23 00:00:00,Miami Heat,Atlanta Hawks,121,119 OT
-400489313,2014-12-28 00:00:00,Atlanta Hawks,Charlotte Hornets,118,116 OT
-400489322,2014-12-29 00:00:00,Orlando Magic,Atlanta Hawks,109,102
-400489485,2015-01-20 00:00:00,Atlanta Hawks,Miami Heat,121,114
-400489496,2015-01-22 00:00:00,Orlando Magic,Atlanta Hawks,109,112
-400489539,2015-01-27 00:00:00,Oklahoma City Thunder,Atlanta Hawks,111,109
-400489572,2015-02-01 00:00:00,Atlanta Hawks,Minnesota Timberwolves,120,113
-400489677,2015-02-19 00:00:00,Atlanta Hawks,Washington Wizards,97,114
-400489786,2015-03-05 00:00:00,Portland Trail Blazers,Atlanta Hawks,102,78
-400489821,2015-03-10 00:00:00,Utah Jazz,Atlanta Hawks,110,112
-400489856,2015-03-15 00:00:00,Atlanta Hawks,Denver Nuggets,97,92
-400489869,2015-03-17 00:00:00,Charlotte Hornets,Atlanta Hawks,83,97
-400489938,2015-03-26 00:00:00,Minnesota Timberwolves,Atlanta Hawks,107,83
-400489944,2015-03-27 00:00:00,Atlanta Hawks,Portland Trail Blazers,85,100
-400489962,2015-03-29 00:00:00,Washington Wizards,Atlanta Hawks,101,97
-400490065,2015-04-12 00:00:00,Atlanta Hawks,Miami Heat,98,85
-400490080,2015-04-14 00:00:00,Atlanta Hawks,Charlotte Hornets,93,95
-400489009,2014-11-16 00:00:00,Charlotte Hornets,Miami Heat,81,97
-400489125,2014-12-01 00:00:00,Miami Heat,Charlotte Hornets,99,98
-400489191,2014-12-11 00:00:00,Charlotte Hornets,Orlando Magic,83,92
-400489267,2014-12-21 00:00:00,Charlotte Hornets,Utah Jazz,85,88
-400489300,2014-12-27 00:00:00,Charlotte Hornets,Oklahoma City Thunder,85,89
-400489331,2014-12-30 00:00:00,Utah Jazz,Charlotte Hornets,83,80
-400489353,2015-01-02 00:00:00,Portland Trail Blazers,Charlotte Hornets,134,104
-400489381,2015-01-07 00:00:00,Charlotte Hornets,Washington Wizards,83,97
-400489408,2015-01-10 00:00:00,Minnesota Timberwolves,Charlotte Hornets,119,92
-400489455,2015-01-17 00:00:00,Orlando Magic,Charlotte Hornets,101,111
-400489466,2015-01-18 00:00:00,Charlotte Hornets,Miami Heat,96 OT,104
-400489555,2015-01-29 00:00:00,Denver Nuggets,Charlotte Hornets,98,101
-400489760,2015-03-02 00:00:00,Oklahoma City Thunder,Charlotte Hornets,116,99
-400489766,2015-03-03 00:00:00,Miami Heat,Charlotte Hornets,124,107
-400489816,2015-03-10 00:00:00,Charlotte Hornets,Denver Nuggets,105,98
-400489834,2015-03-12 00:00:00,Washington Wizards,Charlotte Hornets,85,98
-400489844,2015-03-14 00:00:00,Charlotte Hornets,Minnesota Timberwolves,105,93
-400489905,2015-03-22 00:00:00,Charlotte Hornets,Portland Trail Blazers,124,94
-400489948,2015-03-28 00:00:00,Orlando Magic,Charlotte Hornets,110,105 OT
-400489974,2015-03-31 00:00:00,Charlotte Hornets,Washington Wizards,100,94
-400490003,2015-04-04 00:00:00,Charlotte Hornets,Orlando Magic,91,80
-400490038,2015-04-09 00:00:00,Washington Wizards,Charlotte Hornets,88 OT,94
-400488915,2014-11-03 00:00:00,Miami Heat,Washington Wizards,103,93
-400489037,2014-11-20 00:00:00,Orlando Magic,Miami Heat,92,120
-400489064,2014-11-23 00:00:00,Miami Heat,Orlando Magic,101,99
-400489167,2014-12-07 00:00:00,Minnesota Timberwolves,Miami Heat,82,103
-400489233,2014-12-16 00:00:00,Miami Heat,Utah Jazz,117,94
-400489319,2014-12-28 00:00:00,Portland Trail Blazers,Miami Heat,107,108
-400489330,2014-12-30 00:00:00,Denver Nuggets,Miami Heat,94,97
-400489363,2015-01-04 00:00:00,Orlando Magic,Miami Heat,94,110
-400489441,2015-01-15 00:00:00,Washington Wizards,Miami Heat,114,97
-400489548,2015-01-29 00:00:00,Miami Heat,Oklahoma City Thunder,95,112
-400489628,2015-02-08 00:00:00,Utah Jazz,Miami Heat,94,89
-400489686,2015-02-20 00:00:00,Oklahoma City Thunder,Miami Heat,81,103
-400489747,2015-03-01 00:00:00,Miami Heat,Orlando Magic,112,98
-400489818,2015-03-10 00:00:00,Miami Heat,Washington Wizards,99,90
-400489849,2015-03-14 00:00:00,Miami Heat,Denver Nuggets,107,111
-400489922,2015-03-24 00:00:00,Miami Heat,Portland Trail Blazers,93,91
-400490008,2015-04-04 00:00:00,Miami Heat,Minnesota Timberwolves,121 2OT,122
-400490079,2015-04-14 00:00:00,Washington Wizards,Miami Heat,114,93
-400488883,2014-10-30 00:00:00,Minnesota Timberwolves,Orlando Magic,120,115 OT
-400489129,2014-12-02 00:00:00,Washington Wizards,Orlando Magic,98,80
-400489226,2014-12-15 00:00:00,Oklahoma City Thunder,Orlando Magic,101,98
-400489243,2014-12-18 00:00:00,Orlando Magic,Utah Jazz,82,86
-400489400,2015-01-08 00:00:00,Portland Trail Blazers,Orlando Magic,110,94
-400489423,2015-01-11 00:00:00,Denver Nuggets,Orlando Magic,120,94
-400489613,2015-02-07 00:00:00,Orlando Magic,Oklahoma City Thunder,103,102
-400489721,2015-02-25 00:00:00,Washington Wizards,Orlando Magic,115,106
-400489831,2015-03-12 00:00:00,Orlando Magic,Denver Nuggets,112,120
-400489845,2015-03-14 00:00:00,Orlando Magic,Washington Wizards,101 OT,105
-400489910,2015-03-22 00:00:00,Utah Jazz,Orlando Magic,89,88
-400489931,2015-03-25 00:00:00,Orlando Magic,Portland Trail Blazers,95,85
-400490016,2015-04-05 00:00:00,Orlando Magic,Minnesota Timberwolves,100,92
-400490049,2015-04-11 00:00:00,Orlando Magic,Washington Wizards,86,96
-400488968,2014-11-10 00:00:00,Oklahoma City Thunder,Washington Wizards,106,105 OT
-400489029,2014-11-19 00:00:00,Washington Wizards,Minnesota Timberwolves,104,100
-400489179,2014-12-09 00:00:00,Washington Wizards,Denver Nuggets,74,75
-400489304,2014-12-27 00:00:00,Minnesota Timberwolves,Washington Wizards,120,98
-400489525,2015-01-25 00:00:00,Utah Jazz,Washington Wizards,104,101
-400489571,2015-02-01 00:00:00,Washington Wizards,Oklahoma City Thunder,96,81
-400489584,2015-02-03 00:00:00,Washington Wizards,Portland Trail Blazers,100,90
-400489779,2015-03-05 00:00:00,Washington Wizards,Utah Jazz,104,91
-400489893,2015-03-20 00:00:00,Portland Trail Blazers,Washington Wizards,116,103
-400489915,2015-03-23 00:00:00,Denver Nuggets,Washington Wizards,105,102
-400488902,2014-11-01 00:00:00,Denver Nuggets,Portland Trail Blazers,98,113
-400488977,2014-11-11 00:00:00,Utah Jazz,Denver Nuggets,81,100
-400489004,2014-11-15 00:00:00,Denver Nuggets,Minnesota Timberwolves,117,113
-400489025,2014-11-18 00:00:00,Oklahoma City Thunder,Denver Nuggets,115,113
-400489096,2014-11-27 00:00:00,Minnesota Timberwolves,Denver Nuggets,110,117
-400489212,2014-12-13 00:00:00,Denver Nuggets,Utah Jazz,93,103
-400489240,2014-12-17 00:00:00,Denver Nuggets,Oklahoma City Thunder,93,105
-400489403,2015-01-09 00:00:00,Denver Nuggets,Oklahoma City Thunder,101,88
-400489434,2015-01-13 00:00:00,Utah Jazz,Denver Nuggets,118,103
-400489505,2015-01-23 00:00:00,Portland Trail Blazers,Denver Nuggets,110,105
-400489659,2015-02-12 00:00:00,Minnesota Timberwolves,Denver Nuggets,117,90
-400489723,2015-02-25 00:00:00,Denver Nuggets,Portland Trail Blazers,95,100
-400489753,2015-03-01 00:00:00,Portland Trail Blazers,Denver Nuggets,102,96
-400489768,2015-03-03 00:00:00,Denver Nuggets,Minnesota Timberwolves,128,132
-400489926,2015-03-24 00:00:00,Oklahoma City Thunder,Denver Nuggets,117,96
-400490069,2015-04-12 00:00:00,Denver Nuggets,Utah Jazz,101,94
-400488900,2014-11-01 00:00:00,Minnesota Timberwolves,Oklahoma City Thunder,100,81
-400489126,2014-12-01 00:00:00,Oklahoma City Thunder,Minnesota Timberwolves,113,103
-400489249,2014-12-18 00:00:00,Minnesota Timberwolves,Portland Trail Blazers,120,109
-400489366,2015-01-04 00:00:00,Minnesota Timberwolves,Oklahoma City Thunder,111,115
-400489471,2015-01-18 00:00:00,Minnesota Timberwolves,Utah Jazz,98,72
-400489493,2015-01-21 00:00:00,Utah Jazz,Minnesota Timberwolves,97,112
-400489526,2015-01-25 00:00:00,Portland Trail Blazers,Minnesota Timberwolves,115,104
-400489605,2015-02-05 00:00:00,Oklahoma City Thunder,Minnesota Timberwolves,106,97
-400489625,2015-02-08 00:00:00,Minnesota Timberwolves,Portland Trail Blazers,110,117
-400489703,2015-02-22 00:00:00,Utah Jazz,Minnesota Timberwolves,104,121
-400489713,2015-02-23 00:00:00,Portland Trail Blazers,Minnesota Timberwolves,108,97
-400490091,2015-04-16 00:00:00,Minnesota Timberwolves,Utah Jazz,130 2OT,136
-400488887,2014-10-30 00:00:00,Utah Jazz,Oklahoma City Thunder,98,101
-400489073,2014-11-24 00:00:00,Oklahoma City Thunder,Utah Jazz,95,73
-400489149,2014-12-04 00:00:00,Portland Trail Blazers,Oklahoma City Thunder,111,104
-400489339,2014-12-31 00:00:00,Oklahoma City Thunder,Portland Trail Blazers,94,98
-400489391,2015-01-07 00:00:00,Utah Jazz,Oklahoma City Thunder,112,101
-400489492,2015-01-21 00:00:00,Oklahoma City Thunder,Portland Trail Blazers,105,97
-400489648,2015-02-11 00:00:00,Portland Trail Blazers,Oklahoma City Thunder,95,98
-400489966,2015-03-30 00:00:00,Oklahoma City Thunder,Utah Jazz,116,96
-400489161,2014-12-06 00:00:00,Portland Trail Blazers,Utah Jazz,130,98
-400489181,2014-12-09 00:00:00,Utah Jazz,Portland Trail Blazers,94,105
-400489696,2015-02-21 00:00:00,Portland Trail Blazers,Utah Jazz,102,94
-400490060,2015-04-11 00:00:00,Utah Jazz,Portland Trail Blazers,99,111
+400578298,2014-10-29 00:00:00,Boston Celtics,Brooklyn Nets,121,105
+400578326,2014-11-01 00:00:00,Houston Rockets,Boston Celtics,104,90
+400578338,2014-11-03 00:00:00,Dallas Mavericks,Boston Celtics,118,113
+400578351,2014-11-05 00:00:00,Boston Celtics,Toronto Raptors,107,110
+400578366,2014-11-07 00:00:00,Boston Celtics,Indiana Pacers,101,98
+400578378,2014-11-08 00:00:00,Chicago Bulls,Boston Celtics,101,106
+400578403,2014-11-12 00:00:00,Boston Celtics,Oklahoma City Thunder,94,109
+400578417,2014-11-14 00:00:00,Boston Celtics,Cleveland Cavaliers,121,122
+400578440,2014-11-17 00:00:00,Boston Celtics,Phoenix Suns,114,118
+400578454,2014-11-19 00:00:00,Philadelphia 76ers,Boston Celtics,90,101
+400578468,2014-11-21 00:00:00,Memphis Grizzlies,Boston Celtics,117,100
+400578486,2014-11-23 00:00:00,Boston Celtics,Portland Trail Blazers,88,94
+400578515,2014-11-28 00:00:00,Boston Celtics,Chicago Bulls,102,109
+400578533,2014-11-30 00:00:00,Boston Celtics,San Antonio Spurs,89,111
+400578546,2014-12-02 00:00:00,Atlanta Hawks,Boston Celtics,109,105
+400578557,2014-12-03 00:00:00,Boston Celtics,Detroit Pistons,109,102 OT
+400578571,2014-12-05 00:00:00,Boston Celtics,Los Angeles Lakers,113,96
+400578586,2014-12-07 00:00:00,Boston Celtics,Washington Wizards,101,93
+400578594,2014-12-08 00:00:00,Washington Wizards,Boston Celtics,133,132 2OT
+400578608,2014-12-10 00:00:00,Charlotte Hornets,Boston Celtics,96,87
+400578623,2014-12-12 00:00:00,Boston Celtics,New York Knicks,95,101
+400578649,2014-12-15 00:00:00,Philadelphia 76ers,Boston Celtics,87,105
+400578663,2014-12-17 00:00:00,Boston Celtics,Orlando Magic,109,92
+400578677,2014-12-19 00:00:00,Boston Celtics,Minnesota Timberwolves,114,98
+400578696,2014-12-21 00:00:00,Miami Heat,Boston Celtics,100,84
+400578710,2014-12-23 00:00:00,Orlando Magic,Boston Celtics,100,95
+400578724,2014-12-26 00:00:00,Boston Celtics,Brooklyn Nets,107,109
+400578737,2014-12-27 00:00:00,Washington Wizards,Boston Celtics,101,88
+400578767,2014-12-31 00:00:00,Boston Celtics,Sacramento Kings,106,84
+400578778,2015-01-02 00:00:00,Boston Celtics,Dallas Mavericks,101,119
+400578788,2015-01-03 00:00:00,Chicago Bulls,Boston Celtics,109,104 OT
+400578802,2015-01-05 00:00:00,Boston Celtics,Charlotte Hornets,95,104
+400578819,2015-01-07 00:00:00,Brooklyn Nets,Boston Celtics,81,89
+400578830,2015-01-09 00:00:00,Indiana Pacers,Boston Celtics,107,103 OT
+400578845,2015-01-10 00:00:00,Toronto Raptors,Boston Celtics,109,96
+400578855,2015-01-12 00:00:00,Boston Celtics,New Orleans Pelicans,108,100
+400578872,2015-01-14 00:00:00,Boston Celtics,Atlanta Hawks,91,105
+400578883,2015-01-16 00:00:00,Boston Celtics,Chicago Bulls,103,119
+400578906,2015-01-19 00:00:00,LA Clippers,Boston Celtics,102,93
+400578931,2015-01-22 00:00:00,Portland Trail Blazers,Boston Celtics,89,90
+400578941,2015-01-23 00:00:00,Denver Nuggets,Boston Celtics,99,100
+400578957,2015-01-25 00:00:00,Golden State Warriors,Boston Celtics,114,111
+400578965,2015-01-26 00:00:00,Utah Jazz,Boston Celtics,90,99
+400578978,2015-01-28 00:00:00,Minnesota Timberwolves,Boston Celtics,110,98
+400578990,2015-01-30 00:00:00,Boston Celtics,Houston Rockets,87,93
+400579008,2015-02-01 00:00:00,Boston Celtics,Miami Heat,75,83
+400579020,2015-02-03 00:00:00,New York Knicks,Boston Celtics,97,108
+400579025,2015-02-04 00:00:00,Boston Celtics,Denver Nuggets,104,100
+400579042,2015-02-06 00:00:00,Boston Celtics,Philadelphia 76ers,107,96
+400579055,2015-02-07 00:00:00,Milwaukee Bucks,Boston Celtics,96,93
+400579081,2015-02-11 00:00:00,Boston Celtics,Atlanta Hawks,89,88
+400579105,2015-02-20 00:00:00,Sacramento Kings,Boston Celtics,109,101
+400579121,2015-02-22 00:00:00,Los Angeles Lakers,Boston Celtics,118,111 OT
+400579127,2015-02-23 00:00:00,Phoenix Suns,Boston Celtics,110,115
+400579136,2015-02-25 00:00:00,Boston Celtics,New York Knicks,115,94
+400579151,2015-02-27 00:00:00,Boston Celtics,Charlotte Hornets,106,98
+400579172,2015-03-01 00:00:00,Boston Celtics,Golden State Warriors,101,106
+400579183,2015-03-03 00:00:00,Cleveland Cavaliers,Boston Celtics,110,79
+400579190,2015-03-04 00:00:00,Boston Celtics,Utah Jazz,85,84
+400579211,2015-03-06 00:00:00,New Orleans Pelicans,Boston Celtics,98,104
+400579227,2015-03-08 00:00:00,Orlando Magic,Boston Celtics,103,98
+400579232,2015-03-09 00:00:00,Miami Heat,Boston Celtics,90,100
+400579246,2015-03-11 00:00:00,Boston Celtics,Memphis Grizzlies,95,92
+400579261,2015-03-13 00:00:00,Boston Celtics,Orlando Magic,95,88
+400579268,2015-03-14 00:00:00,Indiana Pacers,Boston Celtics,89,93
+400579284,2015-03-16 00:00:00,Boston Celtics,Philadelphia 76ers,108,89
+400579303,2015-03-18 00:00:00,Oklahoma City Thunder,Boston Celtics,122,118
+400579320,2015-03-20 00:00:00,San Antonio Spurs,Boston Celtics,101,89
+400579335,2015-03-22 00:00:00,Boston Celtics,Detroit Pistons,97 OT,105
+400579341,2015-03-23 00:00:00,Brooklyn Nets,Boston Celtics,91,110
+400579356,2015-03-25 00:00:00,Boston Celtics,Miami Heat,86,93
+400579371,2015-03-27 00:00:00,New York Knicks,Boston Celtics,92,96
+400579387,2015-03-29 00:00:00,Boston Celtics,LA Clippers,106,119
+400579393,2015-03-30 00:00:00,Charlotte Hornets,Boston Celtics,104,116
+400579407,2015-04-01 00:00:00,Boston Celtics,Indiana Pacers,100,87
+400579421,2015-04-03 00:00:00,Boston Celtics,Milwaukee Bucks,101,110
+400579432,2015-04-04 00:00:00,Toronto Raptors,Boston Celtics,116 OT,117
+400579456,2015-04-08 00:00:00,Detroit Pistons,Boston Celtics,103,113
+400579470,2015-04-10 00:00:00,Cleveland Cavaliers,Boston Celtics,90,99
+400579486,2015-04-12 00:00:00,Boston Celtics,Cleveland Cavaliers,117,78
+400579506,2015-04-14 00:00:00,Boston Celtics,Toronto Raptors,95,93
+400579513,2015-04-15 00:00:00,Milwaukee Bucks,Boston Celtics,100,105
+400578325,2014-11-01 00:00:00,Detroit Pistons,Brooklyn Nets,90,102
+400578336,2014-11-03 00:00:00,Brooklyn Nets,Oklahoma City Thunder,116,85
+400578352,2014-11-05 00:00:00,Brooklyn Nets,Minnesota Timberwolves,91,98
+400578367,2014-11-07 00:00:00,Brooklyn Nets,New York Knicks,110,99
+400578382,2014-11-09 00:00:00,Brooklyn Nets,Orlando Magic,104,96
+400578408,2014-11-12 00:00:00,Phoenix Suns,Brooklyn Nets,112,104
+400578413,2014-11-13 00:00:00,Golden State Warriors,Brooklyn Nets,107,99
+400578430,2014-11-15 00:00:00,Portland Trail Blazers,Brooklyn Nets,97,87
+400578441,2014-11-17 00:00:00,Brooklyn Nets,Miami Heat,83,95
+400578456,2014-11-19 00:00:00,Brooklyn Nets,Milwaukee Bucks,118 3OT,122
+400578470,2014-11-21 00:00:00,Oklahoma City Thunder,Brooklyn Nets,92,94
+400578483,2014-11-22 00:00:00,San Antonio Spurs,Brooklyn Nets,99,87
+400578505,2014-11-26 00:00:00,Philadelphia 76ers,Brooklyn Nets,91,99
+400578534,2014-11-30 00:00:00,Brooklyn Nets,Chicago Bulls,84,102
+400578548,2014-12-02 00:00:00,New York Knicks,Brooklyn Nets,93,98
+400578558,2014-12-03 00:00:00,Brooklyn Nets,San Antonio Spurs,95,93 OT
+400578572,2014-12-05 00:00:00,Brooklyn Nets,Atlanta Hawks,75,98
+400578595,2014-12-08 00:00:00,Brooklyn Nets,Cleveland Cavaliers,88,110
+400578612,2014-12-10 00:00:00,Chicago Bulls,Brooklyn Nets,105,80
+400578624,2014-12-12 00:00:00,Brooklyn Nets,Philadelphia 76ers,88,70
+400578633,2014-12-13 00:00:00,Charlotte Hornets,Brooklyn Nets,87,114
+400578656,2014-12-16 00:00:00,Brooklyn Nets,Miami Heat,91,95
+400578666,2014-12-17 00:00:00,Toronto Raptors,Brooklyn Nets,105,89
+400578678,2014-12-19 00:00:00,Cleveland Cavaliers,Brooklyn Nets,95,91
+400578695,2014-12-21 00:00:00,Brooklyn Nets,Detroit Pistons,110,105
+400578713,2014-12-23 00:00:00,Brooklyn Nets,Denver Nuggets,102,96
+400578740,2014-12-27 00:00:00,Brooklyn Nets,Indiana Pacers,85,110
+400578753,2014-12-29 00:00:00,Brooklyn Nets,Sacramento Kings,107,99
+400578759,2014-12-30 00:00:00,Chicago Bulls,Brooklyn Nets,82,96
+400578777,2015-01-02 00:00:00,Orlando Magic,Brooklyn Nets,98,100
+400578797,2015-01-04 00:00:00,Miami Heat,Brooklyn Nets,88,84
+400578803,2015-01-05 00:00:00,Brooklyn Nets,Dallas Mavericks,88 OT,96
+400578831,2015-01-09 00:00:00,Brooklyn Nets,Philadelphia 76ers,88,90
+400578843,2015-01-10 00:00:00,Detroit Pistons,Brooklyn Nets,98,93
+400578856,2015-01-12 00:00:00,Brooklyn Nets,Houston Rockets,99,113
+400578868,2015-01-14 00:00:00,Brooklyn Nets,Memphis Grizzlies,92,103
+400578882,2015-01-16 00:00:00,Washington Wizards,Brooklyn Nets,80,102
+400578897,2015-01-17 00:00:00,Brooklyn Nets,Washington Wizards,90,99
+400578927,2015-01-21 00:00:00,Sacramento Kings,Brooklyn Nets,100,103
+400578932,2015-01-22 00:00:00,LA Clippers,Brooklyn Nets,123,84
+400578947,2015-01-24 00:00:00,Utah Jazz,Brooklyn Nets,108,73
+400578975,2015-01-28 00:00:00,Atlanta Hawks,Brooklyn Nets,113,102
+400578991,2015-01-30 00:00:00,Brooklyn Nets,Toronto Raptors,122 OT,127
+400579012,2015-02-02 00:00:00,Brooklyn Nets,LA Clippers,102,100
+400579026,2015-02-04 00:00:00,Toronto Raptors,Brooklyn Nets,93,109
+400579038,2015-02-06 00:00:00,Brooklyn Nets,New York Knicks,92,88
+400579051,2015-02-07 00:00:00,Washington Wizards,Brooklyn Nets,114,77
+400579070,2015-02-09 00:00:00,Milwaukee Bucks,Brooklyn Nets,103,97
+400579078,2015-02-10 00:00:00,Memphis Grizzlies,Brooklyn Nets,95,86
+400579107,2015-02-20 00:00:00,Los Angeles Lakers,Brooklyn Nets,105,114
+400579126,2015-02-23 00:00:00,Denver Nuggets,Brooklyn Nets,82,110
+400579141,2015-02-25 00:00:00,New Orleans Pelicans,Brooklyn Nets,102,96
+400579155,2015-02-27 00:00:00,Houston Rockets,Brooklyn Nets,102,98
+400579166,2015-02-28 00:00:00,Dallas Mavericks,Brooklyn Nets,94,104
+400579178,2015-03-02 00:00:00,Brooklyn Nets,Golden State Warriors,110,108
+400579191,2015-03-04 00:00:00,Brooklyn Nets,Charlotte Hornets,91,115
+400579208,2015-03-06 00:00:00,Brooklyn Nets,Phoenix Suns,100 OT,108
+400579225,2015-03-08 00:00:00,Brooklyn Nets,Utah Jazz,88,95
+400579239,2015-03-10 00:00:00,Brooklyn Nets,New Orleans Pelicans,91,111
+400579247,2015-03-11 00:00:00,Miami Heat,Brooklyn Nets,104,98
+400579270,2015-03-14 00:00:00,Philadelphia 76ers,Brooklyn Nets,87,94
+400579286,2015-03-16 00:00:00,Minnesota Timberwolves,Brooklyn Nets,106,122
+400579297,2015-03-18 00:00:00,Cleveland Cavaliers,Brooklyn Nets,117,92
+400579314,2015-03-20 00:00:00,Brooklyn Nets,Milwaukee Bucks,129,127 3OT
+400579324,2015-03-21 00:00:00,Indiana Pacers,Brooklyn Nets,111,123
+400579352,2015-03-25 00:00:00,Charlotte Hornets,Brooklyn Nets,88,91
+400579370,2015-03-27 00:00:00,Brooklyn Nets,Cleveland Cavaliers,106,98
+400579385,2015-03-29 00:00:00,Brooklyn Nets,Los Angeles Lakers,107,99
+400579400,2015-03-31 00:00:00,Brooklyn Nets,Indiana Pacers,111,106
+400579408,2015-04-01 00:00:00,New York Knicks,Brooklyn Nets,98,100
+400579422,2015-04-03 00:00:00,Brooklyn Nets,Toronto Raptors,114,109
+400579430,2015-04-04 00:00:00,Atlanta Hawks,Brooklyn Nets,131,99
+400755861,2015-04-06 00:00:00,Brooklyn Nets,Portland Trail Blazers,106,96
+400579455,2015-04-08 00:00:00,Brooklyn Nets,Atlanta Hawks,111,114
+400579469,2015-04-10 00:00:00,Brooklyn Nets,Washington Wizards,117,80
+400579485,2015-04-12 00:00:00,Milwaukee Bucks,Brooklyn Nets,96,73
+400579498,2015-04-13 00:00:00,Brooklyn Nets,Chicago Bulls,86,113
+400579516,2015-04-15 00:00:00,Brooklyn Nets,Orlando Magic,101,88
+400578302,2014-10-29 00:00:00,New York Knicks,Chicago Bulls,80,104
+400578310,2014-10-30 00:00:00,Cleveland Cavaliers,New York Knicks,90,95
+400578333,2014-11-02 00:00:00,New York Knicks,Charlotte Hornets,96,93
+400578343,2014-11-04 00:00:00,New York Knicks,Washington Wizards,83,98
+400578353,2014-11-05 00:00:00,Detroit Pistons,New York Knicks,98,95
+400578376,2014-11-08 00:00:00,Atlanta Hawks,New York Knicks,103,96
+400578392,2014-11-10 00:00:00,New York Knicks,Atlanta Hawks,85,91
+400578405,2014-11-12 00:00:00,New York Knicks,Orlando Magic,95,97
+400578418,2014-11-14 00:00:00,New York Knicks,Utah Jazz,100,102
+400578434,2014-11-16 00:00:00,New York Knicks,Denver Nuggets,109,93
+400578448,2014-11-18 00:00:00,Milwaukee Bucks,New York Knicks,117,113
+400578459,2014-11-19 00:00:00,Minnesota Timberwolves,New York Knicks,115,99
+400578479,2014-11-22 00:00:00,New York Knicks,Philadelphia 76ers,91,83
+400578494,2014-11-24 00:00:00,Houston Rockets,New York Knicks,91,86
+400578506,2014-11-26 00:00:00,Dallas Mavericks,New York Knicks,109,102 OT
+400578521,2014-11-28 00:00:00,Oklahoma City Thunder,New York Knicks,105,78
+400578537,2014-11-30 00:00:00,New York Knicks,Miami Heat,79,86
+400578565,2014-12-04 00:00:00,New York Knicks,Cleveland Cavaliers,87,90
+400578568,2014-12-05 00:00:00,Charlotte Hornets,New York Knicks,103,102
+400578591,2014-12-07 00:00:00,New York Knicks,Portland Trail Blazers,99,103
+400578603,2014-12-09 00:00:00,New Orleans Pelicans,New York Knicks,104,93
+400578614,2014-12-10 00:00:00,San Antonio Spurs,New York Knicks,109,95
+400578645,2014-12-14 00:00:00,New York Knicks,Toronto Raptors,90 OT,95
+400578659,2014-12-16 00:00:00,New York Knicks,Dallas Mavericks,87,107
+400578671,2014-12-18 00:00:00,Chicago Bulls,New York Knicks,103,97
+400578685,2014-12-20 00:00:00,New York Knicks,Phoenix Suns,90,99
+400578692,2014-12-21 00:00:00,Toronto Raptors,New York Knicks,118,108
+400578719,2014-12-25 00:00:00,New York Knicks,Washington Wizards,91,102
+400578743,2014-12-27 00:00:00,Sacramento Kings,New York Knicks,135,129 OT
+400578748,2014-12-28 00:00:00,Portland Trail Blazers,New York Knicks,101,79
+400578769,2014-12-31 00:00:00,LA Clippers,New York Knicks,99,78
+400578779,2015-01-02 00:00:00,New York Knicks,Detroit Pistons,81,97
+400578798,2015-01-04 00:00:00,New York Knicks,Milwaukee Bucks,82,95
+400578805,2015-01-05 00:00:00,Memphis Grizzlies,New York Knicks,105,83
+400578817,2015-01-07 00:00:00,Washington Wizards,New York Knicks,101,91
+400578828,2015-01-08 00:00:00,New York Knicks,Houston Rockets,96,120
+400578841,2015-01-10 00:00:00,New York Knicks,Charlotte Hornets,82,110
+400578877,2015-01-15 00:00:00,Milwaukee Bucks,New York Knicks,95,79
+400578910,2015-01-19 00:00:00,New York Knicks,New Orleans Pelicans,99,92
+400578919,2015-01-21 00:00:00,Philadelphia 76ers,New York Knicks,91,98
+400578937,2015-01-23 00:00:00,New York Knicks,Orlando Magic,113,106
+400578944,2015-01-24 00:00:00,Charlotte Hornets,New York Knicks,76,71
+400578980,2015-01-28 00:00:00,New York Knicks,Oklahoma City Thunder,100,92
+400578986,2015-01-29 00:00:00,Indiana Pacers,New York Knicks,103,82
+400579009,2015-02-01 00:00:00,New York Knicks,Los Angeles Lakers,92,80
+400579052,2015-02-07 00:00:00,New York Knicks,Golden State Warriors,92,106
+400579069,2015-02-09 00:00:00,Miami Heat,New York Knicks,109,95
+400579080,2015-02-11 00:00:00,Orlando Magic,New York Knicks,89,83
+400579099,2015-02-20 00:00:00,New York Knicks,Miami Heat,87,111
+400579113,2015-02-22 00:00:00,New York Knicks,Cleveland Cavaliers,83,101
+400579152,2015-02-27 00:00:00,Detroit Pistons,New York Knicks,115 2OT,121
+400579164,2015-02-28 00:00:00,New York Knicks,Toronto Raptors,103,98
+400755860,2015-03-03 00:00:00,New York Knicks,Sacramento Kings,86,124
+400579188,2015-03-04 00:00:00,Indiana Pacers,New York Knicks,105,82
+400579218,2015-03-07 00:00:00,New York Knicks,Indiana Pacers,86,92
+400579235,2015-03-09 00:00:00,Denver Nuggets,New York Knicks,106,78
+400579242,2015-03-10 00:00:00,Utah Jazz,New York Knicks,87,82
+400579258,2015-03-12 00:00:00,Los Angeles Lakers,New York Knicks,94,101
+400579273,2015-03-14 00:00:00,Golden State Warriors,New York Knicks,125,94
+400579280,2015-03-15 00:00:00,Phoenix Suns,New York Knicks,102,89
+400579293,2015-03-17 00:00:00,New York Knicks,San Antonio Spurs,104,100 OT
+400579308,2015-03-19 00:00:00,New York Knicks,Minnesota Timberwolves,92 OT,95
+400579313,2015-03-20 00:00:00,Philadelphia 76ers,New York Knicks,97,81
+400579333,2015-03-22 00:00:00,Toronto Raptors,New York Knicks,106,89
+400579342,2015-03-23 00:00:00,New York Knicks,Memphis Grizzlies,82,103
+400579353,2015-03-25 00:00:00,New York Knicks,LA Clippers,80,111
+400579380,2015-03-28 00:00:00,Chicago Bulls,New York Knicks,111,80
+400579420,2015-04-03 00:00:00,Washington Wizards,New York Knicks,101,87
+400579443,2015-04-05 00:00:00,New York Knicks,Philadelphia 76ers,101,91
+400579457,2015-04-08 00:00:00,New York Knicks,Indiana Pacers,86,102
+400579472,2015-04-10 00:00:00,New York Knicks,Milwaukee Bucks,91,99
+400579479,2015-04-11 00:00:00,Orlando Magic,New York Knicks,79,80
+400579497,2015-04-13 00:00:00,Atlanta Hawks,New York Knicks,108,112
+400579518,2015-04-15 00:00:00,New York Knicks,Detroit Pistons,90,112
+400578297,2014-10-29 00:00:00,Indiana Pacers,Philadelphia 76ers,103,91
+400578315,2014-10-31 00:00:00,Milwaukee Bucks,Philadelphia 76ers,93,81
+400578322,2014-11-01 00:00:00,Philadelphia 76ers,Miami Heat,96,114
+400578335,2014-11-03 00:00:00,Philadelphia 76ers,Houston Rockets,93,104
+400578350,2014-11-05 00:00:00,Philadelphia 76ers,Orlando Magic,89,91
+400578365,2014-11-07 00:00:00,Philadelphia 76ers,Chicago Bulls,115,118
+400578385,2014-11-09 00:00:00,Toronto Raptors,Philadelphia 76ers,120,88
+400578412,2014-11-13 00:00:00,Dallas Mavericks,Philadelphia 76ers,123,70
+400578419,2014-11-14 00:00:00,Houston Rockets,Philadelphia 76ers,88,87
+400578444,2014-11-17 00:00:00,San Antonio Spurs,Philadelphia 76ers,100,75
+400578465,2014-11-21 00:00:00,Philadelphia 76ers,Phoenix Suns,96,122
+400578492,2014-11-24 00:00:00,Philadelphia 76ers,Portland Trail Blazers,104,114
+400578527,2014-11-29 00:00:00,Philadelphia 76ers,Dallas Mavericks,103,110
+400578541,2014-12-01 00:00:00,Philadelphia 76ers,San Antonio Spurs,103,109
+400578562,2014-12-03 00:00:00,Minnesota Timberwolves,Philadelphia 76ers,77,85
+400578569,2014-12-05 00:00:00,Philadelphia 76ers,Oklahoma City Thunder,91,103
+400578580,2014-12-06 00:00:00,Detroit Pistons,Philadelphia 76ers,101 OT,108
+400578611,2014-12-10 00:00:00,Atlanta Hawks,Philadelphia 76ers,95,79
+400578637,2014-12-13 00:00:00,Philadelphia 76ers,Memphis Grizzlies,115 OT,120
+400578676,2014-12-19 00:00:00,Philadelphia 76ers,Charlotte Hornets,91,109
+400578697,2014-12-21 00:00:00,Orlando Magic,Philadelphia 76ers,88,96
+400578714,2014-12-23 00:00:00,Miami Heat,Philadelphia 76ers,87,91
+400578733,2014-12-26 00:00:00,Portland Trail Blazers,Philadelphia 76ers,114,93
+400578742,2014-12-27 00:00:00,Utah Jazz,Philadelphia 76ers,88,71
+400578766,2014-12-30 00:00:00,Golden State Warriors,Philadelphia 76ers,126,86
+400578783,2015-01-02 00:00:00,Phoenix Suns,Philadelphia 76ers,112,96
+400578794,2015-01-03 00:00:00,LA Clippers,Philadelphia 76ers,127,91
+400578801,2015-01-05 00:00:00,Philadelphia 76ers,Cleveland Cavaliers,95,92
+400578816,2015-01-07 00:00:00,Philadelphia 76ers,Milwaukee Bucks,77,97
+400578844,2015-01-10 00:00:00,Philadelphia 76ers,Indiana Pacers,93,92
+400578860,2015-01-13 00:00:00,Philadelphia 76ers,Atlanta Hawks,87,105
+400578870,2015-01-14 00:00:00,Toronto Raptors,Philadelphia 76ers,100,84
+400578881,2015-01-16 00:00:00,Philadelphia 76ers,New Orleans Pelicans,96,81
+400578893,2015-01-17 00:00:00,Detroit Pistons,Philadelphia 76ers,107,89
+400578904,2015-01-19 00:00:00,Washington Wizards,Philadelphia 76ers,111,76
+400578933,2015-01-23 00:00:00,Philadelphia 76ers,Toronto Raptors,86,91
+400578946,2015-01-24 00:00:00,Memphis Grizzlies,Philadelphia 76ers,101,83
+400578963,2015-01-26 00:00:00,New Orleans Pelicans,Philadelphia 76ers,99,74
+400578974,2015-01-28 00:00:00,Philadelphia 76ers,Detroit Pistons,89,69
+400578988,2015-01-30 00:00:00,Philadelphia 76ers,Minnesota Timberwolves,103,94
+400579000,2015-01-31 00:00:00,Atlanta Hawks,Philadelphia 76ers,91,85
+400579010,2015-02-02 00:00:00,Cleveland Cavaliers,Philadelphia 76ers,97,84
+400579018,2015-02-03 00:00:00,Philadelphia 76ers,Denver Nuggets,105,98
+400579053,2015-02-07 00:00:00,Philadelphia 76ers,Charlotte Hornets,89,81
+400579067,2015-02-09 00:00:00,Philadelphia 76ers,Golden State Warriors,84,89
+400579096,2015-02-20 00:00:00,Philadelphia 76ers,Indiana Pacers,95,106
+400579117,2015-02-22 00:00:00,Orlando Magic,Philadelphia 76ers,103,98
+400579122,2015-02-23 00:00:00,Miami Heat,Philadelphia 76ers,119,108
+400579139,2015-02-25 00:00:00,Milwaukee Bucks,Philadelphia 76ers,104,88
+400579149,2015-02-27 00:00:00,Philadelphia 76ers,Washington Wizards,89,81
+400579173,2015-03-01 00:00:00,Indiana Pacers,Philadelphia 76ers,94,74
+400579177,2015-03-02 00:00:00,Philadelphia 76ers,Toronto Raptors,103,114
+400579196,2015-03-04 00:00:00,Oklahoma City Thunder,Philadelphia 76ers,123,118 OT
+400579206,2015-03-06 00:00:00,Philadelphia 76ers,Utah Jazz,83,89
+400579219,2015-03-07 00:00:00,Philadelphia 76ers,Atlanta Hawks,92,84
+400579245,2015-03-11 00:00:00,Philadelphia 76ers,Chicago Bulls,95 OT,104
+400579260,2015-03-13 00:00:00,Philadelphia 76ers,Sacramento Kings,114,107
+400579298,2015-03-18 00:00:00,Philadelphia 76ers,Detroit Pistons,94,83
+400579339,2015-03-22 00:00:00,Los Angeles Lakers,Philadelphia 76ers,101,87
+400579350,2015-03-24 00:00:00,Sacramento Kings,Philadelphia 76ers,107,106
+400579361,2015-03-25 00:00:00,Denver Nuggets,Philadelphia 76ers,85,99
+400579367,2015-03-27 00:00:00,Philadelphia 76ers,LA Clippers,98,119
+400579384,2015-03-29 00:00:00,Cleveland Cavaliers,Philadelphia 76ers,87,86
+400579394,2015-03-30 00:00:00,Philadelphia 76ers,Los Angeles Lakers,111 OT,113
+400579406,2015-04-01 00:00:00,Washington Wizards,Philadelphia 76ers,106,93
+400579429,2015-04-04 00:00:00,Charlotte Hornets,Philadelphia 76ers,92,91
+400579454,2015-04-08 00:00:00,Philadelphia 76ers,Washington Wizards,90,119
+400579481,2015-04-11 00:00:00,Chicago Bulls,Philadelphia 76ers,114,107
+400579496,2015-04-13 00:00:00,Philadelphia 76ers,Milwaukee Bucks,97,107
+400579519,2015-04-15 00:00:00,Philadelphia 76ers,Miami Heat,101,105
+400578300,2014-10-29 00:00:00,Toronto Raptors,Atlanta Hawks,109,102
+400578321,2014-11-01 00:00:00,Orlando Magic,Toronto Raptors,95,108
+400578332,2014-11-02 00:00:00,Miami Heat,Toronto Raptors,107,102
+400578344,2014-11-04 00:00:00,Toronto Raptors,Oklahoma City Thunder,100,88
+400578369,2014-11-07 00:00:00,Toronto Raptors,Washington Wizards,103,84
+400578395,2014-11-11 00:00:00,Toronto Raptors,Orlando Magic,104,100
+400578411,2014-11-13 00:00:00,Toronto Raptors,Chicago Bulls,93,100
+400578426,2014-11-15 00:00:00,Toronto Raptors,Utah Jazz,111,93
+400578458,2014-11-19 00:00:00,Toronto Raptors,Memphis Grizzlies,96,92
+400578467,2014-11-21 00:00:00,Toronto Raptors,Milwaukee Bucks,124,82
+400578478,2014-11-22 00:00:00,Cleveland Cavaliers,Toronto Raptors,93,110
+400578493,2014-11-24 00:00:00,Toronto Raptors,Phoenix Suns,104,100
+400578507,2014-11-26 00:00:00,Atlanta Hawks,Toronto Raptors,115,126
+400578519,2014-11-28 00:00:00,Toronto Raptors,Dallas Mavericks,102,106
+400578540,2014-11-30 00:00:00,Los Angeles Lakers,Toronto Raptors,129,122 OT
+400578553,2014-12-02 00:00:00,Sacramento Kings,Toronto Raptors,109,117
+400578563,2014-12-03 00:00:00,Utah Jazz,Toronto Raptors,104,123
+400578573,2014-12-05 00:00:00,Toronto Raptors,Cleveland Cavaliers,91,105
+400578596,2014-12-08 00:00:00,Toronto Raptors,Denver Nuggets,112,107 OT
+400578600,2014-12-09 00:00:00,Cleveland Cavaliers,Toronto Raptors,105,101
+400578625,2014-12-12 00:00:00,Toronto Raptors,Indiana Pacers,106,94
+400578651,2014-12-15 00:00:00,Toronto Raptors,Orlando Magic,95,82
+400578679,2014-12-19 00:00:00,Detroit Pistons,Toronto Raptors,100,110
+400578702,2014-12-22 00:00:00,Chicago Bulls,Toronto Raptors,129,120
+400578735,2014-12-27 00:00:00,LA Clippers,Toronto Raptors,98,110
+400578749,2014-12-28 00:00:00,Denver Nuggets,Toronto Raptors,102,116
+400578765,2014-12-30 00:00:00,Portland Trail Blazers,Toronto Raptors,102,97 OT
+400578785,2015-01-02 00:00:00,Golden State Warriors,Toronto Raptors,126,105
+400578799,2015-01-04 00:00:00,Phoenix Suns,Toronto Raptors,125,109
+400578827,2015-01-08 00:00:00,Toronto Raptors,Charlotte Hornets,95,103
+400578857,2015-01-12 00:00:00,Toronto Raptors,Detroit Pistons,111,114
+400578884,2015-01-16 00:00:00,Toronto Raptors,Atlanta Hawks,89,110
+400578900,2015-01-18 00:00:00,Toronto Raptors,New Orleans Pelicans,93,95
+400578911,2015-01-19 00:00:00,Milwaukee Bucks,Toronto Raptors,89,92
+400578922,2015-01-21 00:00:00,Memphis Grizzlies,Toronto Raptors,92,86
+400578956,2015-01-25 00:00:00,Toronto Raptors,Detroit Pistons,114,110
+400578967,2015-01-27 00:00:00,Indiana Pacers,Toronto Raptors,91,104
+400578976,2015-01-28 00:00:00,Toronto Raptors,Sacramento Kings,119,102
+400578999,2015-01-31 00:00:00,Washington Wizards,Toronto Raptors,116 OT,120
+400579013,2015-02-02 00:00:00,Toronto Raptors,Milwaukee Bucks,75,82
+400579044,2015-02-06 00:00:00,Toronto Raptors,LA Clippers,123,107
+400579064,2015-02-08 00:00:00,Toronto Raptors,San Antonio Spurs,87,82
+400579083,2015-02-11 00:00:00,Toronto Raptors,Washington Wizards,95,93
+400579097,2015-02-20 00:00:00,Atlanta Hawks,Toronto Raptors,80,105
+400579111,2015-02-21 00:00:00,Houston Rockets,Toronto Raptors,98,76
+400579125,2015-02-23 00:00:00,New Orleans Pelicans,Toronto Raptors,100,97
+400579133,2015-02-24 00:00:00,Dallas Mavericks,Toronto Raptors,99,92
+400579153,2015-02-27 00:00:00,Toronto Raptors,Golden State Warriors,89,113
+400579192,2015-03-04 00:00:00,Toronto Raptors,Cleveland Cavaliers,112,120
+400579203,2015-03-06 00:00:00,Charlotte Hornets,Toronto Raptors,103,94
+400579228,2015-03-08 00:00:00,Oklahoma City Thunder,Toronto Raptors,108,104
+400579241,2015-03-10 00:00:00,San Antonio Spurs,Toronto Raptors,117,107
+400579262,2015-03-13 00:00:00,Toronto Raptors,Miami Heat,102,92
+400579279,2015-03-15 00:00:00,Toronto Raptors,Portland Trail Blazers,97,113
+400579282,2015-03-16 00:00:00,Indiana Pacers,Toronto Raptors,98,117
+400579300,2015-03-18 00:00:00,Toronto Raptors,Minnesota Timberwolves,105,100
+400579317,2015-03-20 00:00:00,Chicago Bulls,Toronto Raptors,108,92
+400579346,2015-03-24 00:00:00,Detroit Pistons,Toronto Raptors,108,104
+400579357,2015-03-25 00:00:00,Toronto Raptors,Chicago Bulls,103,116
+400579372,2015-03-27 00:00:00,Toronto Raptors,Los Angeles Lakers,94,83
+400579396,2015-03-30 00:00:00,Toronto Raptors,Houston Rockets,99,96
+400579411,2015-04-01 00:00:00,Minnesota Timberwolves,Toronto Raptors,99,113
+400579452,2015-04-08 00:00:00,Charlotte Hornets,Toronto Raptors,74,92
+400579467,2015-04-10 00:00:00,Orlando Magic,Toronto Raptors,99,101
+400579480,2015-04-11 00:00:00,Miami Heat,Toronto Raptors,104,107
+400579520,2015-04-15 00:00:00,Toronto Raptors,Charlotte Hornets,92,87
+400578306,2014-10-29 00:00:00,Sacramento Kings,Golden State Warriors,77,95
+400578330,2014-11-01 00:00:00,Golden State Warriors,Los Angeles Lakers,127,104
+400578334,2014-11-02 00:00:00,Portland Trail Blazers,Golden State Warriors,90,95
+400578360,2014-11-05 00:00:00,Golden State Warriors,LA Clippers,121,104
+400578379,2014-11-08 00:00:00,Houston Rockets,Golden State Warriors,87,98
+400578387,2014-11-09 00:00:00,Phoenix Suns,Golden State Warriors,107,95
+400578400,2014-11-11 00:00:00,Golden State Warriors,San Antonio Spurs,100,113
+400578432,2014-11-15 00:00:00,Golden State Warriors,Charlotte Hornets,112,87
+400578437,2014-11-16 00:00:00,Los Angeles Lakers,Golden State Warriors,115,136
+400578474,2014-11-21 00:00:00,Golden State Warriors,Utah Jazz,101,88
+400578488,2014-11-23 00:00:00,Oklahoma City Thunder,Golden State Warriors,86,91
+400578498,2014-11-25 00:00:00,Miami Heat,Golden State Warriors,97,114
+400578504,2014-11-26 00:00:00,Orlando Magic,Golden State Warriors,96,111
+400578516,2014-11-28 00:00:00,Charlotte Hornets,Golden State Warriors,101,106
+400578535,2014-11-30 00:00:00,Detroit Pistons,Golden State Warriors,93,104
+400578554,2014-12-02 00:00:00,Golden State Warriors,Orlando Magic,98,97
+400578567,2014-12-04 00:00:00,Golden State Warriors,New Orleans Pelicans,112,85
+400578581,2014-12-06 00:00:00,Chicago Bulls,Golden State Warriors,102,112
+400578597,2014-12-08 00:00:00,Minnesota Timberwolves,Golden State Warriors,86,102
+400578616,2014-12-10 00:00:00,Golden State Warriors,Houston Rockets,105,93
+400578632,2014-12-13 00:00:00,Dallas Mavericks,Golden State Warriors,98,105
+400578640,2014-12-14 00:00:00,New Orleans Pelicans,Golden State Warriors,122 OT,128
+400578657,2014-12-16 00:00:00,Memphis Grizzlies,Golden State Warriors,105,98
+400578674,2014-12-18 00:00:00,Golden State Warriors,Oklahoma City Thunder,114,109
+400578707,2014-12-22 00:00:00,Golden State Warriors,Sacramento Kings,128,108
+400578718,2014-12-23 00:00:00,Los Angeles Lakers,Golden State Warriors,115,105
+400578723,2014-12-25 00:00:00,LA Clippers,Golden State Warriors,100,86
+400578744,2014-12-27 00:00:00,Golden State Warriors,Minnesota Timberwolves,110,97
+400578810,2015-01-05 00:00:00,Golden State Warriors,Oklahoma City Thunder,117,91
+400578825,2015-01-07 00:00:00,Golden State Warriors,Indiana Pacers,117,102
+400578839,2015-01-09 00:00:00,Golden State Warriors,Cleveland Cavaliers,112,94
+400578863,2015-01-13 00:00:00,Utah Jazz,Golden State Warriors,105,116
+400578874,2015-01-14 00:00:00,Golden State Warriors,Miami Heat,104,89
+400578885,2015-01-16 00:00:00,Oklahoma City Thunder,Golden State Warriors,127,115
+400578895,2015-01-17 00:00:00,Houston Rockets,Golden State Warriors,106,131
+400578907,2015-01-19 00:00:00,Golden State Warriors,Denver Nuggets,122,79
+400578928,2015-01-21 00:00:00,Golden State Warriors,Houston Rockets,126,113
+400578943,2015-01-23 00:00:00,Golden State Warriors,Sacramento Kings,126,101
+400578971,2015-01-27 00:00:00,Golden State Warriors,Chicago Bulls,111 OT,113
+400578995,2015-01-30 00:00:00,Utah Jazz,Golden State Warriors,110,100
+400579007,2015-01-31 00:00:00,Golden State Warriors,Phoenix Suns,106,87
+400579022,2015-02-03 00:00:00,Sacramento Kings,Golden State Warriors,96,121
+400579033,2015-02-04 00:00:00,Golden State Warriors,Dallas Mavericks,128,114
+400579041,2015-02-06 00:00:00,Atlanta Hawks,Golden State Warriors,124,116
+400579085,2015-02-11 00:00:00,Minnesota Timberwolves,Golden State Warriors,91,94
+400579106,2015-02-20 00:00:00,Golden State Warriors,San Antonio Spurs,110,99
+400579116,2015-02-22 00:00:00,Indiana Pacers,Golden State Warriors,104,98
+400579130,2015-02-24 00:00:00,Washington Wizards,Golden State Warriors,107,114
+400579146,2015-02-26 00:00:00,Cleveland Cavaliers,Golden State Warriors,110,99
+400579199,2015-03-04 00:00:00,Golden State Warriors,Milwaukee Bucks,102,93
+400579214,2015-03-06 00:00:00,Golden State Warriors,Dallas Mavericks,104,89
+400579224,2015-03-08 00:00:00,Golden State Warriors,LA Clippers,106,98
+400579236,2015-03-09 00:00:00,Phoenix Suns,Golden State Warriors,80,98
+400579252,2015-03-11 00:00:00,Golden State Warriors,Detroit Pistons,105,98
+400579265,2015-03-13 00:00:00,Denver Nuggets,Golden State Warriors,114,103
+400579291,2015-03-16 00:00:00,Golden State Warriors,Los Angeles Lakers,108,105
+400579306,2015-03-18 00:00:00,Golden State Warriors,Atlanta Hawks,114,95
+400579322,2015-03-20 00:00:00,Golden State Warriors,New Orleans Pelicans,112,96
+400579328,2015-03-21 00:00:00,Golden State Warriors,Utah Jazz,106,91
+400579345,2015-03-23 00:00:00,Golden State Warriors,Washington Wizards,107,76
+400579351,2015-03-24 00:00:00,Portland Trail Blazers,Golden State Warriors,108,122
+400579374,2015-03-27 00:00:00,Memphis Grizzlies,Golden State Warriors,84,107
+400579381,2015-03-28 00:00:00,Milwaukee Bucks,Golden State Warriors,95,108
+400579403,2015-03-31 00:00:00,LA Clippers,Golden State Warriors,106,110
+400579418,2015-04-02 00:00:00,Golden State Warriors,Phoenix Suns,107,106
+400579434,2015-04-04 00:00:00,Dallas Mavericks,Golden State Warriors,110,123
+400579442,2015-04-05 00:00:00,San Antonio Spurs,Golden State Warriors,107,92
+400579448,2015-04-07 00:00:00,New Orleans Pelicans,Golden State Warriors,103,100
+400579466,2015-04-09 00:00:00,Golden State Warriors,Portland Trail Blazers,116,105
+400579484,2015-04-11 00:00:00,Golden State Warriors,Minnesota Timberwolves,110,101
+400579504,2015-04-13 00:00:00,Golden State Warriors,Memphis Grizzlies,111,107
+400579521,2015-04-15 00:00:00,Golden State Warriors,Denver Nuggets,133,126
+400578312,2014-10-30 00:00:00,LA Clippers,Oklahoma City Thunder,93,90
+400578318,2014-10-31 00:00:00,Los Angeles Lakers,LA Clippers,111,118
+400578331,2014-11-02 00:00:00,LA Clippers,Sacramento Kings,92,98
+400578340,2014-11-03 00:00:00,LA Clippers,Utah Jazz,107,101
+400578374,2014-11-08 00:00:00,LA Clippers,Portland Trail Blazers,106,102
+400578394,2014-11-10 00:00:00,LA Clippers,San Antonio Spurs,85,89
+400578433,2014-11-15 00:00:00,LA Clippers,Phoenix Suns,120,107
+400578446,2014-11-17 00:00:00,LA Clippers,Chicago Bulls,89,105
+400578453,2014-11-19 00:00:00,Orlando Magic,LA Clippers,90,114
+400578462,2014-11-20 00:00:00,Miami Heat,LA Clippers,93,110
+400578485,2014-11-23 00:00:00,Memphis Grizzlies,LA Clippers,107,91
+400578490,2014-11-24 00:00:00,Charlotte Hornets,LA Clippers,92,113
+400578508,2014-11-26 00:00:00,Detroit Pistons,LA Clippers,98,104
+400578520,2014-11-28 00:00:00,Houston Rockets,LA Clippers,85,102
+400578531,2014-11-29 00:00:00,Utah Jazz,LA Clippers,96,112
+400578544,2014-12-01 00:00:00,LA Clippers,Minnesota Timberwolves,127,101
+400578564,2014-12-03 00:00:00,LA Clippers,Orlando Magic,114,86
+400578585,2014-12-06 00:00:00,LA Clippers,New Orleans Pelicans,120,100
+400578599,2014-12-08 00:00:00,LA Clippers,Phoenix Suns,121,120 OT
+400578609,2014-12-10 00:00:00,Indiana Pacers,LA Clippers,96,103
+400578621,2014-12-12 00:00:00,Washington Wizards,LA Clippers,104,96
+400578636,2014-12-13 00:00:00,Milwaukee Bucks,LA Clippers,111,106
+400578654,2014-12-15 00:00:00,LA Clippers,Detroit Pistons,113,91
+400578669,2014-12-17 00:00:00,LA Clippers,Indiana Pacers,102,100
+400578683,2014-12-19 00:00:00,Denver Nuggets,LA Clippers,109,106
+400578691,2014-12-20 00:00:00,LA Clippers,Milwaukee Bucks,106,102
+400578706,2014-12-22 00:00:00,San Antonio Spurs,LA Clippers,125,118
+400578712,2014-12-23 00:00:00,Atlanta Hawks,LA Clippers,107,104
+400578756,2014-12-29 00:00:00,LA Clippers,Utah Jazz,101,97
+400578811,2015-01-05 00:00:00,LA Clippers,Atlanta Hawks,98,107
+400578826,2015-01-07 00:00:00,LA Clippers,Los Angeles Lakers,114,89
+400578842,2015-01-10 00:00:00,LA Clippers,Dallas Mavericks,120,100
+400578851,2015-01-11 00:00:00,LA Clippers,Miami Heat,90,104
+400578875,2015-01-14 00:00:00,Portland Trail Blazers,LA Clippers,94,100
+400578891,2015-01-16 00:00:00,LA Clippers,Cleveland Cavaliers,121,126
+400578899,2015-01-17 00:00:00,Sacramento Kings,LA Clippers,108,117
+400578951,2015-01-25 00:00:00,Phoenix Suns,LA Clippers,100,120
+400578966,2015-01-26 00:00:00,LA Clippers,Denver Nuggets,102,98
+400578982,2015-01-28 00:00:00,Utah Jazz,LA Clippers,89,94
+400578993,2015-01-30 00:00:00,New Orleans Pelicans,LA Clippers,108,103
+400579006,2015-01-31 00:00:00,San Antonio Spurs,LA Clippers,85,105
+400579035,2015-02-05 00:00:00,Cleveland Cavaliers,LA Clippers,105,94
+400579057,2015-02-08 00:00:00,Oklahoma City Thunder,LA Clippers,131,108
+400579073,2015-02-09 00:00:00,Dallas Mavericks,LA Clippers,98,115
+400579091,2015-02-11 00:00:00,LA Clippers,Houston Rockets,110,95
+400579094,2015-02-19 00:00:00,LA Clippers,San Antonio Spurs,119,115
+400579112,2015-02-21 00:00:00,LA Clippers,Sacramento Kings,126,99
+400579129,2015-02-23 00:00:00,LA Clippers,Memphis Grizzlies,87,90
+400579138,2015-02-25 00:00:00,Houston Rockets,LA Clippers,110,105
+400579156,2015-02-27 00:00:00,Memphis Grizzlies,LA Clippers,79,97
+400579169,2015-03-01 00:00:00,Chicago Bulls,LA Clippers,86,96
+400579180,2015-03-02 00:00:00,Minnesota Timberwolves,LA Clippers,105,110
+400579200,2015-03-04 00:00:00,LA Clippers,Portland Trail Blazers,93 OT,98
+400579237,2015-03-09 00:00:00,LA Clippers,Minnesota Timberwolves,89,76
+400579249,2015-03-11 00:00:00,Oklahoma City Thunder,LA Clippers,108,120
+400579264,2015-03-13 00:00:00,Dallas Mavericks,LA Clippers,129,99
+400579275,2015-03-15 00:00:00,LA Clippers,Houston Rockets,98,100
+400579296,2015-03-17 00:00:00,LA Clippers,Charlotte Hornets,99,92
+400579305,2015-03-18 00:00:00,Sacramento Kings,LA Clippers,105,116
+400579323,2015-03-20 00:00:00,LA Clippers,Washington Wizards,113,99
+400579332,2015-03-22 00:00:00,LA Clippers,New Orleans Pelicans,107,100
+400579414,2015-04-01 00:00:00,Portland Trail Blazers,LA Clippers,122,126
+400579436,2015-04-04 00:00:00,Denver Nuggets,LA Clippers,92,107
+400579445,2015-04-05 00:00:00,Los Angeles Lakers,LA Clippers,78,106
+400579451,2015-04-07 00:00:00,LA Clippers,Los Angeles Lakers,105,100
+400579482,2015-04-11 00:00:00,LA Clippers,Memphis Grizzlies,94,86
+400579505,2015-04-13 00:00:00,LA Clippers,Denver Nuggets,110,103
+400579508,2015-04-14 00:00:00,Phoenix Suns,LA Clippers,101,112
+400578295,2014-10-28 00:00:00,Los Angeles Lakers,Houston Rockets,90,108
+400578305,2014-10-29 00:00:00,Phoenix Suns,Los Angeles Lakers,119,99
+400578348,2014-11-04 00:00:00,Los Angeles Lakers,Phoenix Suns,106,112
+400578389,2014-11-09 00:00:00,Los Angeles Lakers,Charlotte Hornets,107,92
+400578396,2014-11-11 00:00:00,Memphis Grizzlies,Los Angeles Lakers,107,102
+400578406,2014-11-12 00:00:00,New Orleans Pelicans,Los Angeles Lakers,109,102
+400578423,2014-11-14 00:00:00,Los Angeles Lakers,San Antonio Spurs,80,93
+400578447,2014-11-18 00:00:00,Atlanta Hawks,Los Angeles Lakers,109,114
+400578461,2014-11-19 00:00:00,Houston Rockets,Los Angeles Lakers,92,98
+400578472,2014-11-21 00:00:00,Dallas Mavericks,Los Angeles Lakers,140,106
+400578489,2014-11-23 00:00:00,Los Angeles Lakers,Denver Nuggets,94 OT,101
+400578514,2014-11-26 00:00:00,Los Angeles Lakers,Memphis Grizzlies,93,99
+400578526,2014-11-28 00:00:00,Los Angeles Lakers,Minnesota Timberwolves,119,120
+400578547,2014-12-02 00:00:00,Detroit Pistons,Los Angeles Lakers,96,106
+400578556,2014-12-03 00:00:00,Washington Wizards,Los Angeles Lakers,111,95
+400578592,2014-12-07 00:00:00,Los Angeles Lakers,New Orleans Pelicans,87,104
+400578607,2014-12-09 00:00:00,Los Angeles Lakers,Sacramento Kings,98,95
+400578631,2014-12-12 00:00:00,San Antonio Spurs,Los Angeles Lakers,110 OT,112
+400578643,2014-12-14 00:00:00,Minnesota Timberwolves,Los Angeles Lakers,94,100
+400578648,2014-12-15 00:00:00,Indiana Pacers,Los Angeles Lakers,110,91
+400578684,2014-12-19 00:00:00,Los Angeles Lakers,Oklahoma City Thunder,103,104
+400578694,2014-12-21 00:00:00,Sacramento Kings,Los Angeles Lakers,108,101
+400578722,2014-12-25 00:00:00,Chicago Bulls,Los Angeles Lakers,113,93
+400578731,2014-12-26 00:00:00,Dallas Mavericks,Los Angeles Lakers,102,98
+400578750,2014-12-28 00:00:00,Los Angeles Lakers,Phoenix Suns,107,116
+400578763,2014-12-30 00:00:00,Denver Nuggets,Los Angeles Lakers,103,111
+400578786,2015-01-02 00:00:00,Los Angeles Lakers,Memphis Grizzlies,106,109
+400578800,2015-01-04 00:00:00,Los Angeles Lakers,Indiana Pacers,88,87
+400578809,2015-01-05 00:00:00,Portland Trail Blazers,Los Angeles Lakers,98,94
+400578840,2015-01-09 00:00:00,Los Angeles Lakers,Orlando Magic,101,84
+400578854,2015-01-11 00:00:00,Los Angeles Lakers,Portland Trail Blazers,94,106
+400578865,2015-01-13 00:00:00,Los Angeles Lakers,Miami Heat,75,78
+400578878,2015-01-15 00:00:00,Los Angeles Lakers,Cleveland Cavaliers,102,109
+400578889,2015-01-16 00:00:00,Utah Jazz,Los Angeles Lakers,94,85
+400578914,2015-01-19 00:00:00,Phoenix Suns,Los Angeles Lakers,115,100
+400578924,2015-01-21 00:00:00,New Orleans Pelicans,Los Angeles Lakers,96,80
+400578940,2015-01-23 00:00:00,San Antonio Spurs,Los Angeles Lakers,99,85
+400578959,2015-01-25 00:00:00,Los Angeles Lakers,Houston Rockets,87,99
+400578972,2015-01-27 00:00:00,Los Angeles Lakers,Washington Wizards,92,98
+400578987,2015-01-29 00:00:00,Los Angeles Lakers,Chicago Bulls,123,118 2OT
+400579028,2015-02-04 00:00:00,Milwaukee Bucks,Los Angeles Lakers,113,105 OT
+400579040,2015-02-06 00:00:00,Orlando Magic,Los Angeles Lakers,103,97 OT
+400579058,2015-02-08 00:00:00,Cleveland Cavaliers,Los Angeles Lakers,120,105
+400579079,2015-02-10 00:00:00,Los Angeles Lakers,Denver Nuggets,96,106
+400579090,2015-02-11 00:00:00,Portland Trail Blazers,Los Angeles Lakers,102,86
+400579143,2015-02-25 00:00:00,Utah Jazz,Los Angeles Lakers,97,100
+400579160,2015-02-27 00:00:00,Los Angeles Lakers,Milwaukee Bucks,101,93
+400579170,2015-03-01 00:00:00,Los Angeles Lakers,Oklahoma City Thunder,101,108
+400579182,2015-03-03 00:00:00,Charlotte Hornets,Los Angeles Lakers,104,103
+400579197,2015-03-04 00:00:00,Miami Heat,Los Angeles Lakers,100,94
+400579210,2015-03-06 00:00:00,Memphis Grizzlies,Los Angeles Lakers,97,90
+400579229,2015-03-08 00:00:00,Los Angeles Lakers,Dallas Mavericks,93,100
+400579243,2015-03-10 00:00:00,Los Angeles Lakers,Detroit Pistons,93,85
+400579281,2015-03-15 00:00:00,Los Angeles Lakers,Atlanta Hawks,86,91
+400579311,2015-03-19 00:00:00,Los Angeles Lakers,Utah Jazz,73,80
+400579348,2015-03-24 00:00:00,Oklahoma City Thunder,Los Angeles Lakers,127,117
+400579359,2015-03-25 00:00:00,Minnesota Timberwolves,Los Angeles Lakers,99 OT,101
+400579415,2015-04-01 00:00:00,Los Angeles Lakers,New Orleans Pelicans,92,113
+400579428,2015-04-03 00:00:00,Los Angeles Lakers,Portland Trail Blazers,77,107
+400579461,2015-04-08 00:00:00,Denver Nuggets,Los Angeles Lakers,119,101
+400579478,2015-04-10 00:00:00,Los Angeles Lakers,Minnesota Timberwolves,106,98
+400579493,2015-04-12 00:00:00,Los Angeles Lakers,Dallas Mavericks,106,120
+400579503,2015-04-13 00:00:00,Sacramento Kings,Los Angeles Lakers,102,92
+400579522,2015-04-15 00:00:00,Los Angeles Lakers,Sacramento Kings,99,122
+400578316,2014-10-31 00:00:00,Phoenix Suns,San Antonio Spurs,94,89
+400578329,2014-11-01 00:00:00,Utah Jazz,Phoenix Suns,118,91
+400578357,2014-11-05 00:00:00,Phoenix Suns,Memphis Grizzlies,91,102
+400578371,2014-11-07 00:00:00,Phoenix Suns,Sacramento Kings,112 2OT,114
+400578422,2014-11-14 00:00:00,Phoenix Suns,Charlotte Hornets,95,103
+400578457,2014-11-19 00:00:00,Detroit Pistons,Phoenix Suns,86,88
+400578476,2014-11-22 00:00:00,Indiana Pacers,Phoenix Suns,83,106
+400578513,2014-11-26 00:00:00,Phoenix Suns,Denver Nuggets,120,112
+400578524,2014-11-28 00:00:00,Denver Nuggets,Phoenix Suns,122,97
+400578538,2014-11-30 00:00:00,Phoenix Suns,Orlando Magic,90,93
+400578552,2014-12-02 00:00:00,Phoenix Suns,Indiana Pacers,116,99
+400578576,2014-12-05 00:00:00,Dallas Mavericks,Phoenix Suns,106,118
+400578582,2014-12-06 00:00:00,Houston Rockets,Phoenix Suns,100,95
+400578605,2014-12-09 00:00:00,Phoenix Suns,Miami Heat,97,103
+400578629,2014-12-12 00:00:00,Phoenix Suns,Detroit Pistons,103,105
+400578644,2014-12-14 00:00:00,Oklahoma City Thunder,Phoenix Suns,112,88
+400578652,2014-12-15 00:00:00,Phoenix Suns,Milwaukee Bucks,94,96
+400578661,2014-12-17 00:00:00,Charlotte Hornets,Phoenix Suns,106,111
+400578698,2014-12-21 00:00:00,Washington Wizards,Phoenix Suns,92,104
+400578717,2014-12-23 00:00:00,Phoenix Suns,Dallas Mavericks,124,115
+400578734,2014-12-26 00:00:00,Sacramento Kings,Phoenix Suns,106,115
+400578761,2014-12-30 00:00:00,New Orleans Pelicans,Phoenix Suns,110,106
+400578772,2014-12-31 00:00:00,Oklahoma City Thunder,Phoenix Suns,137,134 OT
+400578812,2015-01-06 00:00:00,Milwaukee Bucks,Phoenix Suns,96,102
+400578823,2015-01-07 00:00:00,Minnesota Timberwolves,Phoenix Suns,111,113
+400578837,2015-01-09 00:00:00,San Antonio Spurs,Phoenix Suns,100,95
+400578852,2015-01-11 00:00:00,Memphis Grizzlies,Phoenix Suns,122,110 2OT
+400578862,2015-01-13 00:00:00,Phoenix Suns,Cleveland Cavaliers,107,100
+400578888,2015-01-16 00:00:00,Phoenix Suns,Minnesota Timberwolves,110,99
+400578926,2015-01-21 00:00:00,Phoenix Suns,Portland Trail Blazers,118,113
+400578942,2015-01-23 00:00:00,Phoenix Suns,Houston Rockets,111,113
+400578983,2015-01-28 00:00:00,Phoenix Suns,Washington Wizards,106,98
+400578996,2015-01-30 00:00:00,Phoenix Suns,Chicago Bulls,99,93
+400579017,2015-02-02 00:00:00,Phoenix Suns,Memphis Grizzlies,101,102
+400579037,2015-02-05 00:00:00,Portland Trail Blazers,Phoenix Suns,108,87
+400579048,2015-02-06 00:00:00,Phoenix Suns,Utah Jazz,100,93
+400579065,2015-02-08 00:00:00,Sacramento Kings,Phoenix Suns,85,83
+400579076,2015-02-10 00:00:00,Phoenix Suns,Houston Rockets,118,127
+400579100,2015-02-20 00:00:00,Minnesota Timberwolves,Phoenix Suns,111,109
+400579110,2015-02-21 00:00:00,Chicago Bulls,Phoenix Suns,112,107
+400579142,2015-02-25 00:00:00,Denver Nuggets,Phoenix Suns,96,110
+400579147,2015-02-26 00:00:00,Phoenix Suns,Oklahoma City Thunder,117,113 OT
+400579167,2015-02-28 00:00:00,Phoenix Suns,San Antonio Spurs,74,101
+400579179,2015-03-02 00:00:00,Miami Heat,Phoenix Suns,115,98
+400579189,2015-03-04 00:00:00,Orlando Magic,Phoenix Suns,100,105
+400579216,2015-03-07 00:00:00,Cleveland Cavaliers,Phoenix Suns,89,79
+400579251,2015-03-11 00:00:00,Phoenix Suns,Minnesota Timberwolves,106,97
+400579266,2015-03-13 00:00:00,Phoenix Suns,Atlanta Hawks,87,96
+400579310,2015-03-19 00:00:00,Phoenix Suns,New Orleans Pelicans,74,72
+400579326,2015-03-21 00:00:00,Houston Rockets,Phoenix Suns,102,117
+400579338,2015-03-22 00:00:00,Phoenix Suns,Dallas Mavericks,98,92
+400579364,2015-03-25 00:00:00,Phoenix Suns,Sacramento Kings,99,108
+400579378,2015-03-27 00:00:00,Phoenix Suns,Portland Trail Blazers,81,87
+400579392,2015-03-29 00:00:00,Phoenix Suns,Oklahoma City Thunder,97,109
+400579399,2015-03-30 00:00:00,Portland Trail Blazers,Phoenix Suns,109,86
+400579437,2015-04-04 00:00:00,Phoenix Suns,Utah Jazz,87,85
+400579446,2015-04-07 00:00:00,Atlanta Hawks,Phoenix Suns,96,69
+400579463,2015-04-08 00:00:00,Dallas Mavericks,Phoenix Suns,107,104
+400579474,2015-04-10 00:00:00,New Orleans Pelicans,Phoenix Suns,90,75
+400579492,2015-04-12 00:00:00,San Antonio Spurs,Phoenix Suns,107,91
+400578317,2014-10-31 00:00:00,Sacramento Kings,Portland Trail Blazers,103,94
+400578339,2014-11-03 00:00:00,Denver Nuggets,Sacramento Kings,105,110
+400578359,2014-11-05 00:00:00,Sacramento Kings,Denver Nuggets,131,109
+400578384,2014-11-09 00:00:00,Oklahoma City Thunder,Sacramento Kings,101,93
+400578398,2014-11-11 00:00:00,Dallas Mavericks,Sacramento Kings,106,98
+400578410,2014-11-13 00:00:00,Memphis Grizzlies,Sacramento Kings,111,110
+400578431,2014-11-15 00:00:00,Sacramento Kings,San Antonio Spurs,94,91
+400578450,2014-11-18 00:00:00,Sacramento Kings,New Orleans Pelicans,100,106
+400578463,2014-11-20 00:00:00,Sacramento Kings,Chicago Bulls,103,88
+400578481,2014-11-22 00:00:00,Minnesota Timberwolves,Sacramento Kings,101,113
+400578500,2014-11-25 00:00:00,New Orleans Pelicans,Sacramento Kings,89,99
+400578509,2014-11-26 00:00:00,Houston Rockets,Sacramento Kings,102,89
+400578523,2014-11-28 00:00:00,San Antonio Spurs,Sacramento Kings,112,104
+400578536,2014-11-30 00:00:00,Sacramento Kings,Memphis Grizzlies,85,97
+400578579,2014-12-05 00:00:00,Sacramento Kings,Indiana Pacers,102,101 OT
+400578584,2014-12-06 00:00:00,Sacramento Kings,Orlando Magic,96,105
+400578598,2014-12-08 00:00:00,Sacramento Kings,Utah Jazz,101,92
+400578619,2014-12-11 00:00:00,Sacramento Kings,Houston Rockets,109 OT,113
+400578639,2014-12-13 00:00:00,Sacramento Kings,Detroit Pistons,90,95
+400578660,2014-12-16 00:00:00,Sacramento Kings,Oklahoma City Thunder,92,104
+400578673,2014-12-18 00:00:00,Sacramento Kings,Milwaukee Bucks,107,108
+400578775,2015-01-01 00:00:00,Minnesota Timberwolves,Sacramento Kings,107,110
+400578796,2015-01-04 00:00:00,Detroit Pistons,Sacramento Kings,114,95
+400578824,2015-01-07 00:00:00,Sacramento Kings,Oklahoma City Thunder,104,83
+400578838,2015-01-09 00:00:00,Sacramento Kings,Denver Nuggets,108,118
+400578853,2015-01-11 00:00:00,Sacramento Kings,Cleveland Cavaliers,103,84
+400578864,2015-01-13 00:00:00,Sacramento Kings,Dallas Mavericks,104 OT,108
+400578890,2015-01-16 00:00:00,Sacramento Kings,Miami Heat,83,95
+400578913,2015-01-19 00:00:00,Portland Trail Blazers,Sacramento Kings,98,94
+400578992,2015-01-30 00:00:00,Cleveland Cavaliers,Sacramento Kings,101,90
+400578997,2015-01-31 00:00:00,Indiana Pacers,Sacramento Kings,94,99
+400579036,2015-02-05 00:00:00,Sacramento Kings,Dallas Mavericks,78,101
+400579056,2015-02-07 00:00:00,Utah Jazz,Sacramento Kings,102,90
+400579077,2015-02-10 00:00:00,Chicago Bulls,Sacramento Kings,104,86
+400579084,2015-02-11 00:00:00,Milwaukee Bucks,Sacramento Kings,111,103
+400579144,2015-02-25 00:00:00,Sacramento Kings,Memphis Grizzlies,102,90
+400579159,2015-02-27 00:00:00,Sacramento Kings,San Antonio Spurs,96,107
+400579171,2015-03-01 00:00:00,Sacramento Kings,Portland Trail Blazers,99,110
+400579198,2015-03-04 00:00:00,San Antonio Spurs,Sacramento Kings,112,85
+400579205,2015-03-06 00:00:00,Orlando Magic,Sacramento Kings,119,114
+400579217,2015-03-07 00:00:00,Miami Heat,Sacramento Kings,114,109 OT
+400579231,2015-03-09 00:00:00,Atlanta Hawks,Sacramento Kings,130,105
+400579244,2015-03-11 00:00:00,Charlotte Hornets,Sacramento Kings,106,113
+400579269,2015-03-14 00:00:00,Washington Wizards,Sacramento Kings,113,97
+400579290,2015-03-16 00:00:00,Sacramento Kings,Atlanta Hawks,103,110
+400579321,2015-03-20 00:00:00,Sacramento Kings,Charlotte Hornets,101,91
+400579334,2015-03-22 00:00:00,Sacramento Kings,Washington Wizards,109,86
+400579375,2015-03-27 00:00:00,New Orleans Pelicans,Sacramento Kings,102,88
+400579397,2015-03-30 00:00:00,Memphis Grizzlies,Sacramento Kings,97,83
+400579409,2015-04-01 00:00:00,Houston Rockets,Sacramento Kings,115,111
+400579427,2015-04-03 00:00:00,Sacramento Kings,New Orleans Pelicans,95,101
+400579444,2015-04-05 00:00:00,Sacramento Kings,Utah Jazz,95,101
+400579450,2015-04-07 00:00:00,Sacramento Kings,Minnesota Timberwolves,116,111
+400579462,2015-04-08 00:00:00,Utah Jazz,Sacramento Kings,103,91
+400579475,2015-04-10 00:00:00,Oklahoma City Thunder,Sacramento Kings,116,103
+400579488,2015-04-12 00:00:00,Denver Nuggets,Sacramento Kings,122,111
+400578314,2014-10-31 00:00:00,Chicago Bulls,Cleveland Cavaliers,108 OT,114
+400578327,2014-11-01 00:00:00,Minnesota Timberwolves,Chicago Bulls,105,106
+400578345,2014-11-04 00:00:00,Chicago Bulls,Orlando Magic,98,90
+400578354,2014-11-05 00:00:00,Milwaukee Bucks,Chicago Bulls,86,95
+400578393,2014-11-10 00:00:00,Chicago Bulls,Detroit Pistons,102,91
+400578427,2014-11-15 00:00:00,Chicago Bulls,Indiana Pacers,90,99
+400578475,2014-11-21 00:00:00,Portland Trail Blazers,Chicago Bulls,105,87
+400578496,2014-11-24 00:00:00,Utah Jazz,Chicago Bulls,95,97
+400578501,2014-11-25 00:00:00,Denver Nuggets,Chicago Bulls,114,109
+400578549,2014-12-02 00:00:00,Chicago Bulls,Dallas Mavericks,129 2OT,132
+400578555,2014-12-03 00:00:00,Charlotte Hornets,Chicago Bulls,95,102
+400578620,2014-12-12 00:00:00,Chicago Bulls,Portland Trail Blazers,115,96
+400578641,2014-12-14 00:00:00,Miami Heat,Chicago Bulls,75,93
+400578650,2014-12-15 00:00:00,Atlanta Hawks,Chicago Bulls,93,86
+400578681,2014-12-19 00:00:00,Memphis Grizzlies,Chicago Bulls,97,103
+400578711,2014-12-23 00:00:00,Washington Wizards,Chicago Bulls,91,99
+400578739,2014-12-27 00:00:00,Chicago Bulls,New Orleans Pelicans,107,100
+400578752,2014-12-29 00:00:00,Indiana Pacers,Chicago Bulls,90,92
+400578774,2015-01-01 00:00:00,Chicago Bulls,Denver Nuggets,106,101
+400578804,2015-01-05 00:00:00,Chicago Bulls,Houston Rockets,114,105
+400578820,2015-01-07 00:00:00,Chicago Bulls,Utah Jazz,77,97
+400578835,2015-01-09 00:00:00,Washington Wizards,Chicago Bulls,102,86
+400578846,2015-01-10 00:00:00,Chicago Bulls,Milwaukee Bucks,95,87
+400578858,2015-01-12 00:00:00,Chicago Bulls,Orlando Magic,114,121
+400578871,2015-01-14 00:00:00,Chicago Bulls,Washington Wizards,99,105
+400578894,2015-01-17 00:00:00,Chicago Bulls,Atlanta Hawks,99,107
+400578912,2015-01-19 00:00:00,Cleveland Cavaliers,Chicago Bulls,108,94
+400578929,2015-01-22 00:00:00,Chicago Bulls,San Antonio Spurs,104,81
+400578938,2015-01-23 00:00:00,Dallas Mavericks,Chicago Bulls,98,102
+400578949,2015-01-25 00:00:00,Chicago Bulls,Miami Heat,84,96
+400579027,2015-02-04 00:00:00,Houston Rockets,Chicago Bulls,101,90
+400579050,2015-02-07 00:00:00,New Orleans Pelicans,Chicago Bulls,72,107
+400579062,2015-02-08 00:00:00,Orlando Magic,Chicago Bulls,97,98
+400579092,2015-02-12 00:00:00,Chicago Bulls,Cleveland Cavaliers,113,98
+400579098,2015-02-20 00:00:00,Detroit Pistons,Chicago Bulls,100,91
+400579123,2015-02-23 00:00:00,Chicago Bulls,Milwaukee Bucks,87,71
+400579137,2015-02-25 00:00:00,Chicago Bulls,Charlotte Hornets,86,98
+400579154,2015-02-27 00:00:00,Chicago Bulls,Minnesota Timberwolves,96,89
+400579185,2015-03-03 00:00:00,Chicago Bulls,Washington Wizards,97,92
+400579201,2015-03-05 00:00:00,Chicago Bulls,Oklahoma City Thunder,108,105
+400579204,2015-03-06 00:00:00,Indiana Pacers,Chicago Bulls,98,84
+400579223,2015-03-08 00:00:00,San Antonio Spurs,Chicago Bulls,116,105
+400579233,2015-03-09 00:00:00,Chicago Bulls,Memphis Grizzlies,91,101
+400579259,2015-03-13 00:00:00,Charlotte Hornets,Chicago Bulls,101,91
+400579274,2015-03-15 00:00:00,Oklahoma City Thunder,Chicago Bulls,109,100
+400579301,2015-03-18 00:00:00,Chicago Bulls,Indiana Pacers,103,86
+400579325,2015-03-21 00:00:00,Detroit Pistons,Chicago Bulls,107,91
+400579343,2015-03-23 00:00:00,Chicago Bulls,Charlotte Hornets,98,86
+400579410,2015-04-01 00:00:00,Milwaukee Bucks,Chicago Bulls,95,91
+400579423,2015-04-03 00:00:00,Chicago Bulls,Detroit Pistons,88,82
+400579440,2015-04-05 00:00:00,Cleveland Cavaliers,Chicago Bulls,99,94
+400579453,2015-04-08 00:00:00,Orlando Magic,Chicago Bulls,105,103
+400579465,2015-04-09 00:00:00,Miami Heat,Chicago Bulls,78,89
+400579509,2015-04-15 00:00:00,Chicago Bulls,Atlanta Hawks,91,85
+400578347,2014-11-04 00:00:00,Portland Trail Blazers,Cleveland Cavaliers,101,82
+400578358,2014-11-05 00:00:00,Utah Jazz,Cleveland Cavaliers,102,100
+400578373,2014-11-07 00:00:00,Denver Nuggets,Cleveland Cavaliers,101,110
+400578390,2014-11-10 00:00:00,Cleveland Cavaliers,New Orleans Pelicans,118,111
+400578425,2014-11-15 00:00:00,Cleveland Cavaliers,Atlanta Hawks,127,94
+400578439,2014-11-17 00:00:00,Cleveland Cavaliers,Denver Nuggets,97,106
+400578451,2014-11-19 00:00:00,Cleveland Cavaliers,San Antonio Spurs,90,92
+400578471,2014-11-21 00:00:00,Washington Wizards,Cleveland Cavaliers,91,78
+400578491,2014-11-24 00:00:00,Cleveland Cavaliers,Orlando Magic,106,74
+400578503,2014-11-26 00:00:00,Cleveland Cavaliers,Washington Wizards,113,87
+400578530,2014-11-29 00:00:00,Cleveland Cavaliers,Indiana Pacers,109,97
+400578545,2014-12-02 00:00:00,Cleveland Cavaliers,Milwaukee Bucks,111,108
+400578618,2014-12-11 00:00:00,Oklahoma City Thunder,Cleveland Cavaliers,103,94
+400578628,2014-12-12 00:00:00,New Orleans Pelicans,Cleveland Cavaliers,119,114
+400578647,2014-12-15 00:00:00,Cleveland Cavaliers,Charlotte Hornets,97,88
+400578662,2014-12-17 00:00:00,Cleveland Cavaliers,Atlanta Hawks,98,127
+400578693,2014-12-21 00:00:00,Cleveland Cavaliers,Memphis Grizzlies,105,91
+400578708,2014-12-23 00:00:00,Cleveland Cavaliers,Minnesota Timberwolves,125,104
+400578721,2014-12-25 00:00:00,Miami Heat,Cleveland Cavaliers,101,91
+400578725,2014-12-26 00:00:00,Orlando Magic,Cleveland Cavaliers,89,98
+400578745,2014-12-28 00:00:00,Cleveland Cavaliers,Detroit Pistons,80,103
+400578758,2014-12-30 00:00:00,Atlanta Hawks,Cleveland Cavaliers,109,101
+400578771,2014-12-31 00:00:00,Cleveland Cavaliers,Milwaukee Bucks,80,96
+400578776,2015-01-02 00:00:00,Charlotte Hornets,Cleveland Cavaliers,87,91
+400578795,2015-01-04 00:00:00,Cleveland Cavaliers,Dallas Mavericks,90,109
+400578815,2015-01-07 00:00:00,Cleveland Cavaliers,Houston Rockets,93,105
+400578918,2015-01-21 00:00:00,Cleveland Cavaliers,Utah Jazz,106,92
+400578935,2015-01-23 00:00:00,Cleveland Cavaliers,Charlotte Hornets,129,90
+400578950,2015-01-25 00:00:00,Cleveland Cavaliers,Oklahoma City Thunder,108,98
+400578968,2015-01-27 00:00:00,Detroit Pistons,Cleveland Cavaliers,95,103
+400578973,2015-01-28 00:00:00,Cleveland Cavaliers,Portland Trail Blazers,99,94
+400579003,2015-01-31 00:00:00,Minnesota Timberwolves,Cleveland Cavaliers,90,106
+400579039,2015-02-06 00:00:00,Indiana Pacers,Cleveland Cavaliers,103,99
+400579088,2015-02-11 00:00:00,Cleveland Cavaliers,Miami Heat,113,93
+400579101,2015-02-20 00:00:00,Washington Wizards,Cleveland Cavaliers,89,127
+400579131,2015-02-24 00:00:00,Detroit Pistons,Cleveland Cavaliers,93,102
+400579148,2015-02-27 00:00:00,Indiana Pacers,Cleveland Cavaliers,93,86
+400579175,2015-03-01 00:00:00,Houston Rockets,Cleveland Cavaliers,105,103 OT
+400579207,2015-03-06 00:00:00,Atlanta Hawks,Cleveland Cavaliers,106,97
+400579240,2015-03-10 00:00:00,Dallas Mavericks,Cleveland Cavaliers,94,127
+400579256,2015-03-12 00:00:00,San Antonio Spurs,Cleveland Cavaliers,125 OT,128
+400579277,2015-03-15 00:00:00,Orlando Magic,Cleveland Cavaliers,108,123
+400579287,2015-03-16 00:00:00,Miami Heat,Cleveland Cavaliers,106,92
+400579315,2015-03-20 00:00:00,Cleveland Cavaliers,Indiana Pacers,95,92
+400579329,2015-03-22 00:00:00,Milwaukee Bucks,Cleveland Cavaliers,90,108
+400579358,2015-03-25 00:00:00,Memphis Grizzlies,Cleveland Cavaliers,89,111
+400579416,2015-04-02 00:00:00,Cleveland Cavaliers,Miami Heat,114,88
+400579459,2015-04-08 00:00:00,Milwaukee Bucks,Cleveland Cavaliers,99,104
+400579495,2015-04-13 00:00:00,Cleveland Cavaliers,Detroit Pistons,109,97
+400579517,2015-04-15 00:00:00,Cleveland Cavaliers,Washington Wizards,113,108 OT
+400578303,2014-10-29 00:00:00,Denver Nuggets,Detroit Pistons,89,79
+400578309,2014-10-30 00:00:00,Minnesota Timberwolves,Detroit Pistons,97,91
+400578368,2014-11-07 00:00:00,Detroit Pistons,Milwaukee Bucks,98,95
+400578383,2014-11-09 00:00:00,Detroit Pistons,Utah Jazz,96,97
+400578401,2014-11-12 00:00:00,Washington Wizards,Detroit Pistons,107,103
+400578421,2014-11-14 00:00:00,Oklahoma City Thunder,Detroit Pistons,89 OT,96
+400578428,2014-11-15 00:00:00,Memphis Grizzlies,Detroit Pistons,95,88
+400578442,2014-11-17 00:00:00,Detroit Pistons,Orlando Magic,93,107
+400578466,2014-11-21 00:00:00,Atlanta Hawks,Detroit Pistons,99,89
+400578499,2014-11-25 00:00:00,Milwaukee Bucks,Detroit Pistons,98,86
+400578518,2014-11-28 00:00:00,Detroit Pistons,Milwaukee Bucks,88,104
+400578589,2014-12-07 00:00:00,Detroit Pistons,Oklahoma City Thunder,94,96
+400578601,2014-12-09 00:00:00,Detroit Pistons,Portland Trail Blazers,86,98
+400578664,2014-12-17 00:00:00,Detroit Pistons,Dallas Mavericks,106,117
+400578727,2014-12-26 00:00:00,Detroit Pistons,Indiana Pacers,119,109
+400578757,2014-12-30 00:00:00,Orlando Magic,Detroit Pistons,86,109
+400578813,2015-01-06 00:00:00,San Antonio Spurs,Detroit Pistons,104,105
+400578821,2015-01-07 00:00:00,Dallas Mavericks,Detroit Pistons,95,108
+400578832,2015-01-09 00:00:00,Detroit Pistons,Atlanta Hawks,103,106
+400578869,2015-01-14 00:00:00,Detroit Pistons,New Orleans Pelicans,94,105
+400578879,2015-01-16 00:00:00,Indiana Pacers,Detroit Pistons,96,98
+400578905,2015-01-19 00:00:00,Atlanta Hawks,Detroit Pistons,93,82
+400578921,2015-01-21 00:00:00,Detroit Pistons,Orlando Magic,128,118
+400578945,2015-01-24 00:00:00,Milwaukee Bucks,Detroit Pistons,101,86
+400579001,2015-01-31 00:00:00,Detroit Pistons,Houston Rockets,114,101
+400579019,2015-02-03 00:00:00,Detroit Pistons,Miami Heat,108,91
+400579023,2015-02-04 00:00:00,Indiana Pacers,Detroit Pistons,114,109
+400579043,2015-02-06 00:00:00,Detroit Pistons,Denver Nuggets,98,88
+400579061,2015-02-08 00:00:00,Detroit Pistons,Minnesota Timberwolves,101,112
+400579075,2015-02-10 00:00:00,Charlotte Hornets,Detroit Pistons,78,106
+400579082,2015-02-11 00:00:00,Detroit Pistons,San Antonio Spurs,87,104
+400579115,2015-02-22 00:00:00,Detroit Pistons,Washington Wizards,106,89
+400579162,2015-02-28 00:00:00,Washington Wizards,Detroit Pistons,99,95
+400579195,2015-03-04 00:00:00,New Orleans Pelicans,Detroit Pistons,88,85
+400579209,2015-03-06 00:00:00,Houston Rockets,Detroit Pistons,103,93
+400579226,2015-03-08 00:00:00,Detroit Pistons,Charlotte Hornets,101,108
+400579267,2015-03-13 00:00:00,Portland Trail Blazers,Detroit Pistons,118,99
+400579272,2015-03-14 00:00:00,Utah Jazz,Detroit Pistons,88,85
+400579292,2015-03-17 00:00:00,Detroit Pistons,Memphis Grizzlies,105,95
+400579366,2015-03-27 00:00:00,Orlando Magic,Detroit Pistons,97,111
+400579388,2015-03-29 00:00:00,Miami Heat,Detroit Pistons,109,102
+400579401,2015-03-31 00:00:00,Detroit Pistons,Atlanta Hawks,105,95
+400579404,2015-04-01 00:00:00,Charlotte Hornets,Detroit Pistons,102,78
+400579431,2015-04-04 00:00:00,Detroit Pistons,Miami Heat,99,98
+400579471,2015-04-10 00:00:00,Detroit Pistons,Indiana Pacers,103,107
+400579487,2015-04-12 00:00:00,Detroit Pistons,Charlotte Hornets,116,77
+400578313,2014-10-31 00:00:00,Indiana Pacers,Memphis Grizzlies,89,97
+400578324,2014-11-01 00:00:00,Atlanta Hawks,Indiana Pacers,102,92
+400578341,2014-11-04 00:00:00,Indiana Pacers,Milwaukee Bucks,81,87
+400578355,2014-11-05 00:00:00,Washington Wizards,Indiana Pacers,96,94 OT
+400578375,2014-11-08 00:00:00,Indiana Pacers,Washington Wizards,90,97
+400578391,2014-11-10 00:00:00,Indiana Pacers,Utah Jazz,97,86
+400578404,2014-11-12 00:00:00,Miami Heat,Indiana Pacers,75,81
+400578414,2014-11-14 00:00:00,Indiana Pacers,Denver Nuggets,87,108
+400578452,2014-11-19 00:00:00,Indiana Pacers,Charlotte Hornets,88,86
+400578495,2014-11-24 00:00:00,Dallas Mavericks,Indiana Pacers,100,111
+400578512,2014-11-26 00:00:00,San Antonio Spurs,Indiana Pacers,106,100
+400578522,2014-11-28 00:00:00,Indiana Pacers,Orlando Magic,98,83
+400578566,2014-12-04 00:00:00,Portland Trail Blazers,Indiana Pacers,88,82
+400578593,2014-12-08 00:00:00,Indiana Pacers,Atlanta Hawks,92,108
+400578634,2014-12-13 00:00:00,Indiana Pacers,Portland Trail Blazers,85,95
+400578690,2014-12-20 00:00:00,Denver Nuggets,Indiana Pacers,76,73
+400578699,2014-12-21 00:00:00,Minnesota Timberwolves,Indiana Pacers,96,100
+400578709,2014-12-23 00:00:00,Indiana Pacers,New Orleans Pelicans,96,84
+400578768,2014-12-31 00:00:00,Indiana Pacers,Miami Heat,106,95
+400578782,2015-01-02 00:00:00,Milwaukee Bucks,Indiana Pacers,91,94
+400578808,2015-01-05 00:00:00,Utah Jazz,Indiana Pacers,101,105
+400578859,2015-01-13 00:00:00,Indiana Pacers,Minnesota Timberwolves,101,110
+400578892,2015-01-17 00:00:00,Charlotte Hornets,Indiana Pacers,80,71 OT
+400578909,2015-01-19 00:00:00,Houston Rockets,Indiana Pacers,110,98
+400578920,2015-01-21 00:00:00,Atlanta Hawks,Indiana Pacers,110,91
+400578936,2015-01-23 00:00:00,Miami Heat,Indiana Pacers,89,87
+400578954,2015-01-25 00:00:00,Orlando Magic,Indiana Pacers,99,106
+400579060,2015-02-08 00:00:00,Charlotte Hornets,Indiana Pacers,102,103
+400579066,2015-02-09 00:00:00,Indiana Pacers,San Antonio Spurs,93,95
+400579086,2015-02-11 00:00:00,New Orleans Pelicans,Indiana Pacers,93,106
+400579132,2015-02-24 00:00:00,Oklahoma City Thunder,Indiana Pacers,105,92
+400579238,2015-03-10 00:00:00,Indiana Pacers,Orlando Magic,118,86
+400579254,2015-03-12 00:00:00,Indiana Pacers,Milwaukee Bucks,109,103 OT
+400579340,2015-03-23 00:00:00,Indiana Pacers,Houston Rockets,100,110
+400579355,2015-03-25 00:00:00,Washington Wizards,Indiana Pacers,101,103
+400579365,2015-03-26 00:00:00,Milwaukee Bucks,Indiana Pacers,111,107
+400579391,2015-03-29 00:00:00,Indiana Pacers,Dallas Mavericks,104,99
+400579419,2015-04-03 00:00:00,Indiana Pacers,Charlotte Hornets,93,74
+400579441,2015-04-05 00:00:00,Indiana Pacers,Miami Heat,112,89
+400579489,2015-04-12 00:00:00,Indiana Pacers,Oklahoma City Thunder,116,104
+400579507,2015-04-14 00:00:00,Indiana Pacers,Washington Wizards,99,95 2OT
+400579512,2015-04-15 00:00:00,Memphis Grizzlies,Indiana Pacers,95,83
+400578296,2014-10-29 00:00:00,Charlotte Hornets,Milwaukee Bucks,108,106 OT
+400578323,2014-11-01 00:00:00,Washington Wizards,Milwaukee Bucks,108,97
+400578380,2014-11-08 00:00:00,Milwaukee Bucks,Memphis Grizzlies,93,92
+400578397,2014-11-11 00:00:00,Milwaukee Bucks,Oklahoma City Thunder,85,78
+400578415,2014-11-14 00:00:00,Orlando Magic,Milwaukee Bucks,101,85
+400578435,2014-11-16 00:00:00,Miami Heat,Milwaukee Bucks,84,91
+400578482,2014-11-22 00:00:00,Milwaukee Bucks,Washington Wizards,100,111
+400578510,2014-11-26 00:00:00,Minnesota Timberwolves,Milwaukee Bucks,86,103
+400578532,2014-11-29 00:00:00,Milwaukee Bucks,Houston Rockets,103,117
+400578561,2014-12-03 00:00:00,Milwaukee Bucks,Dallas Mavericks,105,107
+400578577,2014-12-05 00:00:00,Milwaukee Bucks,Miami Heat,109,85
+400578590,2014-12-07 00:00:00,Dallas Mavericks,Milwaukee Bucks,125,102
+400578604,2014-12-09 00:00:00,Oklahoma City Thunder,Milwaukee Bucks,114,101
+400578668,2014-12-17 00:00:00,Portland Trail Blazers,Milwaukee Bucks,104,97
+400578715,2014-12-23 00:00:00,Milwaukee Bucks,Charlotte Hornets,101,108
+400578726,2014-12-26 00:00:00,Atlanta Hawks,Milwaukee Bucks,77,107
+400578741,2014-12-27 00:00:00,Milwaukee Bucks,Atlanta Hawks,85,90
+400578751,2014-12-29 00:00:00,Charlotte Hornets,Milwaukee Bucks,94 OT,104
+400578836,2015-01-09 00:00:00,Milwaukee Bucks,Minnesota Timberwolves,98,84
+400578930,2015-01-22 00:00:00,Milwaukee Bucks,Utah Jazz,99,101
+400578955,2015-01-25 00:00:00,San Antonio Spurs,Milwaukee Bucks,101,95
+400578969,2015-01-27 00:00:00,Miami Heat,Milwaukee Bucks,102,109
+400578984,2015-01-29 00:00:00,Orlando Magic,Milwaukee Bucks,100,115
+400579004,2015-01-31 00:00:00,Milwaukee Bucks,Portland Trail Blazers,95,88
+400579045,2015-02-06 00:00:00,Houston Rockets,Milwaukee Bucks,117,111
+400579103,2015-02-20 00:00:00,Milwaukee Bucks,Denver Nuggets,89,81
+400579114,2015-02-22 00:00:00,Milwaukee Bucks,Atlanta Hawks,86,97
+400579168,2015-02-28 00:00:00,Utah Jazz,Milwaukee Bucks,82,75
+400579187,2015-03-03 00:00:00,Denver Nuggets,Milwaukee Bucks,106,95
+400579221,2015-03-07 00:00:00,Milwaukee Bucks,Washington Wizards,91,85
+400579234,2015-03-09 00:00:00,Milwaukee Bucks,New Orleans Pelicans,103,114
+400579248,2015-03-11 00:00:00,Milwaukee Bucks,Orlando Magic,97,91
+400579271,2015-03-14 00:00:00,Memphis Grizzlies,Milwaukee Bucks,96,83
+400579295,2015-03-17 00:00:00,New Orleans Pelicans,Milwaukee Bucks,85,84
+400579302,2015-03-18 00:00:00,Milwaukee Bucks,San Antonio Spurs,103,114
+400579347,2015-03-24 00:00:00,Milwaukee Bucks,Miami Heat,89,88
+400579395,2015-03-30 00:00:00,Atlanta Hawks,Milwaukee Bucks,101,88
+400579435,2015-04-04 00:00:00,Milwaukee Bucks,Orlando Magic,90,97
+400578294,2014-10-28 00:00:00,San Antonio Spurs,Dallas Mavericks,101,100
+400578311,2014-10-30 00:00:00,Dallas Mavericks,Utah Jazz,120,102
+400578319,2014-11-01 00:00:00,New Orleans Pelicans,Dallas Mavericks,104,109
+400578362,2014-11-06 00:00:00,Portland Trail Blazers,Dallas Mavericks,108,87
+400578372,2014-11-07 00:00:00,Utah Jazz,Dallas Mavericks,82,105
+400578386,2014-11-09 00:00:00,Dallas Mavericks,Miami Heat,96,105
+400578429,2014-11-15 00:00:00,Dallas Mavericks,Minnesota Timberwolves,131,117
+400578438,2014-11-17 00:00:00,Charlotte Hornets,Dallas Mavericks,80,107
+400578455,2014-11-19 00:00:00,Washington Wizards,Dallas Mavericks,102,105
+400578480,2014-11-22 00:00:00,Houston Rockets,Dallas Mavericks,95,92
+400578602,2014-12-09 00:00:00,Memphis Grizzlies,Dallas Mavericks,114,105
+400578615,2014-12-10 00:00:00,Dallas Mavericks,New Orleans Pelicans,112,107
+400578689,2014-12-20 00:00:00,Dallas Mavericks,San Antonio Spurs,99,93
+400578705,2014-12-22 00:00:00,Dallas Mavericks,Atlanta Hawks,102,105
+400578747,2014-12-28 00:00:00,Dallas Mavericks,Oklahoma City Thunder,112,107
+400578762,2014-12-30 00:00:00,Dallas Mavericks,Washington Wizards,114,87
+400578873,2015-01-14 00:00:00,Denver Nuggets,Dallas Mavericks,114,107
+400578886,2015-01-16 00:00:00,Dallas Mavericks,Denver Nuggets,97,89
+400578908,2015-01-19 00:00:00,Memphis Grizzlies,Dallas Mavericks,95,103
+400578923,2015-01-21 00:00:00,Minnesota Timberwolves,Dallas Mavericks,75,98
+400578952,2015-01-25 00:00:00,New Orleans Pelicans,Dallas Mavericks,109,106
+400578970,2015-01-27 00:00:00,Dallas Mavericks,Memphis Grizzlies,90,109
+400578977,2015-01-28 00:00:00,Houston Rockets,Dallas Mavericks,99,94
+400578994,2015-01-30 00:00:00,Miami Heat,Dallas Mavericks,72,93
+400578998,2015-01-31 00:00:00,Orlando Magic,Dallas Mavericks,93,108
+400579016,2015-02-02 00:00:00,Dallas Mavericks,Minnesota Timberwolves,100,94
+400579054,2015-02-07 00:00:00,Dallas Mavericks,Portland Trail Blazers,111,101 OT
+400579089,2015-02-11 00:00:00,Dallas Mavericks,Utah Jazz,87,82
+400579093,2015-02-19 00:00:00,Oklahoma City Thunder,Dallas Mavericks,104,89
+400579102,2015-02-20 00:00:00,Dallas Mavericks,Houston Rockets,111,100
+400579119,2015-02-22 00:00:00,Dallas Mavericks,Charlotte Hornets,92,81
+400579135,2015-02-25 00:00:00,Atlanta Hawks,Dallas Mavericks,104,87
+400579181,2015-03-02 00:00:00,Dallas Mavericks,New Orleans Pelicans,102,93
+400579202,2015-03-05 00:00:00,Portland Trail Blazers,Dallas Mavericks,94,75
+400579288,2015-03-16 00:00:00,Dallas Mavericks,Oklahoma City Thunder,119,115
+400579304,2015-03-18 00:00:00,Dallas Mavericks,Orlando Magic,107,102
+400579319,2015-03-20 00:00:00,Dallas Mavericks,Memphis Grizzlies,101,112
+400579349,2015-03-24 00:00:00,Dallas Mavericks,San Antonio Spurs,101,94
+400579376,2015-03-27 00:00:00,San Antonio Spurs,Dallas Mavericks,94,76
+400579412,2015-04-01 00:00:00,Oklahoma City Thunder,Dallas Mavericks,131,135
+400579417,2015-04-02 00:00:00,Dallas Mavericks,Houston Rockets,101,108
+400579476,2015-04-10 00:00:00,Denver Nuggets,Dallas Mavericks,143 2OT,144
+400579502,2015-04-13 00:00:00,Utah Jazz,Dallas Mavericks,109,92
+400579510,2015-04-15 00:00:00,Dallas Mavericks,Portland Trail Blazers,114,98
+400578304,2014-10-29 00:00:00,Utah Jazz,Houston Rockets,93,104
+400578342,2014-11-04 00:00:00,Miami Heat,Houston Rockets,91,108
+400578361,2014-11-06 00:00:00,Houston Rockets,San Antonio Spurs,98,81
+400578409,2014-11-12 00:00:00,Minnesota Timberwolves,Houston Rockets,101,113
+400578436,2014-11-16 00:00:00,Oklahoma City Thunder,Houston Rockets,65,69
+400578443,2014-11-17 00:00:00,Memphis Grizzlies,Houston Rockets,119,93
+400578560,2014-12-03 00:00:00,Houston Rockets,Memphis Grizzlies,105,96
+400578575,2014-12-05 00:00:00,Minnesota Timberwolves,Houston Rockets,112 OT,114
+400578638,2014-12-13 00:00:00,Houston Rockets,Denver Nuggets,108,96
+400578670,2014-12-17 00:00:00,Denver Nuggets,Houston Rockets,111 OT,115
+400578672,2014-12-18 00:00:00,Houston Rockets,New Orleans Pelicans,90,99
+400578688,2014-12-20 00:00:00,Houston Rockets,Atlanta Hawks,97,104
+400578703,2014-12-22 00:00:00,Houston Rockets,Portland Trail Blazers,110,95
+400578728,2014-12-26 00:00:00,Memphis Grizzlies,Houston Rockets,111 OT,117
+400578746,2014-12-28 00:00:00,San Antonio Spurs,Houston Rockets,110,106
+400578755,2014-12-29 00:00:00,Houston Rockets,Washington Wizards,103,104
+400578770,2014-12-31 00:00:00,Houston Rockets,Charlotte Hornets,102,83
+400578780,2015-01-02 00:00:00,New Orleans Pelicans,Houston Rockets,111,83
+400578789,2015-01-03 00:00:00,Houston Rockets,Miami Heat,115,79
+400578847,2015-01-10 00:00:00,Houston Rockets,Utah Jazz,97,82
+400578867,2015-01-14 00:00:00,Orlando Magic,Houston Rockets,120,113
+400578876,2015-01-15 00:00:00,Houston Rockets,Oklahoma City Thunder,112,101
+400579063,2015-02-08 00:00:00,Houston Rockets,Portland Trail Blazers,98,109
+400579124,2015-02-23 00:00:00,Houston Rockets,Minnesota Timberwolves,113,102
+400579184,2015-03-03 00:00:00,Atlanta Hawks,Houston Rockets,104,96
+400579193,2015-03-04 00:00:00,Houston Rockets,Memphis Grizzlies,100,102
+400579222,2015-03-07 00:00:00,Denver Nuggets,Houston Rockets,100,114
+400579253,2015-03-11 00:00:00,Portland Trail Blazers,Houston Rockets,105,100
+400579257,2015-03-12 00:00:00,Utah Jazz,Houston Rockets,109,91
+400579294,2015-03-17 00:00:00,Houston Rockets,Orlando Magic,107,94
+400579309,2015-03-19 00:00:00,Houston Rockets,Denver Nuggets,118,108
+400579360,2015-03-25 00:00:00,New Orleans Pelicans,Houston Rockets,93,95
+400579373,2015-03-27 00:00:00,Houston Rockets,Minnesota Timberwolves,120,110
+400579389,2015-03-29 00:00:00,Washington Wizards,Houston Rockets,91,99
+400579439,2015-04-05 00:00:00,Oklahoma City Thunder,Houston Rockets,112,115
+400579460,2015-04-08 00:00:00,San Antonio Spurs,Houston Rockets,110,98
+400579473,2015-04-10 00:00:00,Houston Rockets,San Antonio Spurs,103,104
+400579491,2015-04-12 00:00:00,Houston Rockets,New Orleans Pelicans,121,114
+400579494,2015-04-13 00:00:00,Charlotte Hornets,Houston Rockets,90,100
+400579511,2015-04-15 00:00:00,Houston Rockets,Utah Jazz,117,91
+400578301,2014-10-29 00:00:00,Memphis Grizzlies,Minnesota Timberwolves,105,101
+400578320,2014-11-01 00:00:00,Charlotte Hornets,Memphis Grizzlies,69,71
+400578337,2014-11-03 00:00:00,Memphis Grizzlies,New Orleans Pelicans,93,81
+400578370,2014-11-07 00:00:00,Oklahoma City Thunder,Memphis Grizzlies,89,91
+400578525,2014-11-28 00:00:00,Portland Trail Blazers,Memphis Grizzlies,99,112
+400578574,2014-12-05 00:00:00,Memphis Grizzlies,San Antonio Spurs,101,107
+400578588,2014-12-07 00:00:00,Memphis Grizzlies,Miami Heat,103,87
+400578626,2014-12-12 00:00:00,Memphis Grizzlies,Charlotte Hornets,113,107 2OT
+400578667,2014-12-17 00:00:00,San Antonio Spurs,Memphis Grizzlies,116 3OT,117
+400578704,2014-12-22 00:00:00,Memphis Grizzlies,Utah Jazz,91,97
+400578738,2014-12-27 00:00:00,Miami Heat,Memphis Grizzlies,95,103
+400578760,2014-12-30 00:00:00,Memphis Grizzlies,San Antonio Spurs,95,87
+400578792,2015-01-03 00:00:00,Denver Nuggets,Memphis Grizzlies,114,85
+400578818,2015-01-07 00:00:00,Atlanta Hawks,Memphis Grizzlies,96,86
+400578833,2015-01-09 00:00:00,New Orleans Pelicans,Memphis Grizzlies,106,95
+400578880,2015-01-16 00:00:00,Orlando Magic,Memphis Grizzlies,96,106
+400578896,2015-01-17 00:00:00,Memphis Grizzlies,Portland Trail Blazers,102,98
+400578962,2015-01-26 00:00:00,Memphis Grizzlies,Orlando Magic,103,94
+400578985,2015-01-29 00:00:00,Memphis Grizzlies,Denver Nuggets,99,69
+400579002,2015-01-31 00:00:00,Memphis Grizzlies,Oklahoma City Thunder,85,74
+400579032,2015-02-04 00:00:00,Utah Jazz,Memphis Grizzlies,90,100
+400579046,2015-02-06 00:00:00,Minnesota Timberwolves,Memphis Grizzlies,90,89
+400579059,2015-02-08 00:00:00,Memphis Grizzlies,Atlanta Hawks,94,88
+400579087,2015-02-11 00:00:00,Oklahoma City Thunder,Memphis Grizzlies,105,89
+400579120,2015-02-22 00:00:00,Portland Trail Blazers,Memphis Grizzlies,92,98
+400579165,2015-02-28 00:00:00,Minnesota Timberwolves,Memphis Grizzlies,97,101
+400579186,2015-03-03 00:00:00,Memphis Grizzlies,Utah Jazz,82,93
+400579215,2015-03-07 00:00:00,New Orleans Pelicans,Memphis Grizzlies,95,89
+400579255,2015-03-12 00:00:00,Washington Wizards,Memphis Grizzlies,107,87
+400579285,2015-03-16 00:00:00,Memphis Grizzlies,Denver Nuggets,92,81
+400579327,2015-03-21 00:00:00,Memphis Grizzlies,Portland Trail Blazers,97,86
+400579390,2015-03-29 00:00:00,San Antonio Spurs,Memphis Grizzlies,103,89
+400579424,2015-04-03 00:00:00,Memphis Grizzlies,Oklahoma City Thunder,100,92
+400579433,2015-04-04 00:00:00,Memphis Grizzlies,Washington Wizards,83,92
+400579458,2015-04-08 00:00:00,Memphis Grizzlies,New Orleans Pelicans,110,74
+400579477,2015-04-10 00:00:00,Utah Jazz,Memphis Grizzlies,88,89
+400578293,2014-10-28 00:00:00,New Orleans Pelicans,Orlando Magic,101,84
+400578346,2014-11-04 00:00:00,New Orleans Pelicans,Charlotte Hornets,100,91
+400578381,2014-11-08 00:00:00,San Antonio Spurs,New Orleans Pelicans,99,100
+400578420,2014-11-14 00:00:00,New Orleans Pelicans,Minnesota Timberwolves,139,91
+400578445,2014-11-17 00:00:00,Portland Trail Blazers,New Orleans Pelicans,102,93
+400578473,2014-11-21 00:00:00,Denver Nuggets,New Orleans Pelicans,117,97
+400578484,2014-11-22 00:00:00,Utah Jazz,New Orleans Pelicans,94,106
+400578517,2014-11-28 00:00:00,Atlanta Hawks,New Orleans Pelicans,100,91
+400578528,2014-11-29 00:00:00,Washington Wizards,New Orleans Pelicans,83,80
+400578550,2014-12-02 00:00:00,New Orleans Pelicans,Oklahoma City Thunder,112,104
+400578658,2014-12-16 00:00:00,New Orleans Pelicans,Utah Jazz,119,111
+400578686,2014-12-20 00:00:00,New Orleans Pelicans,Portland Trail Blazers,88,114
+400578700,2014-12-21 00:00:00,Oklahoma City Thunder,New Orleans Pelicans,99,101
+400578729,2014-12-26 00:00:00,New Orleans Pelicans,San Antonio Spurs,97,90
+400578773,2014-12-31 00:00:00,San Antonio Spurs,New Orleans Pelicans,95,93 OT
+400578807,2015-01-05 00:00:00,New Orleans Pelicans,Washington Wizards,85,92
+400578814,2015-01-07 00:00:00,Charlotte Hornets,New Orleans Pelicans,98,94
+400578939,2015-01-23 00:00:00,Minnesota Timberwolves,New Orleans Pelicans,84,92
+400578979,2015-01-28 00:00:00,New Orleans Pelicans,Denver Nuggets,85,93
+400579014,2015-02-02 00:00:00,New Orleans Pelicans,Atlanta Hawks,115,100
+400579030,2015-02-04 00:00:00,New Orleans Pelicans,Oklahoma City Thunder,91,102
+400579047,2015-02-06 00:00:00,Oklahoma City Thunder,New Orleans Pelicans,113,116
+400579072,2015-02-09 00:00:00,New Orleans Pelicans,Utah Jazz,96,100
+400579095,2015-02-20 00:00:00,Orlando Magic,New Orleans Pelicans,95,84
+400579109,2015-02-21 00:00:00,Miami Heat,New Orleans Pelicans,91,105
+400579157,2015-02-27 00:00:00,New Orleans Pelicans,Miami Heat,104,102
+400579176,2015-03-01 00:00:00,Denver Nuggets,New Orleans Pelicans,92,99
+400579276,2015-03-15 00:00:00,New Orleans Pelicans,Denver Nuggets,111 2OT,118
+400579386,2015-03-29 00:00:00,New Orleans Pelicans,Minnesota Timberwolves,110,88
+400579438,2015-04-04 00:00:00,Portland Trail Blazers,New Orleans Pelicans,99,90
+400579500,2015-04-13 00:00:00,Minnesota Timberwolves,New Orleans Pelicans,88,100
+400579515,2015-04-15 00:00:00,New Orleans Pelicans,San Antonio Spurs,108,103
+400578356,2014-11-05 00:00:00,San Antonio Spurs,Atlanta Hawks,94,92
+400578469,2014-11-21 00:00:00,Minnesota Timberwolves,San Antonio Spurs,92,121
+400578583,2014-12-06 00:00:00,San Antonio Spurs,Minnesota Timberwolves,123,101
+400578606,2014-12-09 00:00:00,Utah Jazz,San Antonio Spurs,100,96
+400578646,2014-12-14 00:00:00,Denver Nuggets,San Antonio Spurs,91,99
+400578653,2014-12-15 00:00:00,Portland Trail Blazers,San Antonio Spurs,108,95
+400578682,2014-12-19 00:00:00,San Antonio Spurs,Portland Trail Blazers,119 3OT,129
+400578720,2014-12-25 00:00:00,San Antonio Spurs,Oklahoma City Thunder,106,114
+400578791,2015-01-03 00:00:00,San Antonio Spurs,Washington Wizards,101,92
+400578848,2015-01-10 00:00:00,Minnesota Timberwolves,San Antonio Spurs,93,108
+400578861,2015-01-13 00:00:00,Washington Wizards,San Antonio Spurs,101,93
+400578866,2015-01-14 00:00:00,Charlotte Hornets,San Antonio Spurs,93,98
+400578887,2015-01-16 00:00:00,San Antonio Spurs,Portland Trail Blazers,110,96
+400578902,2015-01-18 00:00:00,San Antonio Spurs,Utah Jazz,89,69
+400578916,2015-01-20 00:00:00,Denver Nuggets,San Antonio Spurs,99,109
+400578981,2015-01-28 00:00:00,San Antonio Spurs,Charlotte Hornets,95,86
+400579031,2015-02-04 00:00:00,San Antonio Spurs,Orlando Magic,110,103
+400579049,2015-02-06 00:00:00,San Antonio Spurs,Miami Heat,98,85
+400579128,2015-02-23 00:00:00,Utah Jazz,San Antonio Spurs,90,81
+400579145,2015-02-25 00:00:00,Portland Trail Blazers,San Antonio Spurs,111,95
+400579213,2015-03-06 00:00:00,San Antonio Spurs,Denver Nuggets,120,111
+400579278,2015-03-15 00:00:00,San Antonio Spurs,Minnesota Timberwolves,123,97
+400579331,2015-03-22 00:00:00,Atlanta Hawks,San Antonio Spurs,95,114
+400579363,2015-03-25 00:00:00,San Antonio Spurs,Oklahoma City Thunder,130,91
+400579402,2015-03-31 00:00:00,Miami Heat,San Antonio Spurs,81,95
+400579405,2015-04-01 00:00:00,Orlando Magic,San Antonio Spurs,91,103
+400579426,2015-04-03 00:00:00,San Antonio Spurs,Denver Nuggets,123,93
+400579449,2015-04-07 00:00:00,Oklahoma City Thunder,San Antonio Spurs,88,113
+400578363,2014-11-07 00:00:00,Charlotte Hornets,Atlanta Hawks,122,119 2OT
+400578402,2014-11-12 00:00:00,Atlanta Hawks,Utah Jazz,100,97
+400578416,2014-11-14 00:00:00,Atlanta Hawks,Miami Heat,114,103
+400578497,2014-11-25 00:00:00,Washington Wizards,Atlanta Hawks,102,106
+400578529,2014-11-29 00:00:00,Atlanta Hawks,Charlotte Hornets,105,75
+400578559,2014-12-03 00:00:00,Miami Heat,Atlanta Hawks,102,112
+400578587,2014-12-07 00:00:00,Atlanta Hawks,Denver Nuggets,96,84
+400578622,2014-12-12 00:00:00,Atlanta Hawks,Orlando Magic,87,81
+400578635,2014-12-13 00:00:00,Orlando Magic,Atlanta Hawks,100,99
+400578784,2015-01-02 00:00:00,Utah Jazz,Atlanta Hawks,92,98
+400578793,2015-01-03 00:00:00,Portland Trail Blazers,Atlanta Hawks,107,115
+400578850,2015-01-11 00:00:00,Atlanta Hawks,Washington Wizards,120,89
+400578934,2015-01-23 00:00:00,Atlanta Hawks,Oklahoma City Thunder,103,93
+400578953,2015-01-25 00:00:00,Atlanta Hawks,Minnesota Timberwolves,112,100
+400578989,2015-01-30 00:00:00,Atlanta Hawks,Portland Trail Blazers,105,99
+400579024,2015-02-04 00:00:00,Atlanta Hawks,Washington Wizards,105,96
+400579071,2015-02-09 00:00:00,Minnesota Timberwolves,Atlanta Hawks,105,117
+400579150,2015-02-27 00:00:00,Atlanta Hawks,Orlando Magic,95,88
+400579163,2015-02-28 00:00:00,Miami Heat,Atlanta Hawks,91,93
+400579250,2015-03-11 00:00:00,Denver Nuggets,Atlanta Hawks,115,102
+400579318,2015-03-20 00:00:00,Oklahoma City Thunder,Atlanta Hawks,123,115
+400579354,2015-03-25 00:00:00,Orlando Magic,Atlanta Hawks,83,95
+400579369,2015-03-27 00:00:00,Atlanta Hawks,Miami Heat,99,86
+400579379,2015-03-28 00:00:00,Charlotte Hornets,Atlanta Hawks,115,100
+400579468,2015-04-10 00:00:00,Atlanta Hawks,Charlotte Hornets,104,80
+400579490,2015-04-12 00:00:00,Washington Wizards,Atlanta Hawks,108,99
+400578349,2014-11-05 00:00:00,Charlotte Hornets,Miami Heat,96,89
+400578399,2014-11-11 00:00:00,Portland Trail Blazers,Charlotte Hornets,102,100
+400578464,2014-11-21 00:00:00,Charlotte Hornets,Orlando Magic,100,105
+400578487,2014-11-23 00:00:00,Miami Heat,Charlotte Hornets,94,93
+400578502,2014-11-26 00:00:00,Charlotte Hornets,Portland Trail Blazers,97,105
+400578687,2014-12-20 00:00:00,Charlotte Hornets,Utah Jazz,104,86
+400578701,2014-12-22 00:00:00,Charlotte Hornets,Denver Nuggets,110,82
+400578730,2014-12-26 00:00:00,Oklahoma City Thunder,Charlotte Hornets,98,75
+400578736,2014-12-27 00:00:00,Charlotte Hornets,Orlando Magic,94,102
+400578787,2015-01-03 00:00:00,Orlando Magic,Charlotte Hornets,90,98
+400578903,2015-01-19 00:00:00,Charlotte Hornets,Minnesota Timberwolves,105,80
+400578917,2015-01-21 00:00:00,Charlotte Hornets,Miami Heat,78,76
+400579005,2015-01-31 00:00:00,Denver Nuggets,Charlotte Hornets,86,104
+400579011,2015-02-02 00:00:00,Washington Wizards,Charlotte Hornets,88,92
+400579034,2015-02-05 00:00:00,Charlotte Hornets,Washington Wizards,94,87
+400579108,2015-02-21 00:00:00,Charlotte Hornets,Oklahoma City Thunder,103,110
+400579174,2015-03-01 00:00:00,Orlando Magic,Charlotte Hornets,83,98
+400579230,2015-03-09 00:00:00,Charlotte Hornets,Washington Wizards,69,95
+400579289,2015-03-16 00:00:00,Utah Jazz,Charlotte Hornets,94,66
+400579337,2015-03-22 00:00:00,Minnesota Timberwolves,Charlotte Hornets,98,109
+400579368,2015-03-27 00:00:00,Washington Wizards,Charlotte Hornets,110,107 2OT
+400579447,2015-04-07 00:00:00,Miami Heat,Charlotte Hornets,105,100
+400578299,2014-10-29 00:00:00,Miami Heat,Washington Wizards,107,95
+400578377,2014-11-08 00:00:00,Miami Heat,Minnesota Timberwolves,102,92
+400578477,2014-11-22 00:00:00,Orlando Magic,Miami Heat,92,99
+400578542,2014-12-01 00:00:00,Washington Wizards,Miami Heat,107,86
+400578617,2014-12-10 00:00:00,Denver Nuggets,Miami Heat,102,82
+400578630,2014-12-12 00:00:00,Utah Jazz,Miami Heat,95,100
+400578665,2014-12-17 00:00:00,Miami Heat,Utah Jazz,87,105
+400578680,2014-12-19 00:00:00,Miami Heat,Washington Wizards,103,105
+400578754,2014-12-29 00:00:00,Miami Heat,Orlando Magic,101,102
+400578829,2015-01-08 00:00:00,Portland Trail Blazers,Miami Heat,99,83
+400578915,2015-01-20 00:00:00,Miami Heat,Oklahoma City Thunder,86,94
+400579029,2015-02-04 00:00:00,Minnesota Timberwolves,Miami Heat,102,101
+400579134,2015-02-25 00:00:00,Orlando Magic,Miami Heat,90 OT,93
+400579212,2015-03-06 00:00:00,Washington Wizards,Miami Heat,99,97
+400579299,2015-03-18 00:00:00,Miami Heat,Portland Trail Blazers,108,104
+400579316,2015-03-20 00:00:00,Miami Heat,Denver Nuggets,108,91
+400579330,2015-03-22 00:00:00,Oklahoma City Thunder,Miami Heat,93,75
+400579499,2015-04-13 00:00:00,Miami Heat,Orlando Magic,100,93
+400578308,2014-10-30 00:00:00,Orlando Magic,Washington Wizards,98,105
+400578364,2014-11-07 00:00:00,Orlando Magic,Minnesota Timberwolves,112,103 OT
+400578424,2014-11-15 00:00:00,Washington Wizards,Orlando Magic,98,93
+400578578,2014-12-05 00:00:00,Utah Jazz,Orlando Magic,93,98
+400578610,2014-12-10 00:00:00,Orlando Magic,Washington Wizards,89,91
+400578675,2014-12-19 00:00:00,Orlando Magic,Utah Jazz,94,101
+400578822,2015-01-07 00:00:00,Denver Nuggets,Orlando Magic,93,90
+400578849,2015-01-10 00:00:00,Portland Trail Blazers,Orlando Magic,103,92
+400578901,2015-01-18 00:00:00,Orlando Magic,Oklahoma City Thunder,99,127
+400579015,2015-02-02 00:00:00,Oklahoma City Thunder,Orlando Magic,104,97
+400579068,2015-02-09 00:00:00,Washington Wizards,Orlando Magic,96,80
+400579312,2015-03-20 00:00:00,Orlando Magic,Portland Trail Blazers,111,104
+400579336,2015-03-22 00:00:00,Orlando Magic,Denver Nuggets,100,119
+400579425,2015-04-03 00:00:00,Minnesota Timberwolves,Orlando Magic,84,97
+400578570,2014-12-05 00:00:00,Washington Wizards,Denver Nuggets,119,89
+400578642,2014-12-14 00:00:00,Washington Wizards,Utah Jazz,93,84
+400578655,2014-12-16 00:00:00,Washington Wizards,Minnesota Timberwolves,109,95
+400578781,2015-01-02 00:00:00,Oklahoma City Thunder,Washington Wizards,109,102
+400578925,2015-01-21 00:00:00,Washington Wizards,Oklahoma City Thunder,103 OT,105
+400578948,2015-01-24 00:00:00,Portland Trail Blazers,Washington Wizards,103,96
+400578958,2015-01-25 00:00:00,Denver Nuggets,Washington Wizards,115 OT,117
+400579140,2015-02-25 00:00:00,Minnesota Timberwolves,Washington Wizards,97,77
+400579283,2015-03-16 00:00:00,Washington Wizards,Portland Trail Blazers,105,97
+400579307,2015-03-18 00:00:00,Utah Jazz,Washington Wizards,84,88
+400578328,2014-11-01 00:00:00,Oklahoma City Thunder,Denver Nuggets,102,91
+400578388,2014-11-09 00:00:00,Portland Trail Blazers,Denver Nuggets,116,100
+400578407,2014-11-12 00:00:00,Denver Nuggets,Portland Trail Blazers,113,130
+400578460,2014-11-19 00:00:00,Denver Nuggets,Oklahoma City Thunder,107,100
+400578543,2014-12-01 00:00:00,Utah Jazz,Denver Nuggets,101,103
+400578551,2014-12-02 00:00:00,Denver Nuggets,Portland Trail Blazers,103,105
+400578732,2014-12-26 00:00:00,Denver Nuggets,Minnesota Timberwolves,106,102
+400578806,2015-01-05 00:00:00,Minnesota Timberwolves,Denver Nuggets,101,110
+400578898,2015-01-17 00:00:00,Denver Nuggets,Minnesota Timberwolves,105,113
+400579074,2015-02-09 00:00:00,Denver Nuggets,Oklahoma City Thunder,114,124
+400579118,2015-02-22 00:00:00,Oklahoma City Thunder,Denver Nuggets,119,94
+400579158,2015-02-27 00:00:00,Denver Nuggets,Utah Jazz,82,104
+400579194,2015-03-04 00:00:00,Minnesota Timberwolves,Denver Nuggets,85,100
+400579377,2015-03-27 00:00:00,Denver Nuggets,Utah Jazz,107,91
+400579383,2015-03-28 00:00:00,Portland Trail Blazers,Denver Nuggets,120,114
+400579413,2015-04-01 00:00:00,Utah Jazz,Denver Nuggets,98,84
+400578539,2014-11-30 00:00:00,Portland Trail Blazers,Minnesota Timberwolves,107,93
+400578613,2014-12-10 00:00:00,Minnesota Timberwolves,Portland Trail Blazers,90,82
+400578627,2014-12-12 00:00:00,Minnesota Timberwolves,Oklahoma City Thunder,92,111
+400578764,2014-12-30 00:00:00,Utah Jazz,Minnesota Timberwolves,100,94
+400578790,2015-01-03 00:00:00,Minnesota Timberwolves,Utah Jazz,89,101
+400578964,2015-01-26 00:00:00,Oklahoma City Thunder,Minnesota Timberwolves,92,84
+400579220,2015-03-07 00:00:00,Minnesota Timberwolves,Portland Trail Blazers,121,113
+400579263,2015-03-13 00:00:00,Oklahoma City Thunder,Minnesota Timberwolves,113,99
+400579344,2015-03-23 00:00:00,Utah Jazz,Minnesota Timberwolves,104 OT,106
+400579398,2015-03-30 00:00:00,Minnesota Timberwolves,Utah Jazz,84,104
+400579464,2015-04-08 00:00:00,Portland Trail Blazers,Minnesota Timberwolves,116,91
+400579514,2015-04-15 00:00:00,Minnesota Timberwolves,Oklahoma City Thunder,113,138
+400578307,2014-10-29 00:00:00,Portland Trail Blazers,Oklahoma City Thunder,106,89
+400578449,2014-11-18 00:00:00,Utah Jazz,Oklahoma City Thunder,98,81
+400578511,2014-11-26 00:00:00,Oklahoma City Thunder,Utah Jazz,97,82
+400578716,2014-12-23 00:00:00,Oklahoma City Thunder,Portland Trail Blazers,111 OT,115
+400578834,2015-01-09 00:00:00,Oklahoma City Thunder,Utah Jazz,99,94
+400579161,2015-02-27 00:00:00,Portland Trail Blazers,Oklahoma City Thunder,115,112
+400579382,2015-03-28 00:00:00,Utah Jazz,Oklahoma City Thunder,94,89
+400579501,2015-04-13 00:00:00,Oklahoma City Thunder,Portland Trail Blazers,101,90
+400579021,2015-02-03 00:00:00,Portland Trail Blazers,Utah Jazz,103,102
+400579104,2015-02-20 00:00:00,Utah Jazz,Portland Trail Blazers,92,76
+400579362,2015-03-25 00:00:00,Utah Jazz,Portland Trail Blazers,89,92
+400579483,2015-04-11 00:00:00,Portland Trail Blazers,Utah Jazz,105,111

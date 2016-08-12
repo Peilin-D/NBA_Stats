@@ -37,5 +37,6 @@ def Get_All_Teams():
     pk.dump(city_name_Dict, open('city_name.pickle', 'wb'))
     pk.dump(name_pref_Tuples, open('name_pref.pickle', 'wb'))
 
-if 
+if __name__ == '__main__':
+    Get_All_Teams()
 

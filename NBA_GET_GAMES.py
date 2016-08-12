@@ -33,7 +33,7 @@ def Get_All_Games(year):
     match_id = []
 
     for team, pref in name_pref_Tuples:
-        url = BASE_URL % (pref, str(year))
+        url = BASE_URL % (pref, str(year + 1))
         next_year = year
         html = urllib.urlopen(url).read()
         soup = BeautifulSoup(html, 'lxml')
@@ -100,6 +100,7 @@ def Get_All_Games(year):
     game_df2.to_csv('Games_' + str(year) + '.csv', index=False)
 
 
-
-
+if __name__ == '__main__':
+    year = int(sys.argv[1])
+    Get_All_Games(year)
 
