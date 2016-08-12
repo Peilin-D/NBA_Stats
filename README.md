@@ -24,6 +24,7 @@ Running this script would automatically run NBA_GET_TEAMS.py and NBA_GET_GAMES.p
 **Usage:** `python NBA_SORT_BY_WINS.py [year]`
 
 ### 4. NBA_SORT_BY_IMPROV.py
-Rank the teams by the improvement of their performance.
+Rank the teams by the improvement of their performance.  
+After each contest, I record the relative position (ranking) of each team, and after going through all the contests, I use the record of position changes to calculate the maximum improvement of each team and sort them by this improvement.  
 Running this script would automatically run NBA_GET_TEAMS.py and NBA_GET_GAMES.py if the files are not there.  
 **Usage:** `python NBA_SORT_BY_IMPROV.py [year]`
