@@ -27,9 +27,7 @@ def rank_by_improvement(year):
 
     improv_df = pd.DataFrame(improv_Dict).T
 
-    date_df = games_df.sort_values('date')
-
-    for idx, row in date_df.iterrows():
+    for idx, row in games_df.iterrows():
         home_team = row['home_team']
         visit_team = row['visit_team']
         home_score = int(row['home_score'].split()[0]) # possible 'OT'

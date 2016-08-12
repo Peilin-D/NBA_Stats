@@ -8,6 +8,15 @@ import pickle as pk
 from NBA_GET_TEAM import *
 
 def Get_All_Games(year):
+
+    # see if the data already exists
+    try:
+        games_df = pd.read_csv('Games_' + str(year) + '.csv')
+        print 'Data already exists'
+        return
+    except IOError:
+        pass
+
     # get the teams
     try:
         city_name_Dict = pk.load(open('city_name.pickle'))
@@ -92,12 +101,13 @@ def Get_All_Games(year):
                  'home_score':home_score, 
                  'visit_score':visit_score}
 
-    game_df = pd.DataFrame(game_data, columns = ['match_id', 'date', 'home_team', 'visit_team', 'home_score', 'visit_score']).drop_duplicates('match_id')
+    games_df = pd.DataFrame(game_data, columns = ['match_id', 'date', 'home_team', 'visit_team', 'home_score', 'visit_score']).drop_duplicates('match_id')
 
-    game_df2 = pd.DataFrame(data = game_df.values, index = range(len(game_df.index)), columns = ['match_id', 'date', 'home_team', 'visit_team', 'home_score', 'visit_score'])
+    games_df2 = pd.DataFrame(data = games_df.values, index = range(len(games_df.index)), columns = ['match_id', 'date', 'home_team', 'visit_team', 'home_score', 'visit_score'])
 
+    games_df2 = games_df2.sort_values('date')
     print 'Output all games csv file...'
-    game_df2.to_csv('Games_' + str(year) + '.csv', index=False)
+    games_df2.to_csv('Games_' + str(year) + '.csv', index=False)
 
 
 if __name__ == '__main__':
