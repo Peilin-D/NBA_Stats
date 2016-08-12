@@ -1,31 +1,31 @@
-,L,W,home_lose,home_win,visit_lose,visit_win
-San Antonio Spurs,20,62,9,32,11,30
-Oklahoma City Thunder,23,59,7,34,16,25
-LA Clippers,25,57,7,34,18,23
-Indiana Pacers,26,56,6,35,20,21
-Miami Heat,28,54,9,32,19,22
-Portland Trail Blazers,28,54,10,31,18,23
-Houston Rockets,28,54,8,33,20,21
-Golden State Warriors,31,51,14,27,17,24
-Memphis Grizzlies,32,50,14,27,18,23
-Dallas Mavericks,33,49,15,26,18,23
-Toronto Raptors,34,48,15,26,19,22
-Chicago Bulls,34,48,14,27,20,21
-Phoenix Suns,34,48,15,26,19,22
-Washington Wizards,38,44,19,22,19,22
-Brooklyn Nets,38,44,13,28,25,16
-Charlotte Hornets,39,43,16,25,23,18
-Minnesota Timberwolves,42,40,17,24,25,16
-Atlanta Hawks,44,38,17,24,27,14
-New York Knicks,45,37,22,19,23,18
-Denver Nuggets,46,36,19,22,27,14
-New Orleans Pelicans,48,34,19,22,29,12
-Cleveland Cavaliers,49,33,22,19,27,14
-Detroit Pistons,53,29,24,17,29,12
-Sacramento Kings,54,28,24,17,30,11
-Los Angeles Lakers,55,27,27,14,28,13
-Boston Celtics,57,25,25,16,32,9
-Utah Jazz,57,25,25,16,32,9
-Orlando Magic,59,23,22,19,37,4
-Philadelphia 76ers,63,19,31,10,32,9
-Milwaukee Bucks,67,15,31,10,36,5
+,W,visit_win,Avg_Score
+San Antonio Spurs,62,30,105
+Oklahoma City Thunder,59,25,106
+LA Clippers,57,23,107
+Indiana Pacers,56,21,96
+Portland Trail Blazers,54,23,106
+Miami Heat,54,22,102
+Houston Rockets,54,21,107
+Golden State Warriors,51,24,104
+Memphis Grizzlies,50,23,96
+Dallas Mavericks,49,23,104
+Phoenix Suns,48,22,105
+Toronto Raptors,48,22,101
+Chicago Bulls,48,21,93
+Washington Wizards,44,22,100
+Brooklyn Nets,44,16,98
+Charlotte Hornets,43,18,96
+Minnesota Timberwolves,40,16,106
+Atlanta Hawks,38,14,101
+New York Knicks,37,18,98
+Denver Nuggets,36,14,104
+New Orleans Pelicans,34,12,99
+Cleveland Cavaliers,33,14,98
+Detroit Pistons,29,12,101
+Sacramento Kings,28,11,100
+Los Angeles Lakers,27,13,102
+Boston Celtics,25,9,96
+Utah Jazz,25,9,95
+Orlando Magic,23,4,96
+Philadelphia 76ers,19,9,99
+Milwaukee Bucks,15,5,95
