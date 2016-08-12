@@ -19,10 +19,10 @@ The data is stored as:
 
 ### 3. NBA_SORT_BY_WINS.py
 Rank the teams by their performance (currently simply by the number of wins of each team).  
-Running this script would automatically run NBA_GET_TEAMS.py and NBA_GET_GAMES.py if the files are not there.
+Running this script would automatically run NBA_GET_TEAMS.py and NBA_GET_GAMES.py if the files are not there.  
 **Usage:** `python NBA_SORT_BY_WINS.py [year]`
 
 ### 4. NBA_SORT_BY_IMPROV.py
 Rank the teams by the improvement of their performance.
-Running this script would automatically run NBA_GET_TEAMS.py and NBA_GET_GAMES.py if the files are not there.
+Running this script would automatically run NBA_GET_TEAMS.py and NBA_GET_GAMES.py if the files are not there.  
 **Usage:** `python NBA_SORT_BY_IMPROV.py [year]`
