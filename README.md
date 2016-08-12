@@ -18,7 +18,8 @@ The data is stored as:
 **Usage:** `python NBA_GET_GAMES.py [year]`
 
 ### 3. NBA_SORT_BY_WINS.py
-Rank the teams by their performance (currently simply by the number of wins of each team).  
+Rank the teams by their performance.  
+Teams are sorted first by their number of wins (most significant), then by their number of visit wins, then by their average score per contest they played.  
 Running this script would automatically run NBA_GET_TEAMS.py and NBA_GET_GAMES.py if the files are not there.  
 **Usage:** `python NBA_SORT_BY_WINS.py [year]`
 
