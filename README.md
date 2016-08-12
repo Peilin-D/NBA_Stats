@@ -8,7 +8,7 @@ name_pref.pickle is a list of (team_name, team_name_prefix) tuples
 
 ### 2. NBA_GET_GAMES.py
 Get all the game results of the user input year (the year where the *regular* season begins).  
-The result would be stored as .csv file.
+The result would be stored as .csv file, and the results are sorted by date of contests.  
 The data is stored as:
 
 | match_id  | date       | home_team      | visit_team         | home_score | visit_score |
