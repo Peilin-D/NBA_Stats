@@ -18,11 +18,19 @@ The data is stored as:
 **Usage:** `python NBA_GET_GAMES.py [year]`
 
 ### 3. NBA_SORT_BY_WINS.py
-Rank the teams by their performance (currently simply by the number of wins of each team).  
+Rank the teams by their performance.  
+Teams are sorted first by their number of wins (most significant), then by their number of visit wins, then by their average score per contest they played.  
 Running this script would automatically run NBA_GET_TEAMS.py and NBA_GET_GAMES.py if the files are not there.  
 **Usage:** `python NBA_SORT_BY_WINS.py [year]`
 
 ### 4. NBA_SORT_BY_IMPROV.py
-Rank the teams by the improvement of their performance.
+Rank the teams by the improvement of their performance.  
+After each contest, I record the relative position (ranking) of each team, and after going through all the contests, I use the record of position changes to calculate the maximum improvement of each team and sort them by this improvement.  
 Running this script would automatically run NBA_GET_TEAMS.py and NBA_GET_GAMES.py if the files are not there.  
 **Usage:** `python NBA_SORT_BY_IMPROV.py [year]`
+
+### 5. Divide Teams & First Round Match-ups
+To divide the teams, suppose all 16 teams are labeled 1...16 (sorted by performance), then [2,4,6,...,16] is one group, [1,3,5,...,15]  is another group, this is to make sure that the two similarly strong teams won't meet until finals.
+
+In each group, the teams are divided similarly. So in the first group, the first round match-ups are [2,10], [6, 14], [4,12], [8, 16].
+In the second group the first round match-ups are [1,9], [5, 13], [3,11], [7, 15].
